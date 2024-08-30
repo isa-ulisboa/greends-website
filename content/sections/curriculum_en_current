@@ -83,7 +83,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr data-bs-target="#r1" data-bs-toggle="collapse">
-				<td scope="row">Fundamentals of agro-environmental Data Science <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Fundamentals of agro-environmental Data Science (2369)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -110,7 +110,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-fads-exercises" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr data-bs-target="#r2" data-bs-toggle="collapse">
-				<td scope="row">Introduction to Python <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Introduction to Python (2370)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -134,7 +134,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-ipython" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr data-bs-target="#r3" data-bs-toggle="collapse">
-				<td scope="row">Data Management and Storage <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Data Management and Storage (2371)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -177,7 +177,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr data-bs-target="#r4" data-bs-toggle="collapse">
-				<td scope="row">Analysis and Visualization of Complex Agro-Environmental Data <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Analysis and Visualization of Complex Agro-Environmental Data (2372)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -206,7 +206,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/avdcaamb-283463546570951" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-avcd/" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr data-bs-target="#r5" data-bs-toggle="collapse">
-				<td scope="row">Applied Machine Learning <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Applied Machine Learning (2373)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -257,7 +257,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr data-bs-target="#r6" data-bs-toggle="collapse">
-				<td scope="row">Data Science Seminar <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Data Science Seminar (2374)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -277,7 +277,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/semcd-283463546570710" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r7" data-bs-toggle="collapse">
-				<td scope="row">Data Science Hackathon Project <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td scope="row">Data Science Hackathon Project (2375)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -302,7 +302,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/phtcd-283463546570720" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-hackathon" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr>
-				<td>Dissertation/Project/Internship</td>
+				<td>Dissertation/Project/Internship (2376)</td>
 				<td>Final project</td>
 				<td>46</td>
 			</tr>
@@ -323,7 +323,7 @@
 		</thead>
 		<tbody>
 			<tr data-bs-target="#r9" data-bs-toggle="collapse">
-				<td>Statistics and Experimental Design <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Statistics and Experimental Design (2764)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -344,7 +344,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665536" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r8" data-bs-toggle="collapse">
-				<td>Applied Operations Research <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Applied Operations Research (2813)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -367,7 +367,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665549" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r27" data-bs-toggle="collapse">
-				<td>Geographic Information Systems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Geographic Information Systems (1503)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Transversal</td>
 				<td>English</td>
@@ -410,7 +410,7 @@
 				<a class="btn btn-outline-secondary" href="#" target="_blank" type="button">Ver no Fenix</a></td>
 			</tr>-->
 			<tr data-bs-target="#r29" data-bs-toggle="collapse">
-				<td>Sustainable Soil Management <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Sustainable Soil Management ()<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Transversal</td>
 				<td>Portuguese</td>
@@ -419,7 +419,7 @@
 				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386351" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r32" data-bs-toggle="collapse">
-				<td>Business Strategy and Project Evaluation <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Business Strategy and Project Evaluation (2176)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Transversal</td>
 				<td>Portuguese/English</td>
@@ -428,7 +428,7 @@
 				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386353" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r10" data-bs-toggle="collapse">
-				<td>Advanced Fertilization Techniques <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Advanced Fertilization Techniques (2892)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -444,7 +444,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665537" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r12" data-bs-toggle="collapse">
-				<td>Irrigation and Drainage <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Irrigation and Drainage (2865)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -460,7 +460,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665545" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r11" data-bs-toggle="collapse">
-				<td>Crop Protection <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Crop Protection (2861)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -476,7 +476,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665551" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r28" data-bs-toggle="collapse">
-				<td>Arable crops <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Arable crops ()<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Agronomic Engineering</td>
 				<td>Portuguese</td>
@@ -485,7 +485,7 @@
 				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386349" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r30" data-bs-toggle="collapse">
-				<td>Fruit Production <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Fruit Production (1382)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 1nd</td>
 				<td>Agronomic Engineering</td>
 				<td>Portuguese/English</td>
@@ -515,7 +515,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386348" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r31" data-bs-toggle="collapse">
-				<td>Viticulture <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Viticulture (1540)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Agronomic Engineering</td>
 				<td>Portuguese</td>
@@ -532,7 +532,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386350" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r13" data-bs-toggle="collapse">
-				<td>Industrial Plant Design <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Industrial Plant Design (1487)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -548,7 +548,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665544" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r15" data-bs-toggle="collapse">
-				<td>Communication and Marketing <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Communication and Marketing (2713)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -588,13 +588,13 @@
 				</ol>
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665540" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
-			<tr data-bs-target="#r14" data-bs-toggle="collapse">
-				<td>Food Quality Systems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<tr data-bs-target="#r14" data-bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
-	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	  <path fill-rule="evenods-toggle="collapse">
+				<td>Food Quality Systems <svg class="bd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
 				<td>1st / 1nd</td>
-				<td>Food Engineering</td>
+				<td>Food Engineering (2886)</td>
 				<td>&nbsp;</td>
 			</tr>
 			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r14">
@@ -615,7 +615,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665552" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r33" data-bs-toggle="collapse">
-				<td>Sustainable Innovative Processes in Food Engineering <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Sustainable Innovative Processes in Food Engineering ()<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Food Engineering</td>
 				<td>&nbsp;</td>
@@ -628,7 +628,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386354" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r16" data-bs-toggle="collapse">
-				<td>Methodologies for Environmental Sustainability Assessment <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Methodologies for Environmental Sustainability Assessment ()<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -658,7 +658,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665542" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r17" data-bs-toggle="collapse">
-				<td>Project - Environment <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Project - Environment (1634)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -683,7 +683,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665543" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r18" data-bs-toggle="collapse">
-				<td>Integrated Solid Waste Treatment Technologies <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Integrated Solid Waste Treatment Technologies (2901)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -720,7 +720,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665553" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r19" data-bs-toggle="collapse">
-				<td>Environmental Economics and Natural Resources <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Environmental Economics and Natural Resources (2750)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -743,7 +743,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665535" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r20" data-bs-toggle="collapse">
-				<td>Remote Sensing <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Remote Sensing (2727)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -759,7 +759,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665533" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r21" data-bs-toggle="collapse">
-				<td>Modelling of Forest Ecosystems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Modelling of Forest Ecosystems (2827)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -789,7 +789,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665541" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r22" data-bs-toggle="collapse">
-				<td>Fire Ecology and Management <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Fire Ecology and Management (2746)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -805,7 +805,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665548" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r23" data-bs-toggle="collapse">
-				<td>Functioning of Forest Ecosystems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Functioning of Forest Ecosystems (2772)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -825,7 +825,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665550" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r24" data-bs-toggle="collapse">
-				<td>Management and Conservation of Freshwater Ecosystems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Management and Conservation of Freshwater Ecosystems (2794)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -844,7 +844,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665539" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r25" data-bs-toggle="collapse">
-				<td>Animal Population Ecology and Management <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Animal Population Ecology and Management (2745)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
@@ -860,7 +860,7 @@
 				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665534" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r26" data-bs-toggle="collapse">
-				<td>Vegetation Management and Conservation <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>Vegetation Management and Conservation (2789)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
 	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
 	</svg>-->
