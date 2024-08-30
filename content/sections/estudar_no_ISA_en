@@ -1,0 +1,93 @@
+<div class="row featurette py-5">
+<div class="col-md-7">
+<h2 class="featurette-heading">Study at the largest and most qualified school in Agricultural Sciences in Portugal.</h2>
+
+<p>Instituto Superior de Agronomia of the Universidade de Lisboa (ISA) is, in Portugal, the largest and most qualified undergraduate and graduate school in Agricultural Sciences. With more than 160 years of experience, ISA benefits from the unique conditions of the Tapada da Ajuda Campus for an applied teaching that follows the knowledge and technological evolution. The focus is on quality and modernization.</p>
+
+<p>We are proud to be one of the schools with the best scientific output indicators among portuguese universities, with a bubbling scientific activity and multiple collaborations with national and international organizations.</p>
+
+<p>We prepare our students in basic sciences and engineering tools, in order to solve complex problems related to landscape and ecosystem management and the production of food, fiber and energy, in the context of Food, Agronomic, Forestry, Environmental, Zootechnics, and Biology and Landscape Architecture. The Master's <span class="green-ds-name">Green Data Science</span> adds a new dimension to the teaching and application valences of ISA, in response to the challenges of the 4th technological revolution.</p>
+
+<p>At the Tapada da Ajuda Campus you can study in an environment with 100 ha, in the interior of the city of Lisbon, which harmoniously combines teaching areas, agricultural crops, a botanical park and reserve.</p>
+<a class="btn btn-outline-secondary" href="https://www.isa.ulisboa.pt/apresentacao/o-isa" type="button">More about ISA</a></div>
+
+<div class="col-md-5 embed-responsive"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item embed-responsive-16by9" frameborder="0" height="281" src="https://www.youtube.com/embed/PWiiXvLcTD4" title="YouTube video player" width="500"></iframe><br />
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" frameborder="0" height="281" src="https://www.youtube.com/embed/Z0q1kiVUawM" title="YouTube video player" width="500"></iframe></div>
+</div>
+
+<div class="row featurette py-5">
+<h2 class="featurette-heading">Testimonials about the <span class="green-ds-name">Green Data Science</span> Master Programme</h2>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_01.png" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Given that I deal with data on a daily basis at my job, this Master's degree was the ideal choice to teach me how to do it correctly. The course content is highly valuable, and the schedule is ideal for working students. I had the opportunity to work on my own projects, which made it far more exciting and connected to my job."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Inês Silveira</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_02.png" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"I come from an agricultural engineering background and the choice for this master's degree Green Data Science could not have been a better choice, where I combine my area of study with my passion in technologies and process automation. So far I am very happy with the option I made and, for me, the word that best describes this master would be: challenging."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Diogo Pinto</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_03.jpeg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Evidence-based decision-making is crucial to meet the needs of the world's growing population while overcoming the environmental crisis. By using data science to promote sustainable resource management, this unprecedented Master's programme harnesses the power of today's technologies to address the critical global issues facing humanity."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Johanna Rauberger</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_07.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"I had zero coding experience, but if you are willing to learn to code, you can do everything in this Master. It may be overwhelming, but if you are persistent, you will reach your goal."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Joana Esteves</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row featurette">
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_04.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"I'm from landscape architecture and this degree allowed me to conciliate two masters at the same time. With the wide amount of optative disciplines, I could pick the most relevant for my professional future. The integration of data science with the other disciplines comes alive at ISA, I could innovate methods in several disciplines in ways never presented before."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Vasco Florentino</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_05.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"I had an amazing experience in the master's degree program in Green Data Science at ISA. The curriculum was carefully planned and covered all the essential areas of data analysis, machine learning, and programming skills. The professors were highly knowledgeable and passionate, and they were patient and understanding, especially considering my limited coding experience. I must also mention that ISA itself is a remarkably beautiful place to study. The campus and its surroundings create a peaceful and motivating environment for learning. I feel fortunate to be a part of such a vibrant academic community, where classmates and other individuals at ISA have been incredibly supportive and inspiring. The sense of camaraderie and collaboration among everyone at ISA has truly enhanced my overall experience."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Aziza Tanfous</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../../sites/default/files/2023-05/student_06.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"I have a Degree in Food Engineering and I had the opportunity to enter this Master in Data Science recently. This experience has been really good. The transition to Data Science was easy, thanks to the teachers and the well-structured curriculum. The combination of theoretical and practical classes allowed me to acquire the knowledge needed quickly, in addition to being able to apply data from my area of study in the work and projects we are developing. I am pleased to have chosen this master's degree, as it opened up new opportunities that I am sure will appear in the future, in addition to which is closely linked to all types of Food Industry and beyond. I recommend it to all those who are curious to know how apply automation and Artificial Intelligence in their areas of study."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Miguel Paulo</p>
+</div>
+</div>
+</div>
+</div>
+

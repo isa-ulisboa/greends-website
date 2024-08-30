@@ -1,0 +1,63 @@
+<div class="row featurette">
+<div class="col-md-7">
+<h2 class="featurette-heading py-3">A master's degree in Data Science applied to agricultural and food sciences, environment, and forestry engineering. <span class="text-muted">Ideal for developing and expanding new digital skills in areas of the environmental sciences.</span></h2>
+
+<p>The Green Data Science master’s trains professionals in the application of Data Science to the areas of production and management of natural resources and the environment. The program is designed for both students who want to build a career in applied data science as well as for active professionals looking for new skills to improve performance and efficiency in agriculture, food science, forestry and environment industries.</p>
+
+<h3 class="pt-4 pb-3">The program focuses on data analysis and computer science techniques to apply to real problems.</h3>
+
+<p>Large volumes of data (Big Data) are increasingly generated using new technologies (sensors and IoT, satellite images, environmental data) in precision agriculture, food chain management, environmental monitoring, and other related sciences. To process and analyze these large amounts of data, frameworks are needed that use data science methodologies, combined with deep scientific knowledge, and technical expertise in the relevant domains. For example, an agronomist familiar with the dynamics of a particular crop pest will be better able to identify which parameters to monitor in an alert system based on artificial intelligence.</p>
+
+<p>Environmental science, agriculture, forestry engineering, and biodiversity present specific challenges in accessing and analysing information for several reasons: i) the systems are intrinsically multidimensional, requiring multivariate solutions and ii) the types of information are diverse, necessitating the analysis and synthesis of multiple types of data (biological, agronomic, environmental, geographic, remote, climatic, socio-economic, etc.), often with dimensions that require the support of big data tools.</p>
+
+<p>Graduates of this course will be prepared to work at the intersection of computational and environmental sciences. Trained to apply new digital techniques, artificial intelligence, and machine learning to agricultural, forestry, environmental and food sciences, they will be poised to capitalize on the use of data and information to support decision-making and improve efficiency and sustainability.</p>
+
+<h3 class="pt-4 pb-3">For students with different areas of expertise</h3>
+
+<p>The master's degree will provide the fundamental pillars of data science focused on applications relevant to agronomy, food science, forestry engineering and environmental sciences. It is therefore aimed at individuals from a range of areas, in particular:</p>
+
+<ul>
+	<li>students with undergraduate degrees in agricultural, forestry, environmental sciences, biology and others, who wish to deepen their knowledge in these areas, but with a particular focus on the analysis and computation of information.</li>
+	<li class="pt-3">professionals in these areas who seek to acquire new skills and would benefit from the applied nature of the master's degree, which will provide a framework for questions based on their experience.</li>
+</ul>
+<a class="btn btn-outline-secondary" href="./curriculum" type="button">See curriculum</a><a class="btn btn-outline-secondary" href="./application" type="button">More about the application</a></div>
+
+<div class="col-md-4 mt-3"><!-- Jumbotron -->
+<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white" style="background-image: url('../sites/default/files/2022-05/code_0.jpg');">
+<h1 class="mb-3 h2">Highlights</h1>
+
+<ul class="mt-auto fw-bold">
+	<li class="me-auto pt-3">Develop skills in applying Data Science to sustainable production and management of natural resources; ;</li>
+	<li class="me-auto pt-3">Benefit from ISA's wide experience and knowledge;</li>
+	<li class="me-auto pt-3">Teaching focused on practical applications;</li>
+</ul>
+</div>
+
+<div class="bg-light p-3">
+<h3>Informations</h3>
+
+<ul class="list-unstyled">
+	<li>Duration: 2 years (4 semesters), 120 ECTS</li>
+	<li>Vacancies: 30</li>
+	<li>Language: Portuguese/English</li>
+	<li>Programme management: <a href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa">Fenix</a></li>
+</ul>
+
+<h3>Evaluation/Accreditation/Registry</h3>
+
+<ul class="list-unstyled">
+	<li><a href="https://www.a3es.pt/pt/resultados-acreditacao/ciencia-de-dados-em-agricultura-alimentacao-floresta-e-ambiente">Accreditation A3ES</a></li>
+	<li>Registry DGES: R/A-Cr 165/2022</li>
+	<li>Official publication: <a href="https://files.dre.pt/2s/2022/09/189000000/0010500109.pdf">Dispatch n.º 11559/2022</a> (in Portuguese)</li>
+</ul>
+
+<h3>Annual tuition</h3>
+
+<ul class="list-unstyled">
+	<li>Students from EU: 1250,00€</li>
+	<li>Students from outside EU: 3000,00€</li>
+</ul>
+</div>
+<!-- Jumbotron --></div>
+</div>
+

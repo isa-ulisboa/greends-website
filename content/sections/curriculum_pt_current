@@ -1,0 +1,861 @@
+<div class="row featurette">
+<div class="col-md-7">
+<h2 class="featurette-heading py-3">Criar um plano de estudos ajustado às áreas de interesse. <span class="text-muted">Associar a Ciência de Dados à especialização...</span></h2>
+
+<p>O mestrado Ciência de Dados em Agricultura, Alimentação Florestas e Ambiente, com a duração de 2 anos, permite a criação de um plano de estudos ajustado à área de interesse do aluno. O curso tem a seguinte estrutura:</p>
+
+<div class="row">
+<div class="col-lg-4">
+<div class="card h-100 p-4 bg-light border rounded-3">
+<div class="card-body">
+<h3><svg class="bi bi-collection" fill="currentColor" height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"> <path d="M2.5 3.5a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1zm2-2a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM0 13a1.5 1.5 0 0 0 1.5 1.5h13A1.5 1.5 0 0 0 16 13V6a1.5 1.5 0 0 0-1.5-1.5h-13A1.5 1.5 0 0 0 0 6zm1.5.5A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5z"></path> </svg></h3>
+<!-- <h3><i class="bi bi-collection"></i></h3> -->
+
+<h3>7 unidades curriculares obrigatórias</h3>
+
+<p class="py-2">Bloco dedicado à aprendizagem e prática sobre <strong>fundamentos e metodologias de ciência de dados</strong>.</p>
+
+<p class="pt-3">44 créditos ECTS</p>
+
+<p class="mt-auto"><a class="btn btn-outline-secondary" href="#obrigatorias" type="button">Ver</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="card h-100 p-4 bg-light border rounded-3">
+<div class="card-body">
+<h3><svg class="bi bi-collection" fill="currentColor" height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"> <path d="M2.5 3.5a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1zm2-2a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM0 13a1.5 1.5 0 0 0 1.5 1.5h13A1.5 1.5 0 0 0 16 13V6a1.5 1.5 0 0 0-1.5-1.5h-13A1.5 1.5 0 0 0 0 6zm1.5.5A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5z"></path> </svg></h3>
+<!-- <h3><i class="bi bi-collection"></i></h3> -->
+
+<h3>5 unidades curriculares optativas</h3>
+
+<p class="py-2">Um conjunto de unidades curriculares optativas seleccionadas pelo aluno para <strong>aprofundar a especialização</strong> na área de interesse.</p>
+
+<p class="pt-3">30 créditos ECTS</p>
+
+<p class="mt-auto"><a class="btn btn-outline-secondary" href="#optativas" type="button">Ver</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="card h-100 p-4 bg-light border rounded-3">
+<div class="card-body">
+<h3><svg class="bi bi-lightbulb" fill="currentColor" height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"> <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a2 2 0 0 0-.453-.618A5.98 5.98 0 0 1 2 6m6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1"></path> </svg></h3>
+<!-- <h3><i class="bi bi-lightbulb"></i></h3> -->
+
+<h3>Dissertação / Projeto / Estágio</h3>
+
+<p class="py-2">Componente final do plano de estudos, para <strong>explorar um tema específico</strong> cuja apresentação e avaliação confere o grau de mestre.</p>
+
+<p class="pt-3">46 créditos ECTS</p>
+</div>
+</div>
+</div>
+</div>
+
+<h3 class="pt-5 pb-3">Progredir na aprendizagem com base na prática</h3>
+
+<p>O mestrado privilegia a prática como metodologia de ensino. Nas unidades curriculares dedicadas à ciência de dados, o tempo de ensino presencial em sala de aula é reduzido, a favor de exercícios e trabalho prático autónomo pelos alunos.</p>
+
+<p>A experiência de aprendizagem prática é também facilitada por um ambiente formado por ferramentas e metodologias que são comuns a todas as unidades curriculares de ciência de dados. Deste modo, os alunos progridem na aprendizagem, desde a gestão de dados, programação, análise e visualização, e modelação e aprendizagem automática, enquanto aprofundam o domíno das principais ferramentas usadas pelas comunidades de ciência de dados (e.g., python, jupyter notebook, Google colab, SQL, pandas, numpy, scikit-learn, ou outras que entretanto emerjam).</p>
+
+<p>A aprendizagem inclui também a promoção de soft skills. O uso de ferramentas colaborativas será constante em todas as fases do curso, incluindo a partilha de código e soluções na cloud, e o recurso a foruns de discussão. Em <strong>Projeto Hackathon</strong>, os alunos formam equipas multidisciplinares, em que serão desenvolvidas soluções para problemas propostos por empresas parceiras do mestrado.</p>
+
+<h3 class="pt-4 pb-3">Aumentar o conhecimento na especialização</h3>
+
+<p>Os alunos podem definir o seu perfil de especialidade através da selecção de 5 unidades curriculares (30 ECTS), a partir da lista de <a href="#optativas">opções disponibilizada</a> ao mestrado. Estas unidades têm por base e são partilhadas com vários mestrados do ISA, que garantem a formação de mais alta qualidade nos domínios da agricultura, alimentação, florestas e ambiente.</p>
+
+<p>Estas unidades de especialidade permitem, contudo, uma extensão da aplicação das metodologias de ciência de dados, que é usada em parte da componente prática, em aplicações que demonstram o poder da sua aplicação.</p>
+
+<h3 class="pt-4 pb-3" id="obrigatorias">Plano de estudos</h3>
+
+<p><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa" target="_blank" type="button">Ver no Fenix</a></p>
+
+<table class="table">
+	<thead class="table-light">
+		<tr>
+			<td>Unidade Curricular</td>
+			<td>&nbsp;</td>
+			<td>Créditos</td>
+			<td>Língua</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1º ano / 1º semestre</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr data-bs-target="#r1" data-bs-toggle="collapse">
+			<td scope="row">Fundamentos da Ciência de Dados Agro-Ambientais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>6</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r1">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Definição de Ciência de Dados (CD);</li>
+				<li>Fundamentos, soluções e exemplos de aplicação na transição digital na produção alimentar, gestão de recursos naturais e ambiente;</li>
+				<li>Visão geral sobre tópicos e algoritmos de CD;</li>
+				<li>Metodologia de CD;</li>
+				<li>Fases da metodologia;</li>
+				<li>Compreensão das áreas de aplicação, aquisição, preparação e análise dos dados, modelação, avaliação, implementação, relatório e feedback;</li>
+				<li>Breve introdução às ferramentas da CD e potencial de aplicação a cada uma das fases da metodologia;</li>
+				<li>Introdução sobre a análise de grandes volumes de dados e computação na nuvem;</li>
+				<li>Recursos de dados disponíveis;</li>
+				<li>Ética no acesso e uso da informação.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/fcda-a-283463546570721" target="_blank" type="button">Ver no Fenix </a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-fads-exercises" target="_blank" type="button">Repositório </a></td>
+		</tr>
+		<tr data-bs-target="#r2" data-bs-toggle="collapse">
+			<td scope="row">Introdução ao Python <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>6</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r2">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Instalação e configuração de interpretador python e de ambientes de desenvolvimento, com ênfase para ambientes colaborativos;</li>
+				<li>Introdução ao python e algoritmos. Noções básicas de programação em python (variáveis, operadores, condições, loops, funções, dataTypes, etc);</li>
+				<li>Estruturação de um programa. Importação de bibliotecas e reutilização de código;</li>
+				<li>Manuseamento de ficheiros (leitura-escrita), directorias e acesso e manuseamento de ficheiros de grandes dimensões;</li>
+				<li>Interação com argumentos de execução na linha de comandos;</li>
+				<li>Aceder e fornecer um serviço de dados (APIs);</li>
+				<li>Estruturação de um programa para processamento em sequência e em paralelo e em ambiente grid.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">Ver no Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-ipython" target="_blank" type="button">Repositório </a></td>
+		</tr>
+		<tr data-bs-target="#r3" data-bs-toggle="collapse">
+			<td scope="row">Gestão e armazenamento de dados <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>6</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r3">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Introdução à gestão de dados e aos sistemas de gestão de dados;</li>
+				<li>Tipos de bases de dados;</li>
+				<li>Conceito de bases de dados relacional;</li>
+				<li>Linguagem SQL e aplicação para criação e uso de bases de dados;</li>
+				<li>Principais tecnologias de bases de dados open-source e proprietárias;</li>
+				<li>Sistemas NoSQL e sua aplicação;</li>
+				<li>Princípios de qualidade de dados, vocabulários e ontologias;</li>
+				<li>Ferramentas e recursos para a verificação de qualidade de dados, organização e normalização;</li>
+				<li>Uso de identificadores únicos globais e resolúveis, rastreabilidade;</li>
+				<li>Recursos de dados agroambientais;</li>
+				<li>Introdução ao conceito de conjuntos grandes de dados e suas especificidades em relação à produção, armazenamento e análise.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/gestadad-283463546570712" target="_blank" type="button">Ver no Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-dms-exercises" target="_blank" type="button">Repositório </a></td>
+		</tr>
+		<tr>
+			<td>Opção 1</td>
+			<td>&nbsp;</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>Opção 2</td>
+			<td>&nbsp;</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>1º ano / 2º semestre</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr data-bs-target="#r4" data-bs-toggle="collapse">
+			<td scope="row">Análise e visualização de dados complexos agro-ambientais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>6</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r4">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Principais ferramentas de análise e visualização de dados em Python (Pandas, Plotly, Matplotlib, Seaborn, Bokeh, geoplotlib);</li>
+				<li>Tipos de dados e identificação de variáveis;</li>
+				<li>Sumários estatísticos;</li>
+				<li>Distribuição empírica dos dados;</li>
+				<li>Padronização e transformação de dados;</li>
+				<li>Redução da dimensionalidade dos dados: métodos de ordenação multivariada;</li>
+				<li>Análise de correlação e regressão;</li>
+				<li>Princípios de design aplicados à visualização de informação;</li>
+				<li>Visualização gráfica uni, bi e multivariada;</li>
+				<li>Representações avançadas de informação;</li>
+				<li>Representação de dados espaciais;</li>
+				<li>Criação de painéis visuais interativos de informação (dashboards).</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/avdcaamb-283463546570951" target="_blank" type="button">Ver no Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-avcd/" target="_blank" type="button">Repositório </a></td>
+		</tr>
+		<tr data-bs-target="#r5" data-bs-toggle="collapse">
+			<td scope="row">Aprendizagem automática aplicada <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>6</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r5">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>O que é aprendizagem automática? Primeiros exemplos;</li>
+				<li>Problemas de classificação e de agrupamento (“clustering”);</li>
+				<li>Extração de variáveis e organização dos dados de entrada;</li>
+				<li>Variável resposta binária: regra de decisão e riscos;</li>
+				<li>Avaliação da qualidade do classificador: erros de omissão e erros de comissão;</li>
+				<li>Variável resposta categórica: árvores de decisão;</li>
+				<li>“Ensemble” de classificadores: “random forests”;</li>
+				<li>Redes neuronais;</li>
+				<li>Redes convolucionais e “deep learning” para problemas sobre imagens.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/aaap-283463546570956" target="_blank" type="button">Ver no Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-pml" target="_blank" type="button">Repositório </a></td>
+		</tr>
+		<tr>
+			<td>Opção 3</td>
+			<td>&nbsp;</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>Opção 4</td>
+			<td>&nbsp;</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>Opção 5</td>
+			<td>&nbsp;</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>2º ano</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr data-bs-target="#r6" data-bs-toggle="collapse">
+			<td scope="row">Seminário em Ciência de Dados <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>2</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r6">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Preparar apresentações sintéticas de casos de aplicação de Ciências de Dados relacionados com o tema a desenvolver na dissertação de mestrado;</li>
+				<li>Apresentar o trabalho de dissertação do aluno em formato compacto, apoiado por visualização avançada de dados;</li>
+				<li>Desenvolver “presentation skills”.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/semcd-283463546570710" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r7" data-bs-toggle="collapse">
+			<td scope="row">Projeto Hackathon de Ciência de Dados <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>Obrigatória</td>
+			<td>12</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r7">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Desenvolvimento de um projeto proposto pelas empresas parceiras, na modalidade de hackathon, em equipas constituídas pelos seguintes perfis: i) especialista do domínio; ii) coordenador da equipa; iii) analista; iv) programador; v) relator/comunicador. A unidade curricular terá um seminário inicial de apresentação dos problemas propostos pelas empresas, que será complementado sobre a caracterização do funcionamento do projeto hackathon. Este seminário incluirá os seguintes conteúdos:</p>
+
+			<ol>
+				<li>caracterização de um projeto hackathon;</li>
+				<li>funções, caracterização e responsabilidades membros das equipas;</li>
+				<li>ferramentas para desenvolvimento colaborativo de código, documentação e informação;</li>
+				<li>definição de objectivos e metas num projeto de ciência de dados.</li>
+			</ol>
+
+			<p>Estes conteúdos serão complementados com conteúdos programáticos ajustadas ao projeto específico, quer das valências de ciências de dados, quer das componentes específicas do sistema em análise.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/phtcd-283463546570720" target="_blank" type="button">Ver no Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-hackathon" target="_blank" type="button">Repositório </a></td>
+		</tr>
+		<tr>
+			<td>Dissertação/projeto/estágio</td>
+			<td>Trabalho final</td>
+			<td>46</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3 class="pt-4 pb-1" id="optativas">Unidades curriculares optativas</h3>
+<p class="pb-3">(Todas com 6 créditos)</p>
+
+<table class="table">
+	<thead class="table-light">
+		<tr>
+			<td>Unidade Curricular</td>
+			<td>Ano / Semestre</td>
+			<td>Área</td>
+			<td>Língua</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr data-bs-target="#r9" data-bs-toggle="collapse">
+			<td>Estatística e Delineamento Experimental<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Transversal</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r9">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Testes de hipóteses para dados de contagens, baseados na estatística de Pearson;</li>
+				<li>Regressão Linear Simples (contextos descritivo e inferencial);</li>
+				<li>Regressão Linear Múltipla (contextos descritivo e inferencial);</li>
+				<li>Análises de Variância (discussão de conceitos introdutórios de delineamento experimental; modelos ANOVA para alguns delineamentos experimentais elementares).programação linear;</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665536" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r8" data-bs-toggle="collapse">
+			<td>Investigação Operacional Aplicada <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Transversal</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r8">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Conceitos básicos e exemplos de aplicação em quatro tópicos principais:</p>
+
+			<ol>
+				<li>programação linear;</li>
+				<li>modelos de rede;</li>
+				<li>programação inteira;</li>
+				<li>análise de decisão multicritério.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665549" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r27" data-bs-toggle="collapse">
+			<td>Sistemas de Informação Geográfica <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Transversal</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r27">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Estruturas de dados espaciais.</li>
+				<li>Definição de operações espaciais básicas.</li>
+				<li>Integração de dados. Criação de modelos cartográficos.</li>
+				<li>Utilização do Arc/GIS.</li>
+				<li>Resolução de problemas de modelação envolvendo dados espaciais.</li>
+				<li>Operações de análise espacial avançadas.</li>
+				<li>Implementação de geodatabases.</li>
+				<li>Definição de restrições de integridade dos dados.</li>
+				<li>Análise espacial em redes.</li>
+				<li>Introdução ao desenvolvimento de procedimentos automáticos para processamento de dados espaciais.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386352" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<!--<tr data-bs-target="#r34" data-bs-toggle="collapse">
+			<td>Geoprocessamento e Análise Espacial <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Transversal</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r34">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Noções básicas de programação Python (variáveis, tipos de dados, funções, instruções condicionais, ciclos, etc.). Boas práticas para escrever código Python (por exemplo, modularidade, legibilidade, tratamento de erros).</li>
+				<li>Conceitos e ferramentas de geoprocessamento. Formatos de dados geoespaciais (por exemplo, shapefile, GeoTIFF).</li>
+				<li>Bibliotecas Python para GIS (por exemplo, geopandas, rasterio, gdal, pyqgis, arcpy, ee, geemap) para entrada/saída, análise espacial e visualização.</li>
+				<li>Interagir com a aplicação GIS a partir do código Python (por exemplo, aceder a dados, ferramentas de processamento, criar mapas, etc.)</li>
+				<li>APIs Python para aceder e processar dados on-line (por exemplo, API do Google Earth Engine). Serviços Web e APIs</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="#" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>-->
+		<tr data-bs-target="#r29" data-bs-toggle="collapse">
+			<td>Gestão Sustentável dos Solos <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Transversal</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r29">
+			<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386351" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r32" data-bs-toggle="collapse">
+			<td>Estratégia Empresarial e Avaliação de Projetos <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Transversal</td>
+			<td>Português/Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r32">
+			<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386353" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r10" data-bs-toggle="collapse">
+			<td>Técnicas Avançadas de Fertilização <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Agronómica</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r10">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Fertilizantes: classificação, características, critérios para seleção e riscos associados à utilização, adubos minerais convencionais (elementares e compostos), adubos minerais especiais (com acronutrientes secundários e micronutrientes, quelatos, estabilizados, de libertação lenta, de libertação controlada de nutrientes, biofertilizantes), adubos orgânicos e minero-orgânicos. Corretivos minerais. Corretivos orgânicos, valorização de resíduos orgânicos (dejectos animais, resíduos das indústrias agrícolas e alimentares, composto de RSU e lamas de ETAR). Fertilização: recomendações de fertilização baseadas em análise de terra análise de plantas. A adubação de fundo, de cobertura a fertirrega e a adubação foliar. Aspetos práticos da fertilização de algumas culturas e elaboração dos respetivos planos de fertilização. Fertilização em cultivo sem solo: substratos (materiais e suas propriedades), qualidade da água, formulação de soluções nutritivas. Visita de estudo a exploração agrícola.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665537" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r12" data-bs-toggle="collapse">
+			<td>Rega e drenagem <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Agronómica</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r12">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Programação e condução da rega. Pré‐requisitos: bases biofísicas. O uso da água e o conforto hídrico. Evapotranspiração de referência e das culturas: conceitos, definições, cálculos. Coeficientes culturais duais. Oportunidade de rega. Modelação do balanço hídrico e das necessidades de rega. Rega deficitária. Coeficientes de stress. Uso dos indicadores de conforto hídrico na programação da rega. Modelos e instrumentos. Uso eficiente da água, relações rega‐produção. Métodos de rega, análise comparada. Uniformidade e eficiência. Rega sob pressão: aspersão e micro rega. Rega em rampa pivotante. Rega de superfície: funcionamento, equipamentos, regulação e controlo, princípios de gestão e modernização. Controlo e automatização da rega; sistemas de bombagem. Drenagem: sistemas de drenagem, dimensionamento. Trabalho prático para avaliação sobre dimensionamento das infraestruturas em rega sob pressão (estudo de projeto). Apresentação e discussão dos trabalhos de grupo; conclusão.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665545" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r11" data-bs-toggle="collapse">
+			<td>Proteção das culturas <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Agronómica</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r11">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Caraterização e tipificação do ecossistema agrário; características dos principais inimigos da cultura (pragas, doenças e infestantes), sintomas/estragos e prejuízos, ciclos biológicos, epidemiologia e dinâmica populacional, inimigos naturais; métodos de estimativa do risco e regras de tomada de decisão; estratégias e meios de proteção. I. Proteção de culturas hortícolas e cereais. São abordadas culturas protegidas e culturas de ar livre (asteráceas, crucíferas, cucurbitáceas, solanáceas), cereais (arroz, aveia, centeio, cevada, milho e trigo). II. Proteção da vinha e fruteiras. São abordadas a vinha, citrinos, pomóideas e prunóideas.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665551" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r28" data-bs-toggle="collapse">
+			<td>Culturas Arvenses <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Agronómica</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r28">
+			<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386349" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r30" data-bs-toggle="collapse">
+			<td>Fruticultura <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Agronómica</td>
+			<td>Português/Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r30">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Módulo A – Temas comuns a várias espécies<br />
+			- Ecofisiologia e regularização do crescimento, do desenvolvimento e da produção<br />
+			- Floração, vingamento e crescimento dos frutos<br />
+			- Produção Integrada de fruteiras (rega, fertilização, o controlo de pragas doenças e infestantes)<br />
+			- Viveiros, propagação e porta-enxertos<br />
+			- Estabelecimento ou renovação de pomares (doenças de replantação)<br />
+			- Bioreguladores em fruticultura<br />
+			- Princípios e técnicas pós-colheita<br />
+			- Qualidade e valor nutricional dos frutos<br />
+			- Biotecnologia e melhoramento em fruticultura<br />
+			<br />
+			<br />
+			Módulo B - Exigências edafo-climáticas, factores condicionantes da produtividade, a obtenção de plantas, sistemas de condução e técnicas pós-colheita das seguintes espécies:<br />
+			- Pomóideas (pereira e macieira)<br />
+			- Prunóideas (ameixeira, cerejeira, pessegueiro, damasqueiro)<br />
+			- Citrinos, Oliveira<br />
+			- Frutos secos (amendoeira, castanheiro, aveleira e nogueira)<br />
+			- Pequenos frutos (amoras, framboesas, mirtilos e morangos)<br />
+			- Kiwi, Figueira</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386348" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r31" data-bs-toggle="collapse">
+			<td>Viticultura <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Agronómica</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r31">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Teóricas<br />
+			1. Actividade vitivinícola mundial<br />
+			2. Ampelografia e Selecção da videira<br />
+			3. Ecofisiologia da videira<br />
+			4. Zonagem, regiões vitícolas e encepamentos<br />
+			5. Sistemas de instalação e de condução da vinha<br />
+			6. Fertilização e manutenção do solo<br />
+			7. Técnicas de gestão da vegetação<br />
+			8. Controlo do rendimento e relações rendimento/qualidade<br />
+			9. Maturação e vindima<br />
+			10. Particularidades tecnológicas da produção de uva de mesa<br />
+			<br />
+			<br />
+			Práticas<br />
+			Acompanhamento e participação nas operações culturais da vinha: poda de Inverno, tratamentos fitossanitários, manutenção do solo e intervenções em verde. Avaliação das respostas à carga deixada à poda e registos fenológicos. Análise do efeito do sistema de condução e da casta na ecofisiologia da videira, no crescimento vegetativo, na fertilidade e na produção potencial.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386350" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r13" data-bs-toggle="collapse">
+			<td>Projeto Industrial <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Alimentar</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r13">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Análise de mercado; Estratégia comercial; Financiamento. Coordenação Estratégica em desenvolvimento de Projeto. Licenciamento. Diferentes fases: Programa Preliminar e Equipa Projectista; Programa Base: análise dos condicionamentos e enquadramento territorial. Estudo Prévio - viabilidade técnico-económica. Projeto base de Arquitectura. Licenciamento. Apoios financeiros, incentivos fiscais. Projeto de execução. Vistorias finais. Autorização de Laboração. Estratégia da empresa: Big data, tipo e quantidade de produtos em função do mercado; tecnologias; diagramas tecnológicos e balanços de massas; dimensionamento e selecção de equipamento. Distribuição no espaço, esboço do lay-out. Estimativa de custos. Casos de estudo – principais índices tecnológicos e equipamentos. Exercício prático: Estudo Prévio do Projeto de Instalações utilizando a abordagem ascendente (bottom up): redes digitais, quota de mercado - necessidades dos consumidores - recepção de matérias-primas, etc.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665544" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r15" data-bs-toggle="collapse">
+			<td>Comunicação e Marketing <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Alimentar</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r15">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Mód 1. Orientação e Estratégia de Marketing</li>
+				<li>1.1 Introdução ao Marketing</li>
+				<li>1.2 Evolução do Marketing</li>
+				<li>1.3 Orientação de Marketing</li>
+				<li>1.4 Processo de Marketing</li>
+				<li>1.5 Noções de Gestão e Planeamento Estratégico</li>
+				<li>1.6 Formulação da Estratégia de Marketing</li>
+				<li>Mód 2. Comportamento do Consumidor e Segmentação de Mercados</li>
+				<li>2.1 Determinantes do Comportamento do Consumidor</li>
+				<li>2.2 Processo de Decisão de Compra</li>
+				<li>2.3 Critérios de Segmentação</li>
+				<li>2.4 Seleção de Mercados-Alvo</li>
+				<li>2.5 Estratégias de Posicionamento</li>
+				<li>Mód 3. Iniciação à Investigação em Marketing</li>
+				<li>3.1 Objetivos da Investigação em Marketing</li>
+				<li>3.2 Métodos de Investigação em Marketing</li>
+				<li>Mód 4. Políticas de Marketing: Marketing-Mix</li>
+				<li>4.1 Produto: conceitos, componentes (marca/embalagem), inovação</li>
+				<li>4.2 Preço: conceitos, etapas, métodos de fixação</li>
+				<li>4.3 Distribuição: organização e dinâmica da distribuição, mix da Distribuição</li>
+				<li>4.4 Comunicação: objetivos, estratégia e mix da Comunicação</li>
+				<li>Mód 5 Plano de Marketing</li>
+				<li>5.1 Definição do Plano de Marketing</li>
+				<li>5.2 Etapas do Processo de Planeamento</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665540" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r14" data-bs-toggle="collapse">
+			<td>Sistemas da Qualidade <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Alimentar</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r14">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Qualidade: Conceitos e modelos; Qualidade e as estratégias empresariais; Gestão da Qualidade.</li>
+				<li>Sistema Português da Qualidade/Sistema Europeu da Qualidade: Certificação e Acreditação</li>
+				<li>Sistemas de Gestão da Qualidade: ISO 9001</li>
+				<li>Programas de Melhoria da Qualidade - Modelo da Qualidade Total E.F.Q.M.; Lean Manufacturing: Principios; DMAIC;</li>
+				<li>Metodologia Kaisen;</li>
+				<li>Avaliação da Qualidade: Autoavaliação; Custos da Qualidade; Auditoria da Qualidade.</li>
+				<li>Referenciais mais relevantes na área da Segurança Alimentar: ISO 22000 – etapas de implementação do referencial e análise dos requisitos.</li>
+				<li>Referenciais de segurança alimentar: IFS, BRC, FSSC 22000 – análise de requisitos e comparação de referenciais.</li>
+				<li>Global GAP – importância da certificação no setor primário.</li>
+				<li>Food defense – abordagem aos planos de defesa alimentar e requisitos específicos nos referenciais em estudo.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665552" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r33" data-bs-toggle="collapse">
+			<td>Processos Inovadores Sustentáveis em Engenharia Alimentar <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Alimentar</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r33">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Processos emergentes em engenharia alimentar. Processos não térmicos: Altas pressões hidrostáticas, Ultra-sons, Mano-termo-sonicação, Ionização, Pulsos de luz de elevada intensidade, Pulsos de Campo Eléctrico; Processos térmicos alternativos: aquecimento por rádio frequência, processamento por microondas, aquecimento por infra-vermelhos, aquecimento Ohmico, congelação sob pressão. Novos conceitos de embalagem alimentar: embalagem activa e inteligente. Gestão Ambiental Uso Eficiente da Água na Indústria Alimentar. Ciclo da Água na Indústria. Implementação de Um Plano para o Uso Eficiente da Água. Medidas de Uso Eficiente da Água em Fins Industriais. As Melhores Tecnologias Disponíveis (MTDS) Para o Tratamento e Valorização de Águas/Águas Residuais e Resíduos na Indústria Alimentar. Parâmetros Chave de Avaliação da Eficiência das Tecnologias de Tratamento de Águas/Águas Residuais e Resíduos. A Unidade Curricular inclui a realização de um Projeto, desenvolvido em grupo, que se pretende que integre todos os conhecimentos adquiridos.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386354" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r16" data-bs-toggle="collapse">
+			<td>Metodologias de Avaliação da Sustentabilidade <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia do Ambiente</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r16">
+			<td colspan="3">
+			<h6>Programa</h6>
+			<ol>
+				<li>1. Conceitos Avançados de Sustentabilidade Ambiental</li>
+				<li>1.1. Analisar e avaliar criticamente conceitos e teorias avançadas relacionadas com a avaliação da sustentabilidade ambiental.</li>
+				<li>1.2. Sintetizar princípios de avaliação da sustentabilidade e articular as suas implicações práticas.</li>
+				<li>2. Metodologias de Avaliação Ambiental em Planos, Projetos e Estratégias</li>
+				<li>2.1. Modelos ambientais para análise de cenários, Avaliação de políticas ambientais ​​baseadas em evidências. Efetuar uma avaliação ambiental integrada, tipos de indicadores; modelo PSR/DPSIR.</li>
+				<li>2.2. Reporte Ambiental e metodologias de execução. Conhecimentos de Taxonomia.</li>
+				<li>2.3. Introdução à avaliação de danos e reparação em Responsabilidade Ambiental.</li>
+				<li>2.4. Análise de fluxos de materiais: principais indicadores e metodologias.</li>
+				<li>2.5. Avaliação de riscos ambientais e simulação.</li>
+				<li>3. Metodologias de Avaliação Ambiental suportadas em análise de ciclo de vida</li>
+				<li>3.1. Série ISO 14040 de Análise de Ciclo de Vida.</li>
+				<li>3.2. Metodologia de Análise de Ciclo de Vida e estruturas de avaliação híbridas para avaliar/reformular produtos e tecnologias. </li>
+				<li>3.3. Análise funcional, analise de inventário, avaliação de impactes e interpretação.</li>
+				<li>3.4. Bases de dados para analisar conjuntos de dados para avaliações de sustentabilidade ambiental. Uso de software SIMAPRO e/ou outros softwares abertos apropriados. </li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665542" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r17" data-bs-toggle="collapse">
+			<td>Projeto - Ambiente <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia do Ambiente</td>
+			<td>Português/Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r17">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Elaboração do Projeto. Aspectos gerais e fundamentos. Legislação sobre conteúdo de projetos públicos - Portaria nº 701-H/2008 de 29 de Julho.</li>
+				<li>Elaboração de proposta para elaboração de projeto de execução.</li>
+				<li>Organização do projeto (conteúdos escritos e peças desenhadas). Cadernos de encargos – cláusulas gerais e cláusulas técnicas. Assistência técnica. Considerações sobre Programas de Concurso e Cadernos de Encargos</li>
+				<li>Avaliação técnica de projetos. Critérios de avaliação (qualidade técnica, preço, prazo, outros)</li>
+				<li>Aspectos focais sobre medições e estimativa orçamental. Discussão.</li>
+				<li>Estudo económico-financeiro. Princípio de recuperação de custos. Aplicação de indicadores ambientais e económicos</li>
+				<li>Ética e deontologia na elaboração de projetos de engenharia</li>
+				<li>Programa de desenho assistido por computador. Aplicação em engenharia do programa Autocad. Ficheiros de desenho, extensões, “viewers”, layouts, viewports. Configuração e personalização da interface de utilizador, barras de comandos, atalhos, comandos na consola; Organização e referenciação do desenho; Entidades gráficas e a gestão das suas propriedades, blocos, introdução de dados, identificar dimensões, cotar desenhos, impressão e plotagem de elementos.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665543" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r18" data-bs-toggle="collapse">
+			<td>Tecnologias de Tratamento Integrado de Resíduos Sólidos <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia do Ambiente</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r18">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>1. Origem, características e propriedades dos resíduos sólidos</li>
+				<li>1.1 Classific segundo a origem</li>
+				<li>1.2 Classific segundo as características</li>
+				<li>1.3 Propriedades físicas, químicas e bioquímicas dos resíduos</li>
+				<li>1.4 Quantificação e caracterização física dos resíduos</li>
+				<li>2. Processos físicos e fís-químicos e químicos de tratamento de resíduos sólidos</li>
+				<li>2.1 Separação manual/automática</li>
+				<li>2.2 Desidratação e compactação</li>
+				<li>2.3 Incineração e co-incineração</li>
+				<li>2.4 Pirólise e tecnologia de plasma</li>
+				<li>3. Processos biológicos de tratamento de resíduos sólidos</li>
+				<li>3.1 Aeróbios</li>
+				<li>3.2 Anaeróbios</li>
+				<li>3.3 Aeróbios/anaeróbios combinados</li>
+				<li>4. Outros processos de tratamento e valorização de resíduos sólidos</li>
+				<li>4.1 Hidrólise ácida, alcalina e enzimática</li>
+				<li>4.2. Produção de glucose, etanol, metanol e proteína</li>
+				<li>5. Parâmetros chave para avaliação da eficiência e seleção de tecnologias de tratamento de resíduos</li>
+				<li>Caso de Estudo: Tratamento Mecânico Biológico num Sistema de Tratamento de Resíduos Sólidos Urbanos</li>
+				<li>Aulas práticas (laboratoriais e visitas de estudo)</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665553" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r19" data-bs-toggle="collapse">
+			<td>Economia do Ambiente e dos Recursos Naturais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia do Ambiente</td>
+			<td>Português</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r19">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>1. Introdução à economia do ambiente e dos recursos naturais</li>
+				<li>Economia e ambiente. Funções económicas do ambiente. Escassez, escolha e custo de oportunidade. Ótimo de Pareto e prova de compensação. Externalidades, bens públicos e falha de mercado.</li>
+				<li>2. Problemas ambientais e de recursos naturais enquanto problemas ambientais</li>
+				<li>Poluição e controlo da poluição. Eficiência económica, eficiência de custos, inovação tecnológica e outros critérios de avaliação. Análise comparada de instrumentos de controlo da poluição. Biodiversidade, serviços os ecossistemas e seu valor económico. Recursos naturais renováveis: uso ótimo e recursos de livre acesso. Gestão florestal ótima. Tempo, eficiência dinâmica e sustentabilidade.</li>
+				<li>3. Instrumentos de análise e decisão política em matéria de ambiente</li>
+				<li>Análise custo-benefício e valoração económica do ambiente como instrumentos de apoio à decisão em matéria de gestão e política ambiental e de recursos económicos. O papel e os limites da análise económica.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665535" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r20" data-bs-toggle="collapse">
+			<td>Deteção Remota <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Florestal e dos Recursos Naturais</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r20">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Introdução à estrutura de dados raster multiespectrais. Resolução espacial, radiométrica, espectral e temporal. Composições coloridas e visualização de imagens. Realce de contraste e filtragem; Pré-processamento: correcção radiométrica e conversão de nùmeros digitais para reflectância. Correcção geométrica. Principais metodologias para quantificação e correcção de efeitos atmosféricos; O conceito de assinatura espectral. Classificação não-supervisada e supervisada. Principais algoritmos: ISODATA, k-means, máxima verosimilhança/análise discriminante, classificadores em árvore. Avaliação da exactidão de uma classificação; Detecção de alterações do coberto e análise de séries temporais. Índices de vegetação: conceito genérico e índices especializados. Minimização de perturbações induzidas pelo solo e atmosfera.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665533" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r21" data-bs-toggle="collapse">
+			<td>Modelação dos Ecossistemas Florestais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Florestal e dos Recursos Naturais</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r21">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>1. Introdução aos modelos e simuladores florestais como suporte à gestão florestal</li>
+				<li>2. Dados para a construção e validação de modelos da floresta: parcelas permanentes, de intervalo e temporárias; inventário florestal contínuo e análise do tronco total e parcial</li>
+				<li>3. Produtividade da floresta: produtividade da floresta e sua manipulação; avaliação da produtividade da estação</li>
+				<li>4. Relações alométricas e funções de crescimento: funções de crescimento teóricas; modelação simultânea de vários indivíduos; formulação de funções de crescimento sem a idade explícita</li>
+				<li>5. O website FCTOOLS, a plataforma sIMfLOR e o simulador da floresta standsSIM-md</li>
+				<li>6. Modelos de crescimento e produção</li>
+				<li>- Modelos de povoamento: GLOBULUS</li>
+				<li>- Modelos de povoamento com simulação da distribuição de diâmetros: PBRAVO</li>
+				<li>- Modelos da árvore individual: PINASTER, PINEA, CASTANEA, SUBER</li>
+				<li>7. Modelos de base fisiológica orientados para a gestão</li>
+				<li>8. Simuladores regionais</li>
+				<li>9. Avaliação/validação de modelos</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665541" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r22" data-bs-toggle="collapse">
+			<td>Ecologia e Gestão do Fogo <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 2º</td>
+			<td>Engenharia Florestal e dos Recursos Naturais</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r22">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Introdução ao problema do fogo rural em Portugal e no Sul da Europa: estatísticas de ocorrências, áreas ardidas e causas. Distribuição geográfica; A vegetação enquanto combustível: principais tipos de combustíveis: herbáceos, arbustivos, de sub-bosque e de copas. Parâmetros estruturais e termodinâmicos dos combustíveis vegetais – modelos de combustível; Clima, meteorologia e fogo. Principais condições sinópticas associadas à ocorrência de grandes fogos. O índice Canadiano de Perigo Meteorológico de Incêndio (FWI) e a indexação do risco;; Comportamento do fogo. Ignição, fogos em regime estacionário e grandes incêndios. Fogos de copas. Fogos dominados pelo vento versus fogos dominados pela coluna de convecção. Modelação do comportamento do fogo: o modelo de Rothermel – simulação do comportamento com o software BEHAVE; Ecologia e efeitos do fogo. Gestão dos povoamentos e planeamento da arborização. Maneio dos combustíveis e organização do espaço florestal.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665548" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r23" data-bs-toggle="collapse">
+			<td>Funcionamento dos Ecossistemas Florestais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Engenharia Florestal e dos Recursos Naturais</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r23">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>I. Água. Efeitos da vegetação no balanço hidrológico.</li>
+				<li>II. Carbono e Solo. Vegetação e sequestro de carbono. Disponibilidade de nutrientes e crescimento das plantas. Interações solo-raízes.</li>
+				<li>III. Biodiversidade e interação entre espécies.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665550" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r24" data-bs-toggle="collapse">
+			<td>Gestão e Conservação de Sistemas Fluviais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Biodiversidade e Conservação</td>
+			<td>Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r24">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>I- Cenário hidro-geomórfico e hidráulico. Mineralização e componentes maioritários. Estratificações térmicas e químicas em meio aquático. Componentes maioritários e minoritários, gases. Mineralização e matéria orgânica. Matéria orgânica.Elementos de proporcionalidade variável e microcomponentes. Peixes portugueses. Espécies e guildas. Comunid biológicas, tipologia e funcionamento de ecossist fluviais. Gradientes espaciais, temporais e tróficos.</li>
+				<li>II- Qualidade da água. Formas de poluição. Restauro de albufeiras e oligotrofização. Regularização, alterações do regime de caudais e extracção de água. Caudais ecológicos. Situação em Portugal e formas de implementação de caudais de manutenção ecológica. Passagens p/ peixes, tipologia, localização e dimensionamento. Estrutura e ecologia ripárias. Papel e valor da mata ripária. Restauro da vegetação ripária. Alterações morfológicas do canal e leitos fluviais. Extracção de inertes. Efeitos e formas de mitigar alterações. Restauro de habitats, de troços e de segmentos fluviais. Avaliação da qualidade da água, ecológica e piscícola. Índices oficiais e seu cálculo.</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665539" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r25" data-bs-toggle="collapse">
+			<td>Ecologia e Gestão de Populações Animais <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Biodiversidade e Conservação</td>
+			<td>Português/Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r25">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<p>Resposta das populações ao meio ambiente. Estratégias demográficas. Relações intraespecíficas: cooperação, reprodução, competição. Relações interespecíficas. Competição, predação. Regulação das populações. Uso de software RAMAS e VORTEX na aplicação de modelos determinísticos, estocásticos, matriciais e de metapopulações em casos de estudo. Uso e seletividade de habitats. Variabilidade e estrutura genética das populações, processos de adaptação, isolamento e evolução. Estimativa de parâmetros populacionais: análise de dados de amostragem das populações. Contagens absolutas.“Distance sampling”. Movimentos e dispersão. Gestão das populações: Exploração sustentável; Conservação e teoria de meta-populações; Gestão de espécies invasoras. Ecologia da fauna em meio urbano. Análise e Gestão de habitats Agrícolas e Florestais para a conservação da fauna.</p>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665534" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+		<tr data-bs-target="#r26" data-bs-toggle="collapse">
+			<td>Gestão e Conservação da Vegetação <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
+			<td>Biodiversidade e Conservação</td>
+			<td>Português/Inglês</td>
+		</tr>
+		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r26">
+			<td colspan="3">
+			<h6>Programa</h6>
+
+			<ol>
+				<li>Módulo 1: Enquadramento bioclimático e biogeográfico da vegetação de Portugal; métodos de análise da vegetação.</li>
+				<li>1. Bioclimatologia e biogeografia: história e conceitos;</li>
+				<li>2. Biomas;</li>
+				<li>3. Métodos de análise da vegetação.</li>
+				<li>Módulo 2: Conservação da vegetação e cartografia vegetal.</li>
+				<li>1. Cartografia de vegetação;</li>
+				<li>2. Biodiversidade, gestão e conservação da vegetação;</li>
+				<li>3. Convenções internacionais, regulamentação europeia e medidas agro-ambientais e silvo-ambientais.</li>
+				<li>Módulo 3: Sistemas agro-florestais.</li>
+				<li>1. Conceitos e tipologias;</li>
+				<li>2. Balanço hidrológico e circulação dos nutrientes;</li>
+				<li>3. Sistemas agro-silvopastoris; os baldios como caso de estudo.</li>
+				<li>Módulo 4: Restauro e reabilitação da vegetação e das comunidades vegetais.</li>
+				<li>1. Factores de degradação;</li>
+				<li>2. Restauro da vegetação; Fitorremediação;</li>
+				<li>3. Casos de estudo (galerias ribeirinhas; fogo; infestantes lenhosas; móveis; fitorremediação)</li>
+			</ol>
+			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665538" target="_blank" type="button">Ver no Fenix</a></td>
+		</tr>
+	</tbody>
+</table>
+<a class="btn btn-outline-secondary" href="./candidatura" type="button">Candidatura</a></div>
+
+<div class="col-md-4 mt-3"><!-- Jumbotron -->
+<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white" style="background-image: url('./sites/default/files/2022-05/parcerias.jpg');">
+<h1 class="mb-3 h2">Destaques</h1>
+
+<ul class="mt-auto fw-bold">
+	<li class="me-auto pt-3">Formação de 2 anos (4 semestres);</li>
+	<li class="me-auto pt-3">5 unidades optativas para aprofundar áreas de aplicação;</li>
+	<li class="me-auto pt-3">Núcleo de CD sobre:
+	<ul>
+		<li>fundamentos e metodologias de CD</li>
+		<li>bases de dados</li>
+		<li>programação python</li>
+		<li>análise e visualização de dados</li>
+		<li><i>machine learning</i></li>
+		<li>hackathon;</li>
+	</ul>
+	</li>
+	<li class="me-auto pt-3">Forte componente prática: aprender fazendo.</li>
+</ul>
+
+<p class="pt-3"><a class="btn btn-outline-light" href="./candidatura" type="button">Mais sobre candidatura</a></p>
+</div>
+<!-- Jumbotron --></div>
+</div>

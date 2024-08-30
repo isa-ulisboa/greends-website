@@ -1,0 +1,61 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h3 class="pt-4 pb-3"><span class="text-muted">Data Science problem:</span> Predict the probability of a new forest fire event escaping the
+			initial attack</h3>
+
+		<p>Portugal is a country that has been severely affected by fires in recent decades, which generate high
+			social, economic and environmental impacts. There are several factors that contribute to this reality:
+			(1) territory with high rural abandonment, which combined with the low profitability of rural spaces,
+			creates a flammable landscape, with high continuity and quantity of fuel; (2) favorable weather
+			conditions, especially during summer, aggravated by climate change; (3) a high number of ignitions
+			promoted by a culture of negligent use of fire.</p>
+
+			<p>The fires that generate the largest burned area and negative impacts are usually concentrated in a
+			period of 10-15 days. This fact introduces complexity into fire management, since large fires are
+			often
+			accompanied by simultaneity (i.e. several occurrences occurring at the same time) and high geographic
+			dispersion across the national territory.</p>
+
+			<p>In this context, fire suppression management is a complex task that requires knowledge, tools and
+			concerted efforts from all involved. This must take into account the environmental conditions that
+			influence the development of fires, but also the spatial, temporal and capacity heterogeneity of
+			resources available for fighting.</p>
+
+			<p>In order to improve the forest fire fighting system, it is important to increase the effectiveness of
+			its response. This improvement may involve the promotion of anticipatory measures, which promote more
+			effective management of resources, maintaining the balance of the combat system (i.e. avoiding its
+			collapse).</p>
+
+			<p>The possibility of predicting the type of event, based on the analysis of the history of occurrences,
+			is
+			an important element in supporting resource management decisions.</p>
+
+			<p>In this Hackathon, the challenge is to predict the probability of a new forest fire event escaping the
+			initial attack that allows it to be extinguished in 90 minutes, given the terrain and meteorological
+			conditions associated with the occurrence. The aim is also to identify which factors determine a
+			forest
+			fire to escape this initial attack. For this project, historical data on occurrences in Portugal since
+			2018 is used, including operational data, meteorological data and geographic data.</p>
+	</div>
+
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+		<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+			style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(78, 60, 0, 0.8)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg'); background-position: center center;">
+            <h1 class="mb-3 h2">Hackathon details</h1>
+				
+            <ul class="mt-auto fw-normal list-unstyled">
+                <li class="py-0"><span class="fw-bolder">Partner</span>: Autoridade Nacional de Emergência e Proteção Civil - FEPC</li>
+				<li class="py-0"><span class="fw-bolder">Domain</span>: Wildfire management</li>
+			    <li class="py-0"><span class="fw-bolder"> Year</span>: 2023</li>
+                <li class="pt-2"><span class="fw-bolder"> Team Members</span>: António Lacerda, Benjamin Hilliger, Christoph Fischer, Inês Silveira, Joana Esteves, Johanna
+					Rauberger, Vasco Florentino</li>
+                <li class="py-0"><span class="fw-bolder"> Faculty advisor</span>: Akli Benali, Rui Figueira</li>
+                <li class="py-0"><span class="fw-bolder"> Partner advisor</span>: Fábio Silva, Alexandre Penha, Carlos Mota</li>
+				<li class="py-2"><span class="fw-bolder"> Github</span>: <a class="text-white" href="https://github.com/isa-ulisboa/greends-hack2023-wildfire">https://github.com/isa-ulisboa/greends-hack2023-wildfire</a> (available soon) </li>
+            </ul>
+
+
+		</div>
+		<!-- Jumbotron -->
+	</div>
+</div>

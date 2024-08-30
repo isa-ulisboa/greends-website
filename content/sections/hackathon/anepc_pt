@@ -1,0 +1,51 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h3 class="pt-4 pb-3"><span class="text-muted">Problema de Ciência de Dados:</span> Prever a probabilidade de um novo evento de incêndio florestal escapar ao
+ataque inicial</h3>
+
+		<p>Portugal é um país que tem sido gravemente afetado por incêndios nas últimas décadas, que geram elevados
+impactos sociais, económicos e ambientais. Existem vários fatores que contribuem para esta realidade:
+(1) o território com elevado abandono rural, que aliado à baixa rentabilidade dos espaços rurais,
+cria uma paisagem inflamável, com elevada continuidade e quantidade de combustível; (2) o clima favorável
+condições, especialmente durante o verão, agravadas pelas alterações climáticas; (3) um elevado número de ignições
+promovida por uma cultura de uso negligente do fogo.</p>
+
+			<p>Os incêndios que geram maior área queimada e impactos negativos geralmente concentram-se num
+período de 10 a 15 dias. Este facto introduz complexidade na gestão do fogo, uma vez que grandes incêndios são
+muitas vezes acompanhado por simultaneidade (ou seja, várias ocorrências ocorrendo ao mesmo tempo) e alta dispersão pelo território nacional.</p>
+
+			<p>Neste contexto, a gestão da supressão de incêndios é uma tarefa complexa que requer conhecimentos, ferramentas e
+esforços concertados de todos os envolvidos. Isto deve levar em conta as condições ambientais que
+influenciam o desenvolvimento dos incêndios, mas também a heterogeneidade espacial, temporal e de capacidade dos incêndios.
+recursos disponíveis para o combate.</p>
+
+			<p>Para melhorar o sistema de combate a incêndios florestais, é importante aumentar a eficácia na resposta. Esta melhoria pode passar pela promoção de medidas de antevisão, que promovam a
+gestão eficaz dos recursos, mantendo o equilíbrio do sistema de combate (ou seja, evitando o seu colapso).</p>
+
+			<p>A possibilidade de prever o tipo de evento, com base na análise do histórico de ocorrências, é um elemento importante no apoio às decisões de gestão de recursos.</p>
+
+			<p>Neste Hackathon, o desafio é prever a probabilidade de um novo evento de incêndio florestal escapar ao
+ataque inicial que permite extingui-lo em 90 minutos, atendendo ao terreno e às condições meteorológicas associadas à ocorrência. O objetivo é também identificar quais os fatores que determinam que um fogo florestal possa escapar a este ataque inicial. Para este projecto foram utilizados dados históricos sobre ocorrências em Portugal desde 2018, incluindo dados operacionais, dados meteorológicos e dados geográficos.</p>
+	</div>
+
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+		<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+			style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(78, 60, 0, 0.8)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg'); background-position: center center;">
+            <h1 class="mb-3 h2">Detalhes do Hackathon</h1>
+				
+            <ul class="mt-auto fw-normal list-unstyled">
+                <li class="py-0"><span class="fw-bolder">Parceiro</span>: Autoridade Nacional de Emergência e Proteção Civil - FEPC</li>
+				<li class="py-0"><span class="fw-bolder">Domínio</span>: Gestão de fogos florestais</li>
+			    <li class="py-0"><span class="fw-bolder"> Ano</span>: 2023</li>
+                <li class="pt-2"><span class="fw-bolder"> Membros da Equipa</span>: António Lacerda, Benjamin Hilliger, Christoph Fischer, Inês Silveira, Joana Esteves, Johanna
+					Rauberger, Vasco Florentino</li>
+                <li class="py-0"><span class="fw-bolder"> Orientadores ISA</span>: Akli Benali, Rui Figueira</li>
+                <li class="py-0"><span class="fw-bolder"> Orientadores Parceiro</span>: Fábio Silva, Alexandre Penha, Carlos Mota</li>
+				<li class="py-2"><span class="fw-bolder"> Github</span>: <a class="text-white" href="https://github.com/isa-ulisboa/greends-hack2023-wildfire">https://github.com/isa-ulisboa/greends-hack2023-wildfire</a> (available soon) </li>
+            </ul>
+
+
+		</div>
+		<!-- Jumbotron -->
+	</div>
+</div>

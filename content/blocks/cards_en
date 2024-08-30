@@ -1,0 +1,41 @@
+<div>
+<h1 class="text-uppercase welcome-title pt-5 text-center">The reasons of <span class="green-ds-name">Green Data Science</span></h1>
+
+<div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+<div class="col">
+<div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./sites/default/files/2022-05/gps_0.jpg');">
+<div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+<h2 class="pt-5 mt-5 mb-4 display-6 lh-1">THE <span class="fw-bold">NECESSARY </span>EVOLUTION</h2>
+
+<p>Agri-food and environmental sciences are multidimensional. Our ambition is to prepare professionals capable of dealing with this complexity through the application of Data Science.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./about" type="button">More about GREEN DS</a></p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./sites/default/files/2022-05/code1_0.jpg');">
+<div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+<h2 class="pt-5 mt-5 mb-4 display-6 lh-1">PROOF OF <span class="fw-bold">FUTURE</span></h2>
+
+<p>The Green Data Science curriculum prepares digital transformation, enabling the use of large volumes of data in decision support.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./curriculum" type="button">See the curriculum</a></p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./sites/default/files/2022-05/candidatura.jpg');">
+<div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+<h2 class="pt-5 mt-5 mb-4 display-6 lh-1">IDEAL ENVIRONMENT: <span class="fw-bold">ISA</span></h2>
+
+<p>ISA is the largest and most qualified school in agricultural sciences in Portugal! The extensive experience and knowledge provides the ideal environment for applied data science learning.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./node/6" type="button">Find more</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>

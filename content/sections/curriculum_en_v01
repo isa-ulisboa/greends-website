@@ -1,0 +1,900 @@
+<div class="row featurette">
+	<div class="col-md-7">
+	<h2 class="featurette-heading py-3">Create a study plan adjusted to your interests. <span class="text-muted">Linking Data Science to specialization...</span></h2>
+	
+	<p>The Master's Data Science in Agriculture, Food, Forests and Environment, with a duration of 2 years, allows the creation of a study plan adjusted to the student's area of interest. The course has the following structure:</p>
+	
+	<div class="row align-items-lg-stretch">
+	<div class="col-lg-4">
+	<div class="h-100 p-5 bg-light border rounded-3">
+	<h3><svg class="bi bi-collection" fill="currentColor" height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"> <path d="M2.5 3.5a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1zm2-2a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM0 13a1.5 1.5 0 0 0 1.5 1.5h13A1.5 1.5 0 0 0 16 13V6a1.5 1.5 0 0 0-1.5-1.5h-13A1.5 1.5 0 0 0 0 6zm1.5.5A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5z"></path> </svg></h3>
+	<!--<h3><i class="bi bi-collection"></i></h3>-->
+	
+	<h3>7 mandatory curricular units</h3>
+	
+	<p class="py-2">Block dedicated to learning and practice about <strong>data science fundamentals and methodologies</strong>.</p>
+	
+	<p class="d-flex me-auto">44 ECTS credits</p>
+	
+	<p class="d-flex me-auto"><a class="btn btn-outline-secondary" href="#obrigatorias" type="button">See</a></p>
+	<!--<a class="btn btn-outline-secondary me-auto" href="#obrigatorias" type="button">Ver</a>--></div>
+	</div>
+	
+	<div class="col-lg-4">
+	<div class="h-100 p-5 bg-light border rounded-3">
+	<h3><svg class="bi bi-collection" fill="currentColor" height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"> <path d="M2.5 3.5a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1zm2-2a.5.5 0 0 1 0-1h7a.5.5 0 0 1 0 1zM0 13a1.5 1.5 0 0 0 1.5 1.5h13A1.5 1.5 0 0 0 16 13V6a1.5 1.5 0 0 0-1.5-1.5h-13A1.5 1.5 0 0 0 0 6zm1.5.5A.5.5 0 0 1 1 13V6a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5z"></path> </svg></h3>
+	<!--<h3><i class="bi bi-collection"></i></h3>-->
+	
+	<h3>5 optional curricular units</h3>
+	
+	<p class="py-2">A set of optional curricular units selected by the student to <strong>deepen the specialization</strong> in the area of interest.</p>
+	
+	<p class="d-flex mt-auto">30 ECTS credits</p>
+	
+	<p class="d-flex mt-auto"><a class="btn btn-outline-secondary" href="#optativas" type="button">See</a></p>
+	</div>
+	</div>
+	
+	<div class="col-lg-4">
+	<div class="h-100 p-5 bg-light border rounded-3">
+	<h3><svg class="bi bi-lightbulb" fill="currentColor" height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"> <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a2 2 0 0 0-.453-.618A5.98 5.98 0 0 1 2 6m6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1"></path> </svg></h3>
+	<!--<h3><i class="bi bi-lightbulb"></i></h3>-->
+	
+	<h3>Dissertation / Project / Internship</h3>
+	
+	<p class="py-2">Final component of the study plan, to <strong>explore a specific topic</strong> whose presentation and evaluation leads to a master's degree.</p>
+	
+	<p class="d-flex mt-auto">46 ECTS credits</p>
+	</div>
+	</div>
+	</div>
+	
+	<h3 class="pt-5 pb-3">Progress in practice-based learning</h3>
+	
+	<p>The master's emphasizes practice as a teaching methodology. In the curricular units dedicated to data science, the time of face-to-face teaching in the classroom is reduced, in favor of exercises and autonomous practical work by the students.</p>
+	
+	<p>The hands-on learning experience is also facilitated by an environment of tools and methodologies that are common to all data science curricular units. In this way, students progress in learning, from data management, programming, analysis and visualization, and modeling and machine learning, while deepening the use of the key tools used by the data science communities (e.g., python, jupyter notebook, Google colab, SQL, pandas, numpy, scikit-learn, or others that emerge in the meantime).</p>
+	
+	<p>Learning also includes the promotion of soft skills. The use of collaborative tools will be constant in all phases of the course, including the sharing of code and solutions in the cloud, and the use of discussion forums. In <strong>Hackathon Project</strong>, students create multidisciplinary teams, in which solutions will be developed for problems proposed by partner companies of the master's degree.</p>
+	
+	<h3 class="pt-5 pb-3">Increase knowledge in specialization</h3>
+	
+	<p>Students can define their specialty profile by selecting 5 curricular units (30 ECTS), from the list of <a href="#optativas">options available</a> for the master's degree. These units are based on and shared with several ISA masters, which guarantee the highest quality training in the fields of agriculture, food, forests and the environment.</p>
+	
+	<p>These specialty units, however, allow an extension of the application of data science methodologies, which is used in part of the practical component, in applications that demonstrate the power of its application.</p>
+	
+	<h3 class="pt-4 pb-3" id="obrigatorias">Structure</h3>
+	
+	<p><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa" target="_blank" type="button">See at Fenix</a></p>
+	
+	<table class="table">
+		<thead class="table-light">
+			<tr>
+				<td>Curricular Unit</td>
+				<td>&nbsp;</td>
+				<td>Credits</td>
+				<td>Language</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1st year / 1st semester</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr data-bs-target="#r1" data-bs-toggle="collapse">
+				<td scope="row">Fundamentals of agro-environmental Data Science <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>6</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r1">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Definition of Data Science;</li>
+					<li>Fundamentals, solutions and examples of application in the digital transition in food production, management of natural resources and the environment;</li>
+					<li>Overview of Data science topics and algorithms;</li>
+					<li>Data science methodology;</li>
+					<li>Data science methodological phases;</li>
+					<li>Understanding the areas of application, acquisition, preparation and analysis of data, modeling, evaluation, implementation, reporting and feedback;</li>
+					<li>Brief introduction to the data science tools and potential application to each phase of the methodology;</li>
+					<li>Introduction to Big Data Analysis and Cloud Computing;</li>
+					<li>Availability of data resources;</li>
+					<li>Ethics in accessing and using information.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-fads-exercises" target="_blank" type="button">Repository </a></td>
+			</tr>
+			<tr data-bs-target="#r2" data-bs-toggle="collapse">
+				<td scope="row">Introduction to Python <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>6</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r2">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Installing and configuring a python interpreter and development environments, with emphasis on collaborative environments;</li>
+					<li>Introduction to python and algorithms. Basics of python programming (variables, operators, conditions, loops, functions, dataTypes, etc);</li>
+					<li>Structuring a program. Library import and code reuse;</li>
+					<li>File handling (read-write), directories and access and handling of large files;</li>
+					<li>Interaction with command line execution arguments;</li>
+					<li>Access and provide a data service (APIs);</li>
+					<li>Structuring of a program for processing in sequence and in parallel and in a grid environment.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-ipython" target="_blank" type="button">Repository </a></td>
+			</tr>
+			<tr data-bs-target="#r3" data-bs-toggle="collapse">
+				<td scope="row">Data Management and Storage <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>6</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r3">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Introduction to data management and data management systems;</li>
+					<li>Types of databases;</li>
+					<li>Concept of relational databases;</li>
+					<li>SQL language and application for creating and using databases;</li>
+					<li>Main open-source and proprietary database technologies;</li>
+					<li>NoSQL systems and their application;</li>
+					<li>Data quality principles, vocabularies and ontologies;</li>
+					<li>Tools and resources for checking data quality, organization and normalization;</li>
+					<li>Use of global and resolvable unique identifiers, traceability;</li>
+					<li>Agri-environment data resources;</li>
+					<li>Introduction to the concept of large data sets and their specificities in relation to production, storage and analysis.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/gestadad-283463546570712" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-dms-exercises" target="_blank" type="button">Repository </a></td>
+			</tr>
+			<tr>
+				<td>Option 1</td>
+				<td>&nbsp;</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Option 2</td>
+				<td>&nbsp;</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>1st year / 2nd semester</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr data-bs-target="#r4" data-bs-toggle="collapse">
+				<td scope="row">Analysis and Visualization of Complex Agro-Environmental Data <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>6</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r4">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Main tools for data analysis and visualization using Python (Pandas, Plotly, Matplotlib, Seaborn, Bokeh, geoplotlib);</li>
+					<li>Data types and variable identification;</li>
+					<li>Statistical summary;</li>
+					<li>Empirical data distribution;</li>
+					<li>Standardization and data transformation;</li>
+					<li>Reduction of data dimensionality: multivariate ordination methods;</li>
+					<li>Correlation and regression analysis;</li>
+					<li>Design principles applied to information visualization;</li>
+					<li>Uni, bi and multivariate graphical visualization;</li>
+					<li>Advanced representations of information;</li>
+					<li>Representation of spatial data;</li>
+					<li>Creation of interactive visual information panels (dashboards).</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/avdcaamb-283463546570951" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-avcd/" target="_blank" type="button">Repository </a></td>
+			</tr>
+			<tr data-bs-target="#r5" data-bs-toggle="collapse">
+				<td scope="row">Applied Machine Learning <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>6</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r5">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>What is machine learning? First examples;</li>
+					<li>Classification and clustering problems;</li>
+					<li>Extraction of variables and organization of input data;</li>
+					<li>Binary response variable: decision and risk rule;</li>
+					<li>Classifier quality assessment: errors of omission and errors of commission;</li>
+					<li>Categorical answer variable: decision trees;</li>
+					<li>"Ensemble" of classifiers: "random forests";</li>
+					<li>Neural networks;</li>
+					<li>Convolutional networks and deep learning for image problems.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/aaap-283463546570956" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-pml" target="_blank" type="button">Repository </a></td>
+			</tr>
+			<tr>
+				<td>Option 3</td>
+				<td>&nbsp;</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Option 4</td>
+				<td>&nbsp;</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>Option 5</td>
+				<td>&nbsp;</td>
+				<td>6</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>2nd year</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr data-bs-target="#r6" data-bs-toggle="collapse">
+				<td scope="row">Data Science Seminar <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>2</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r6">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Prepare synthetic presentations of data science application cases related to the topic to be developed in the master's dissertation;</li>
+					<li>Present the student's dissertation work in a compact format, supported by advanced data visualization;</li>
+					<li>Develop presentation skills.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/semcd-283463546570710" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r7" data-bs-toggle="collapse">
+				<td scope="row">Data Science Hackathon Project <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>Mandatory</td>
+				<td>12</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r7">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Development of a project proposed by partner companies, in the form of hackathon, in teams consisting of the following profiles: i) domain specialist; ii) team coordinator; iii) analyst; iv) programmer; v) reporter/communicator. The curricular unit will have an initial seminar to present the problems proposed by the companies, which will be complemented on the characterization of how the hackathon project works. This seminar will include the following contents:</p>
+	
+				<ol>
+					<li>characterization of a hackathon project;</li>
+					<li>roles, characterization and responsibilities of team members;</li>
+					<li>tools for collaborative development of code, documentation and information;</li>
+					<li>definition of objectives and goals in a data science project.</li>
+				</ol>
+	
+				<p>These contents will be complemented with syllabus adjusted to the specific project, either from the data science skills, or from the specific components of the system under analysis.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/phtcd-283463546570720" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-hackathon" target="_blank" type="button">Repository </a></td>
+			</tr>
+			<tr>
+				<td>Dissertation/Project/Internship</td>
+				<td>Final project</td>
+				<td>46</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<h3 class="pt-5 pb-3" id="optativas">Optional curricular units</h3>
+	
+	<table class="table">
+		<thead class="table-light">
+			<tr>
+				<td>Curricular unit</td>
+				<td>Year / Semester</td>
+				<td>Area</td>
+				<td>Language</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr data-bs-target="#r9" data-bs-toggle="collapse">
+				<td>Statistics and Experimental Design <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Transversal</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r9">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>1) Hypothesis tests for count data, based on Pearson's Chi-squared statistic;</li>
+					<li>Simple Linear Regression (both descriptive and inferential contexts);</li>
+					<li>Multiple Linear Regression (both descriptive and inferential contexts);</li>
+					<li>Analysis of Variance (introductory concepts in experimental design; Anova models for some elementary experimentaldesigns).</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665536" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r8" data-bs-toggle="collapse">
+				<td>Applied Operations Research <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 2nd</td>
+				<td>Transversal</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r8">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Basic concepts and application examples in four main topics:</p>
+	
+				<ol>
+					<li>linear programming;</li>
+					<li>network models;</li>
+					<li>integer programming;</li>
+					<li>multi-criteria decision analysis.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665549" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r27" data-bs-toggle="collapse">
+				<td>Geographic Information Systems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Transversal</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r27">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Spatial data structures.</li>
+					<li>Definition of basic spatial operations.</li>
+					<li>Data integration. Creation of cartographic models.</li>
+					<li>Use of Arc/GIS.</li>
+					<li>Solving modeling problems involving spatial data.</li>
+					<li>Advanced spatial analysis operations.</li>
+					<li>Implementation of geodatabases.</li>
+					<li>Setting Data Integrity Constraints.</li>
+					<li>Spatial analysis in networks.</li>
+					<li>Introduction to the development of automatic procedures for processing spatial data.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386352" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r29" data-bs-toggle="collapse">
+				<td>Formation and Soil Conservation <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Transversal</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r29">
+				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386351" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r32" data-bs-toggle="collapse">
+				<td>Business Strategy and Project Evaluation <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Transversal</td>
+				<td>Portuguese/English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r32">
+				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386353" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r10" data-bs-toggle="collapse">
+				<td>Fertilizers and Fertilizing Techniques <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Agronomic Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r10">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Fertilizers, classification, characteristics, criteria for selection and risks associated with their use: “conventional” mineral fertilizers, “special” mineral fertilizers (containing secondary macronutrients and micronutrients, chelated, stabilized, slow release, controlled release, biofertilizer), organic and mineral-organic fertilizers. Mineral amendments. Organic amendments, valorization of organic waste (animal manures, waste from agricultural and food industries, composted MSW and sewage sludge). Fertilization in soil grown crops: recommendations based on soil analysis and plant analysis, base dressing, top dressing, fertigation and foliar fertilization, fertilization plans for selected crops. Fertilizing in soilless culture systems: soilless culture techniques, substrates for soilless culture, water quality, nutrient solutions. Visits to farms.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665537" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r12" data-bs-toggle="collapse">
+				<td>Irrigation and Drainage <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Agronomic Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r12">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Irrigation design and irrigation scheduling: aims and contexts (soil, climate). Biophysical background, identification of pre-requisites. Measuring water use and water stress, methods, limitations and contexts of application. Modelling water use. Crop water requirements: nomenclature and models. Reference evapotranspiration, crop coefficients (single and dual), stress coefficients. Deficit irrigation. Water stress indicators and other tools for irrigation scheduling. Water use and irrigation efficiencies. Water productivity. Irrigation methods. Quality parameters. Sprinkler, drip, pivot and surface irrigation. Control and automatisms, pumping systems. Drainage: systems, equipments, measurements necessary for design. Applications and special cases. Project exercise: from climate, crop and soil to the irrigation project (students working in group present all calculations, a descriptive memory and a power point presentation discussed in class.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665545" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r11" data-bs-toggle="collapse">
+				<td>Crop Protection <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 2nd</td>
+				<td>Agronomic Engineering</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r11">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Characterization and typification of the agro-ecosystem; characterization of the key-enemies of different crops (pests, diseases and weeds), symptoms and damages, life cycles, epidemiology and population dynamics, natural enemies; methods of risk estimation and decision-making tools; strategies and management tactics of protection. I. Protection of vegetables and cereal crops. The following crops are addressed: Protected and open-air vegetable crops (lettuce, cabbages, cucumbers, potatoes and tomatoes), and cereals (rice, corn, wheat, barley and oats). II. Protection of erennial woody crops. The following woody crops are addressed: Grapevine, citrus, apple, pear and stone fruits.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665551" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r28" data-bs-toggle="collapse">
+				<td>Field Crops and Forage Cultures <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Agronomic Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r28">
+				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386349" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r30" data-bs-toggle="collapse">
+				<td>Fruit Production <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Agronomic Engineering</td>
+				<td>Portuguese/English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r30">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Module A – Topics common to several species<br />
+				- Ecophysiology and regulation of growth, development and production<br />
+				- Flowering, setting and fruit growth<br />
+				- Integrated production of fruit trees (watering, fertilization, control of pests, diseases and weeds)<br />
+				- Nurseries, propagation and rootstocks<br />
+				- Establishment or renewal of orchards (replanting diseases)<br />
+				- Bioregulators in fruit growing<br />
+				- Principles and post-harvest techniques<br />
+				- Quality and nutritional value of fruits - Biotechnology and improvement in fruit growing<br />
+				<br />
+				<br />
+				Module B - Soil and climate requirements, conditioning factors productivity, obtaining plants, training systems and post-harvest techniques for the following species:<br />
+				- Pome fruit (pear and apple tree)<br />
+				- Prunoide plants (plum, cherry, peach, apricot)<br />
+				- Citrus fruits, olive trees<br />
+				- Dried fruits (almond, chestnut, hazel and walnut)<br />
+				- Small fruits (blackberries, raspberries, blueberries and strawberries)<br />
+				- Kiwi, fig tree</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386348" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r31" data-bs-toggle="collapse">
+				<td>Viticulture <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Agronomic Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r31">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Theoretical<br />
+				1. World wine-growing activity 2. Grapevine ampelography and selection 3. Grapevine ecophysiology 4. Zoning, viticultural regions and vines 5. Vine installation and management systems 6. Soil fertilization and maintenance 7. Vegetation management techniques 8. Yield control and yield/quality ratios 9. Maturation and harvesting 10. Technological particularities of table grape production<br />
+				<br />
+				Practices<br />
+				Monitoring and participation in the vineyard's cultural operations: winter pruning, phytosanitary treatments, soil maintenance and green interventions. Evaluation of responses to load left to pruning and phenological records. Analysis of the effect of the training system and the variety on the ecophysiology of the vine, on the vegetative growth, on the fertility and on the potential production.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386350" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r13" data-bs-toggle="collapse">
+				<td>Industrial Plant Design <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Food Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r13">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>The Food Engineering Project: Market analysis; Business strategy; Financing. Strategic Coordination in Project Development. Different phases: Preliminary Program and Project Team; Base Program: analysis of the conditionings and territorial framework. Prior Study - technical and economic feasibility. Basic project of Architecture. Licensing. Financial support, tax incentives. Execution project. Final Surveys. Authorization of Labor. Company strategy: Big data, type of products and quantity to produce as a market function; technologies; technological diagrams and mass balances; sizing and selection of equipment. Distribution in space, lay-out sketch. Estimated costs. Case studies - main technological indices and equipment. Practical exercise: Previous study of the Food Industry Facilities Project using the bottom up approach: starting from market share - up to consumer needs (big data)- to reception of raw materials, production flows, digital networks, etc.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665544" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r15" data-bs-toggle="collapse">
+				<td>Marketing <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Food Engineering</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r15">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>1. Marketing Strategy and Orientation</li>
+					<li>1.1 Introduction to Marketing</li>
+					<li>1.2 Evolution of Marketing</li>
+					<li>1.3 Marketing Orientation</li>
+					<li>1.4 Marketing Process</li>
+					<li>1.5 Concepts of Management and Strategic Planning</li>
+					<li>1.6 Marketing Strategy Formulation</li>
+					<li>2. Consumer Behavior and Market Segmentation</li>
+					<li>2.1 Determinants of Consumer Behavior</li>
+					<li>2.2 Purchase Decision Process</li>
+					<li>2.3 Segmentation Criteria</li>
+					<li>2.4 Target Market Selection</li>
+					<li>2.5 Positioning Strategies</li>
+					<li>3. Introduction to Marketing Research</li>
+					<li>3.1 Marketing Research Objectives</li>
+					<li>3.2 Marketing Research Methods</li>
+					<li>4. Marketing Policies: Marketing-Mix</li>
+					<li>4.1 Product: concepts, components (brand, packaging), innovation</li>
+					<li>4.2 Price: concepts, stages and methods</li>
+					<li>4.3 Distribution: organization and dynamics of distribution, distribution mix</li>
+					<li>4.4 Communication: objectives, strategy and communication mix.</li>
+					<li>5. Marketing Plan</li>
+					<li>5.1 Definition of the Marketing Plan</li>
+					<li>5.2 Steps of the Planning Process</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665540" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r14" data-bs-toggle="collapse">
+				<td>Food Quality Systems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 2nd</td>
+				<td>Food Engineering</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r14">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Quality: Concepts and models; Quality and business strategies; Quality management.</li>
+					<li>Portuguese Quality System / European Quality System: Certification and Accreditation</li>
+					<li>Quality Management Systems: ISO 9001</li>
+					<li>Quality Improvement Programs - Total Quality Model E.F.Q.M .; Lean Manufacturing: Principles; DMAIC; Kaisen Methodology.</li>
+					<li>Quality Assessment: Self-evaluation; Quality Costs; Quality Audit.</li>
+					<li>Most relevant references in the area of Food Safety: ISO 22000 - steps of implementation of the benchmark and analysis of the requirements.</li>
+					<li>Food safety references: IFS, BRC, FSSC 22000 - analysis of requirements and standards comparison.</li>
+					<li>Global GAP - importance of certification in the primary sector.</li>
+					<li>Food defense - approach to food defense plans and specific requirements in the frameworks under study.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665552" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r33" data-bs-toggle="collapse">
+				<td>New Processes and Environmental Management <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<td>1st / 2nd</td>
+				<td>Food Engineering</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r33">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Emerging processes in food engineering. Non-thermal processes: High hydrostatic pressure, Ultrasound, Mano-thermo-sonication, Ionization, High intensity light pulses, Electric Field Pulses; Alternative thermal processes: radio frequency heating, microwave processing, infrared heating, Ohmic heating, pressure freezing. New food packaging concepts: active and intelligent packaging. Environmental Management Efficient Use of Water in the Food Industry. Water Cycle in Industry. Implementation of a Plan for the Efficient Use of Water. Measures of Efficient Use of Water in Industrial Purposes. The Best Available Technologies (MTDS) for the Treatment and Valorization of Water/Wastewater and Residues in the Food Industry. Key Parameters for Assessing the Efficiency of Water/Wastewater and Waste Treatment Technologies. The Curricular Unit includes the realization of a Project, developed in a group, which is intended to integrate all the knowledge acquired</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386354" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r16" data-bs-toggle="collapse">
+				<td>Environmental Modelling <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Environmental Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r16">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Module 1 – Modeling and Model Building</li>
+					<li>1.1. Models and modelling</li>
+					<li>1.2. Visualizing environmental data1.3. Processing environmental data</li>
+					<li>Practical case-studies</li>
+					<li>1.4. Wind speed and wind power</li>
+					<li>1.5. Solar radiation at Earth’s surface</li>
+					<li>1.6. Light interaction with a plant canopy</li>
+					<li>Module 2 – Hydrodynamic and habitat models for river restoration</li>
+					<li>Module 3 – Empirical modelling in R</li>
+					<li>Module 4 – The SWAT+ model (Soil and Water Assessment Tool)</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665542" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r17" data-bs-toggle="collapse">
+				<td>Project - Environment <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Environmental Engineering</td>
+				<td>Portuguese/English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r17">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>The Project goals and content. General aspects and fundamentals. Legislation on public works - Ordinance No. 701-H/2008 of 29 July.</li>
+					<li>Preparation and design of a technical proposal.</li>
+					<li>Project organization and specifications (written content and drawings). Specifications – general clauses and technical clauses. Technical assistance. Considerations on Tender Programs and Contract Specifications</li>
+					<li>Technical evaluation of projects. Evaluation criteria (technical quality, price, deadline, others)</li>
+					<li>Focal aspects on measurements and budget estimation.</li>
+					<li>Economic and financial study. Cost recovery principle. Application of environmental and economic indicators</li>
+					<li>Ethics and deontology in engineering projects</li>
+					<li>Computer-aided design program. Application in engineering of the Autocad program. Drawing files, extensions, “viewers”, layouts, viewports. Configuration and customization of user interface, command bars, shortcuts, console commands; Organization and referencing of the design; Graphic entities and the management of their properties, blocks, data entry, identifying dimensions, quoting drawings, printing and plotting elements.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665543" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r18" data-bs-toggle="collapse">
+				<td>Solid Waste Treatment Technologies <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 2nd</td>
+				<td>Environmental Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r18">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>1. Origin, characteristics and properties of solid waste</li>
+					<li>1.1 Classification according the origin</li>
+					<li>1.2 Classification according the characteristics</li>
+					<li>1.3 Physical, chemical and biochemical properties</li>
+					<li>1.4 Quantification and physical characterization</li>
+					<li>2. Physical, physic-chemical and chemical processes for solid waste treatment</li>
+					<li>2.1 Manual and mechanical separation</li>
+					<li>2.2 Drying and densification</li>
+					<li>2.3 Incineration e co-incineration</li>
+					<li>2.4 Pyrolysis and plasma technology</li>
+					<li>3. Advanced biological processes for solid waste treatment</li>
+					<li>3.1 Aerobic</li>
+					<li>3.2 Anaerobic</li>
+					<li>3.3 Combined aerobic/anaerobic</li>
+					<li>4. Other processes for solid wastes treatment and valorization</li>
+					<li>4.1 Acid, alkaline and enzymatic hydrolysis</li>
+					<li>4.2. Production of glucose, ethanol, methanol and single cell protein</li>
+					<li>5 – Key parameters for the assessment of efficiency and selection of waste treatment technologies</li>
+					<li>Case Study: Mechanical Biological Treatment (MBT) in a Municipal Solid Waste System</li>
+					<li>Practical classes (laboratorial classes and study visits)</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665553" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r19" data-bs-toggle="collapse">
+				<td>Environmental Economics and Natural Resources <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Environmental Engineering</td>
+				<td>Portuguese</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r19">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>1. An introduction to environmental and natural resource economics</li>
+					<li>Economy and the environment. Economic functions of the environment. Scarcity, choice and opportunity cost. Pareto optimum and compensation tests. Externalities, public goods and market failure.</li>
+					<li>2. Environmental and natural resource use problems as economic problems</li>
+					<li>Pollution and pollution control. Economic efficiency, cost-effectiveness, technological innovation and other assessment criteria. Compared analysis of different pollution control tools. Biodiversity, ecosystem services and their economic value. Renewable natural resources: optimal use and common pool resources. Optimal forest management. Time, dynamic efficiency and sustainability.</li>
+					<li>3. Analytical tools and environmental policy decision-making</li>
+					<li>Cost-benefit analysis and the economic valuation of the environment as decision-support tools in environmental and natural resource management and policy. Role and the limits of economic analysis.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665535" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r20" data-bs-toggle="collapse">
+				<td>Remote Sensing and Image Analysis <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Forest Engineering and Natural Resources</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r20">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Introduction to the raster structure of multispectral data. Spatial, radiometric, spectral and temporal resolution. Color compositing and image visualization. Contrast enhancement and filtering. Pre-processing: radiometric correction and DN-to-reflectance conversion. Geometrical correction. The atmospheric effect and its correction in images. Spectral signatures: vegetation, soil, and water. Main algorithms for supervised and unsupervised classification: ISODATA, k-means, maximum likelihood, classification trees. Accuracy assessment statistics. Change detection and analysis of image time series. Vegetation indices: generic concept and specialized indices; minimization of disturbances induced by the atmosphere and soil background.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665533" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r21" data-bs-toggle="collapse">
+				<td>Forest Models <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Forest Engineering and Natural Resources</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r21">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>1. Overview of forest models and simulators as a support to sustainable forest management</li>
+					<li>2. Data for the development and validation of forest models: permanent, interval plots and temporary plots; continuous forest inventory; total and partial stem analysis</li>
+					<li>3. Forest productivity evaluation: factors influencing forest productivity and productivity management; evaluation of forest productivity</li>
+					<li>4. Introduction to R and RStudio</li>
+					<li>5. Allometric relationships and growth functions: theoretical growth functions; simultaneous modelling of several individuals: formulating growth functions without age explicit</li>
+					<li>6. The FCTOOLS website, the sIMfLOR platform and the standsSIM-md simulator</li>
+					<li>7. Growth and yield models</li>
+					<li>- Stand models: GLOBULUS</li>
+					<li>- Stand models with simulation of diameter distribution: PBRAVO</li>
+					<li>- Individual tree models: PINASTER, PINEA, CASTANEA, SUBER</li>
+					<li>8. Management oriented process based models: 3PG model</li>
+					<li>9. Regional and large scale simulators</li>
+					<li>10. Evaluation/validation of models</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665541" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r22" data-bs-toggle="collapse">
+				<td>Fire Ecology and Management <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 2nd</td>
+				<td>Forest Engineering and Natural Resources</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r22">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Introduction to the rural fire problem in Portugal: statistics on number of fires, area burned and causes of ignition. Geographical distribution. Plants as fuels: main types of forest fuels. Structural and thermodynamical parameters of plant fuels – fuel modelling; Climate, meteorology, and fire. Main synoptical conditions associated with large fires. Fire danger indexing: the Canadian Fire Weather Index (FWI). Wildfire behavior: ignition, steady-state fire behavior, and extreme fire behavior. Crown fires. Wind-dominated vs plume-dominated fires. Fire behavior modeling: the Rothermel model and simulation with BEHAVE. Fire ecology and effects. Fire as an ecosystem disturbance. Fire effects on flora, fauna, soils and water. Fire prevention silviculture. Stand and landscape-level fuels and forest management.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665548" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r23" data-bs-toggle="collapse">
+				<td>Functional Processes in Forest Ecosystems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 2nd</td>
+				<td>Forest Engineering and Natural Resources</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r23">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>I. Water. Effects of vegetation on the water balance.</li>
+					<li>II. Carbono e Solo. Vegetação e sequestro de carbono. Disponibilidade de nutrientes e crescimento das plantas. Interações solo-raízes.</li>
+					<li>III. Biodiversity and species interaction.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665550" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r24" data-bs-toggle="collapse">
+				<td>Management and Conservation of Freshwater Ecosystems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Biodiversity and Conservation</td>
+				<td>English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r24">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>I- Hydro-geomorphic and hydraulic scenario. Mineralization and major components. Thermal and chemical stratifications in aquatic environment. Majority and minority components, gases. Mineralization and organic matter. Organic matter. Elements of variable proportionality and microcomponents. Portuguese fish fauna. Species and guilds. Biological communities, typology and functioning of river ecosystems. Spatial, temporal and trophic gradients.</li>
+					<li>II- Qualidade da água. Formas de poluição. Restauro de albufeiras e oligotrofização. Regularização, alterações do regime de caudais e extracção de água. Caudais ecológicos. Situação em Portugal e formas de implementação de caudais de manutenção ecológica. Passagens p/ peixes, tipologia, localização e dimensionamento. Estrutura e ecologia ripárias. Papel e valor da mata ripária. Restauro da vegetação ripária. Alterações morfológicas do canal e leitos fluviais. Extracção de inertes. Efeitos e formas de mitigar alterações. Restoration of habitats, sections and river segments. Assessment of water quality, ecological and fish. Official indices and their calculation.</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665539" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r25" data-bs-toggle="collapse">
+				<td>Animal Population Ecology and Management <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Biodiversity and Conservation</td>
+				<td>Portuguese/English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r25">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<p>Analyzing population responses to the environment drivers. Demographic strategies. Interspecific relationships: cooperation, reproduction, competition. Interspecific relationships. Regulation of populations. Use of RAMAS and VORTEX software in the application of deterministic, stochastic, matrix and metapopulation models using study case. Habitat use and selectivity. Variability and genetic structure of populations, processes of adaptation, isolation and evolution. Estimation of population parameters: analysis of population sampling data. Absolute counts. Distance sampling. Movement and dispersal. Population management: Sustainable exploitation; Conservation and meta-population theory; Management of invasive species. Animal ecology in urban environments. Analysis and management of agricultural and forest habitats for wildlife conservation.</p>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665534" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+			<tr data-bs-target="#r26" data-bs-toggle="collapse">
+				<td>Management and Conservation of Vegetation and Agroforestry Systems <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+				<!--<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+	  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+	</svg>-->
+				<td>1st / 1st</td>
+				<td>Biodiversity and Conservation</td>
+				<td>Portuguese/English</td>
+			</tr>
+			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r26">
+				<td colspan="3">
+				<h6>Syllabus</h6>
+	
+				<ol>
+					<li>Module 1: Bioclimatic and biogeographic context of Portuguese vegetation; methods of vegetation study.</li>
+					<li>1. Bioclimatology and biogeography: history and concepts;</li>
+					<li>2. Biomes;</li>
+					<li>3. Methods of vegetation study.</li>
+					<li>Module 2: Vegetation conservation and plant mapping.</li>
+					<li>1. Plant mapping;</li>
+					<li>2. Biodiversity, vegetation management and conservation;</li>
+					<li>3. International Conventions, European Regulations, agri-environmental and forest-environment measures.</li>
+					<li>Module 3: Agroforestry systems.</li>
+					<li>1. Concepts and typologies;</li>
+					<li>2. Hydrological balance and nutrient cycling;</li>
+					<li>3. Silvopastoral systems: community rural areas as a case study.</li>
+					<li>Module 4: Restoration and rehabilitation of vegetation and plant communities.</li>
+					<li>1. Degradation factors;</li>
+					<li>2. Restoration methods; Phytoremediation;</li>
+					<li>3. Case studies (riparian galleries; wild fires; weed control; sand dunes; phytoremediation).</li>
+				</ol>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665538" target="_blank" type="button">See at Fenix</a></td>
+			</tr>
+		</tbody>
+	</table>
+	<a class="btn btn-outline-secondary" href="/en/application" type="button">Application</a></div>
+	
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+	<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white" style="background-image: url('../sites/default/files/2022-05/parcerias.jpg');">
+	<h1 class="mb-3 h2">Highlights</h1>
+	
+	<ul class="mt-auto fw-bold">
+		<li class="me-auto pt-3">2 years training (4 semesters);</li>
+		<li class="me-auto pt-3">5 optional units to deepen areas of application;</li>
+		<li class="me-auto pt-3">Data Science core:
+		<ul>
+			<li>data science fundamentals and methodologies</li>
+			<li>databases</li>
+			<li>python coding</li>
+			<li>data analysis and visualization</li>
+			<li>machine learning</li>
+			<li>hackathon;</li>
+		</ul>
+		</li>
+		<li class="me-auto pt-3">Strong practical component: learning by doing.</li>
+	</ul>
+	
+	<p class="pt-3"><a class="btn btn-outline-light" href="/en/application" type="button">More about application</a></p>
+	</div>
+	<!-- Jumbotron --></div>
+	</div>
+	

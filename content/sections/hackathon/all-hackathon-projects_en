@@ -1,0 +1,196 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h4 class="py-3"><a href="#projectos">List of hackathon projects</a></h4>
+
+		<h2>Hackathon projects solve real problems.<span class="text-muted"> Working as a team, use Data Science to
+				solve challenges posed by partner companies.</span></h2>
+
+		<p>Hackathon projects are an essential component of the <span class="green-ds-name">Green Data Science</span>
+			master programme. Data Science problems proposed by companies or entities are worked on by teams of at least
+			five students, providing real work experience. The word <strong>Hackathon</strong> comes from
+			<em>hacker+marathon</em>, which means challenge to reach the goal!</p>
+
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="card h-100 p-4 bg-light border rounded-3"><svg class="bi bi-person-workspace"
+						fill="currentColor" height="32" viewbox="0 0 16 16" width="32"
+						xmlns="http://www.w3.org/2000/svg">
+						<path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5">
+						</path>
+						<path
+							d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.4 5.4 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2z">
+						</path>
+					</svg>
+
+					<h3 class="py-3">Benefits of Hackathon Projects</h3>
+
+					<ul>
+						<li>work with real problems</li>
+						<li>train and apply acquired skills to complex problems</li>
+						<li>work in collaborative teams</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<h3 class="pt-5 pb-3"><svg class="bi bi-question-circle-fill" fill="currentColor" height="28"
+				viewbox="0 0 16 16" width="28" xmlns="http://www.w3.org/2000/svg">
+				<path
+					d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M5.496 6.033h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286a.237.237 0 0 0 .241.247m2.325 6.443c.61 0 1.029-.394 1.029-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94 0 .533.425.927 1.01.927z">
+				</path>
+			</svg> I want to propose a data science problem!</h3>
+
+		<p>If, at your company or entity, you have a data science problem, and you would like it to be solved by one of
+			our hackathon teams, you can become a partner company or entity of the <span class="green-ds-name">Green
+				Data Science</span>. See how at <a href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners">PARTNERSHIPS</a>.</p>
+	</div>
+
+	<div class="col-md-4 mt-3"><img class="img-fluid"
+			src="https://www.isa.ulisboa.pt/files/courses/pub/mcdaafa/poster_1.jpg" /></div>
+</div>
+
+<div class="row featurette">
+	<style type="text/css">
+		.truncate-text {
+			display: -webkit-box;
+			-webkit-box-orient: vertical;
+			overflow: hidden;
+			-webkit-line-clamp: 5;
+			/* Number of lines to show */
+		}
+	</style>
+	<h1 class="pt-5 pb-3" id="projectos">List of Hackathon projects</h1>
+
+	<p>The following projects were developed by the Hackathon teams</p>
+
+	<div class="card mb-12 border-0 ">
+		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/raspberries.jpg" />
+			</div>
+
+			<div class="col-md-6 bg-light">
+				<div class="card-body ">
+					<p class="card-text ">&nbsp;</p>
+
+					<h3 class="green-ds-name">Raspberry harvest forecasting challenge</h3>
+
+					<div class="row py-2">
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: The Summer Berry Company Portugal
+						</div>
+
+						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Agriculture</div>
+					</div>
+
+					<div class="row py-2">
+						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2023</div>
+					</div>
+					<span class="truncate-text">Predicting the quantity of fruits that can be harvested weekly is
+						essential to support the daily management of red fruit production in greenhouses. This value is
+						important for planning the allocation of human resources necessary to carry out the harvest,
+						predicting the quantity of fruit delivered to customers. In the case of red fruits, which cannot
+						be stored and have a short shelf life, the accuracy of this prediction is essential. The Summer
+						Berry Company (TSBCo) group produces small fruits throughout the year. Production is carried out
+						in greenhouse tunnels, which allow stable conditions for plant growth. However, not all
+						environmental factors can be controlled, especially meteorological ones. This may have
+						implications for the speed of fruit development and quantity produced at each time. In this
+						Hackathon, the challenge was launched to create a short and medium-term prediction model for the
+						quantity of raspberries harvested. The project bases its analysis on the history of data
+						collected by the company on agricultural holdings, which includes, among others, production
+						data, characterization of crop phenological parameters, meteorological and environmental data.
+						Team Members Afonso Marques, Aziza Ben Tanfous, Beatriz Cardoso, Diogo Pinto, Luís Soares,
+						Miguel Paulo Faculty advisor Rui Figueira Partner advisor João Alves, Ana Morais github
+						repository https://github.com/isa-ulisboa/greends-hack2023-smb</span>
+
+					<p>&nbsp;</p>
+
+					<p class="pt-2"><a class="card-link"
+							href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/46">Load details</a></p>
+
+					<p class="pt-3"><small>Photo by <a
+								href="https://unsplash.com/@zachinglis?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Zach
+								Inglis</a> on <a
+								href="https://unsplash.com/photos/macro-photography-of-raspberry-fruits-t0A2NCMhXRQ?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="card mb-12 border-0 ">
+		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg" />
+			</div>
+
+			<div class="col-md-6 bg-light">
+				<div class="card-body ">
+					<p class="card-text ">&nbsp;</p>
+
+					<h3 class="green-ds-name">Prioritization of occurrences and allocation of means to combat forest
+						fires</h3>
+
+					<div class="row py-2">
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: ANEPC – FEPC</div>
+
+						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Wildfire management</div>
+					</div>
+
+					<div class="row py-2">
+						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2023</div>
+					</div>
+					<span class="truncate-text">Portugal is a country that has been severely affected by fires in recent
+						decades, which generate high social, economic and environmental impacts. There are several
+						factors that contribute to this reality: (1) territory with high rural abandonment, which
+						combined with the low profitability of rural spaces, creates a flammable landscape, with high
+						continuity and quantity of fuel; (2) favorable weather conditions, especially during summer,
+						aggravated by climate change; (3) a high number of ignitions promoted by a culture of negligent
+						use of fire. The fires that generate the largest burned area and negative impacts are usually
+						concentrated in a period of 10-15 days. This fact introduces complexity into fire management,
+						since large fires are often accompanied by simultaneity (i.e. several occurrences occurring at
+						the same time) and high geographic dispersion across the national territory. In this context,
+						fire suppression management is a complex task that requires knowledge, tools and concerted
+						efforts from all involved. This must take into account the environmental conditions that
+						influence the development of fires, but also the spatial, temporal and capacity heterogeneity of
+						resources available for fighting. In order to improve the forest fire fighting system, it is
+						important to increase the effectiveness of its response. This improvement may involve the
+						promotion of anticipatory measures, which promote more effective management of resources,
+						maintaining the balance of the combat system (i.e. avoiding its collapse). The possibility of
+						predicting the type of event, based on the analysis of the history of occurrences, is an
+						important element in supporting resource management decisions. In this Hackathon, the challenge
+						is to predict the probability of a new forest fire event escaping the initial attack that allows
+						it to be extinguished in 90 minutes, given the terrain and meteorological conditions associated
+						with the occurrence. The aim is also to identify which factors determine a forest fire to escape
+						this initial attack. For this project, historical data on occurrences in Portugal since 2018 is
+						used, including operational data, meteorological data and geographic data. Team Members António
+						Lacerda, Benjamin Hilliger, Christoph Fischer, Inês Silveira, Joana Esteves, Johanna Rauberger,
+						Vasco Florentino Faculty advisor Akli Benali, Rui Figueira Partner advisor Fábio Silva,
+						Alexandre Penha, Carlos Mota github repository
+						https://github.com/isa-ulisboa/greends-hack2023-wildfire</span>
+
+					<p>&nbsp;</p>
+
+					<p class="pt-2"><a class="card-link"
+							href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/47">Load details</a></p>
+
+					<p class="pt-3"><small>Photo by <a
+								href="https://unsplash.com/pt-br/@egor_vikhrev?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Egor
+								Vikhrev</a> on <a
+								href="https://unsplash.com/pt-br/fotografias/silhueta-das-arvores-durante-a-noite--E6jqIGzgOY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row featurette">
+	<h1 class="pt-5 pb-3">List of Hackathon workshops</h1>
+
+	<ul>
+		<li>2023 - Data Science Hackathon Workshop: <strong><span><a
+						href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/node/33">CHALLENGES AND PROBLEM
+						SOLVING WITH DATA SCIENCE IN NATURAL RESOURCES AND ENVIRONMENT</a></span></strong>, 6th October
+			2023.</li>
+	</ul>
+</div>

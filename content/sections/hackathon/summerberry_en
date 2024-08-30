@@ -1,0 +1,43 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h3 class="pt-4 pb-3"><span class="text-muted">Data Science problem:</span> Create a short and medium-term prediction model for the quantity of raspberries harvested</h3>
+
+		<p>Predicting the quantity of fruits that can be harvested weekly is essential to support the daily
+			management of red fruit production in greenhouses. This value is important for planning the allocation
+			of human resources necessary to carry out the harvest, predicting the quantity of fruit delivered to
+			customers. In the case of red fruits, which cannot be stored and have a short shelf life, the accuracy
+			of this prediction is essential.</p>
+
+		<p> The Summer Berry Company (TSBCo) group produces small fruits throughout the year. Production is
+			carried out in greenhouse tunnels, which allow stable conditions for plant growth. However, not all
+			environmental factors can be controlled, especially meteorological ones. This may have implications
+			for the speed of fruit development and quantity produced at each time.</p>
+
+		<p> In this Hackathon, the challenge was launched to create a short and medium-term prediction model for
+			the quantity of raspberries harvested. The project bases its analysis on the history of data collected
+			by the company on agricultural holdings, which includes, among others, production data,
+			characterization of crop phenological parameters, meteorological and environmental data.</p>
+
+
+	</div>
+
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+		<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+			style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 0, 0, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/raspberries.jpg');">
+            <h1 class="mb-3 h2">Hackathon details</h1>
+				
+            <ul class="mt-auto fw-normal list-unstyled">
+                <li class="py-0"><span class="fw-bolder">Partner</span>: The Summer Berry Company Portugal</li>
+				<li class="py-0"><span class="fw-bolder">Domain</span>: Agriculture</li>
+			    <li class="py-0"><span class="fw-bolder"> Year</span>: 2023</li>
+                <li class="pt-2"><span class="fw-bolder"> Team Members</span>: Afonso Marques, Aziza Ben Tanfous, Beatriz Cardoso, Diogo Pinto, Luís Soares, Miguel Paulo</li>
+                <li class="py-0"><span class="fw-bolder"> Faculty advisor</span>: Rui Figueira</li>
+                <li class="py-0"><span class="fw-bolder"> Partner advisor</span>: João Alves, Ana Morais</li>
+				<li class="py-2"><span class="fw-bolder"> Github</span>: <a class="text-white" href="https://github.com/isa-ulisboa/greends-hack2023-smb">https://github.com/isa-ulisboa/greends-hack2023-smb</a> (available soon) </li>
+            </ul>
+
+
+		</div>
+		<!-- Jumbotron -->
+	</div>
+</div>

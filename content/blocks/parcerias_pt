@@ -1,0 +1,14 @@
+<div class="bg-success bg-gradient text-light py-4 text-start shadow-1-strong mb-5">
+<h1 class="text-uppercase welcome-title text-light text-center pt-3">Parcerias</h1>
+
+<h3 class="py-3">Associe a sua empresa ou entidade ao mestrado. Apoie a capacitação em Ciência de Dados aplicada à sua área de actividade.</h3>
+
+<p>Ser parceiro do <span class="green-ds-name">Green Data Science</span> cria oportunidades para facilitar a inovação e transferêcia de tecnologia, adaptada aos processos específicos da sua organização.</p>
+
+<p>O maior benefício é, no entanto, a formação de profissionais altamente qualificados, com base em experiência e aplicação a problemas reais.</p>
+
+<p>A parceria pode concretizar-se de várias formas. Por exemplo, pode submeter um caso de uso para um Projecto Hackathon, apresentar um seminários sobre a actividade no seu sector, acolher estágios ou dissertações e ainda proporcionar a formação dos seus colaboradores.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./parcerias" type="button">Saber mais</a></p>
+</div>
+

@@ -1,0 +1,59 @@
+<div class="row featurette">
+	<div class="col-md-7">
+	<h2 class="featurette-heading py-2">Para alunos com formação de 1ºciclo de uma ampla gama de áreas. <span class="text-muted">Expandir horizontes...</span></h2>
+	
+	<p>Ao mestrado <span class="green-ds-name">Green Data Science</span> podem candidatar-se alunos com formação de base numa ou várias das áreas de Ciências da Vida, Ciências Físicas, Matemáticas, Estatística e Informática ou Ciências do Ambiente. Esta formação pode ser obtida nas Licenciaturas das áreas de Agronomia, Florestal, Alimentar, Biologia, Ambiente, Arquitetura Paisagista, e ciências afins destas áreas. Será dada prioridade a candidatos com experiência profissional de pelo menos um ano. Não é necessária formação prévia em ciências da computação.</p>
+	
+	<p>O <span class="green-ds-name">Green Data Science</span> tem 30 vagas disponíveis anualmente.</p>
+	
+	<h3 class="pt-4 pb-3">Requisitos para a admissão</h3>
+	
+	<p>Áreas de formação de base: Ciências da Vida, Ciências Físicas, Matemáticas, Estatística e Informática ou Ciências do Ambiente</p>
+	
+	<ul>
+		<li>ser titular do grau de licenciado, ou equivalente legal, obtido no ISA ou noutras instituições de ensino superior, nas áreas formação base;</li>
+		<li>ser titular de um grau académico de ensino superior estrangeiro conferido na sequência de um 1º ciclo de estudos, nas áreas de formação de base, organizado de acordo com os princípios do Processo de Bolonha por um Estado aderente a este Processo;</li>
+		<li>ser titular de um grau académico superior estrangeiro que seja reconhecido como satisfazendo os objetivos do grau de licenciado pelo Conselho Científico do ISA;</li>
+		<li>Ser detentor de um currículo escolar, científico ou profissional, que seja reconhecido como atestando capacidade para realização do ciclo de estudos pelo Conselho Científico do ISA.</li>
+	</ul>
+	
+	<h3 class="pt-4 pb-3">Prazo de candidatura</h3>
+	
+	<p>As datas das diferentes fases de candidatura para 2024/2025 são as seguintes:</p>
+	
+	<ul>
+		<li><i>1ªfase: 11 de março a 12 de abril 2024</i></li>
+		<li><i>2ª fase: 11 de junho a 12 de julho 2024 <!-- <span class="text-danger">(em curso)</span>--></i></li>
+		<li><i>3ª fase: 22 de julho a 16 de agosto 2024</i></li>
+	</ul>
+	
+	<h3 class="pt-4 pb-3">Submeter candidatura</h3>
+	
+	<p>Pode submeter a sua candidatura online através da plataforma Fenix do ISA, onde deve criar um novo registo. Para saber mais, e ver qual a documentação necessária, consulte a <a href="https://www.isa.ulisboa.pt/candidatos/candidaturas-2ciclo">seguinte página</a>.</p>
+	<a class="btn btn-outline-secondary" href="https://fenix-edu.isa.ulisboa.pt/accountCreation" type="button">Aceder ao Fenix</a> <a class="btn btn-outline-secondary" href="https://www.isa.ulisboa.pt/candidatos/candidaturas-2ciclo" type="button">Ver mais sobre candidatura</a></div>
+	
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+	<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white" style="background-image: url('./sites/default/files/2022-05/candidatura.jpg');">
+	<h1 class="mb-3 h2">Requisitos</h1>
+	
+	<ul class="mt-auto fw-bold">
+		<li class="me-auto pt-3">ter licenciatura (total de 180 ECTS);</li>
+		<li class="me-auto pt-3">ter formação de base numa das seguintes áreas
+		<ul>
+			<li class="me-auto">Ciências da Vida</li>
+			<li class="me-auto">Ciências Físicas</li>
+			<li class="me-auto">Matemáticas</li>
+			<li class="me-auto">Estatística</li>
+			<li class="me-auto">Informática</li>
+			<li class="me-auto">Ciências do Ambiente;</li>
+		</ul>
+		</li>
+		<li class="me-auto pt-3">prioridade a candidatos com experiência profissional;</li>
+		<li class="me-auto pt-3">não necessita de formação prévia em ciências da computação.</li>
+	</ul>
+	
+	<p class="pt-3"><a class="btn btn-outline-light" href="https://www.isa.ulisboa.pt/candidatos/candidaturas-2ciclo" type="button">Mais sobre candidatura</a></p>
+	</div>
+	<!-- Jumbotron --></div>
+	</div>
+	

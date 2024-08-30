@@ -1,0 +1,93 @@
+<div class="row featurette py-5">
+<div class="col-md-7">
+<h2 class="featurette-heading">Estudar na maior e mais qualificada escola em Ciências Agrárias do País.</h2>
+
+<p>O Instituto Superior de Agronomia da Universidade de Lisboa (ISA) é, em Portugal, a maior e mais qualificada escola de graduação e pós-graduação em Ciências Agrárias. Com mais de 160 anos de experiência, o ISA beneficia das condições únicas do Campus da Tapada da Ajuda para um ensino aplicado que acompanha a evolução tecnológica e a realidade do País. A aposta é na qualidade e na modernização do mesmo.</p>
+
+<p>Orgulhamo-nos de ser uma das escolas com melhores indicadores científicos da universidade portuguesa, com uma fervilhante actividade científica e múltiplas colaborações com organizações nacionais e internacionais.</p>
+
+<p>Preparamos os nossos alunos no domínio das ciências base e ferramentas da engenharia com vista a resolver problemas complexos relacionados com a gestão da paisagem e ecossistemas e a produção de alimentos, fibras e energia, no contexto das Engenharias Alimentar, Agronómica, Florestal, Ambiental, Zootécnica, e ainda de Biologia e Arquitectura Paisagista. O Mestrado <span class="green-ds-name">Green Data Science</span> acrescenta uma nova dimensão às valências de ensino e aplicação do ISA, em resposta aos desafios da 4ª revolução tecnológica.</p>
+
+<p>No Campus da Tapada da Ajuda podes estudar num ambiente com 100 ha, no interior da cidade de Lisboa, que combina harmoniosamente áreas de ensino, culturas agrícolas, um parque e reserva botânica.</p>
+<a class="btn btn-outline-secondary" href="https://www.isa.ulisboa.pt/apresentacao/o-isa" type="button">Mais sobre o ISA</a></div>
+
+<div class="col-md-5 embed-responsive"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item embed-responsive-16by9" frameborder="0" height="281" src="https://www.youtube.com/embed/PWiiXvLcTD4" title="YouTube video player" width="500"></iframe><br />
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" frameborder="0" height="281" src="https://www.youtube.com/embed/Z0q1kiVUawM" title="YouTube video player" width="500"></iframe></div>
+</div>
+
+<div class="row featurette py-5">
+<h2 class="featurette-heading">Testemunhos sobre o <span class="green-ds-name">Green Data Science</span></h2>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_01.png" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Dado que lido diariamente com dados no meu trabalho, este mestrado foi a escolha ideal para me ensinar a fazê-lo corretamente. O conteúdo do curso é altamente valioso e o horário é ideal para estudantes que trabalham. Tive a oportunidade de trabalhar os meus próprios projetos, o que tornou tudo muito mais empolgante e ligado ao meu trabalho."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Inês Silveira</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_02.png" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Venho de uma formação em engenharia agronómica e a escolha deste mestrado Green Data Science não poderia ter sido uma melhor escolha, onde combino minha área de estudo com minha paixão por tecnologias e automação de processos. Até agora estou muito feliz com a opção que fiz e, para mim, a palavra que melhor descreve esse mestre seria: desafiador."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Diogo Pinto</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_03.jpeg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"A tomada de decisão baseada em evidências é crucial para atender às necessidades da crescente população, superando a crise ambiental. Ao usar a ciência de dados para promover a gestão sustentável de recursos, este programa de mestrado sem precedentes aproveita o poder das tecnologias atuais para abordar os problemas globais críticos que a humanidade enfrenta."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Johanna Rauberger</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_07.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Eu não tinha experiência em programação, mas se se estiver disposto a aprender a programar, pode-se fazer tudo neste Mestrado. Pode ser intenso, mas se se for persistente, somos capazes de alcançar o nosso objetivo."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Joana Esteves</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row featurette">
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_04.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Sou arquitecto paisagista e esta licenciatura permitiu-me conciliar dois mestrados ao mesmo tempo. Com a grande quantidade de disciplinas optativas, pude escolher as mais relevantes para o meu futuro profissional. A integração da ciência de dados com as outras disciplinas ganha vida no ISA, pude inovar métodos em várias disciplinas de maneiras nunca apresentadas antes."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Vasco Florentino</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_05.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Tive uma experiência incrível no mestrado em Green Data Science no ISA. O currículo foi cuidadosamente planeado e cobriu todas as áreas essenciais de análise de dados, aprendizagem automática e programação. Os professores eram altamente conhecedores e apaixonados, e eram pacientes e compreensivos, especialmente considerando a minha experiência limitada em programação. Devo também mencionar que o próprio ISA é um lugar incrivelmente bonito para se estudar. O campus e os seus arredores criam um ambiente tranquilo e motivador para a aprendizagem. Sinto-me afortunada por fazer parte de uma comunidade académica tão vibrante, onde colegas e outras pessoas do ISA têm sido incrivelmente inspiradoras e solidárias. O senso de camaradagem e colaboração entre todos no ISA realmente aprimorou a minha experiência geral."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Aziza Tanfous</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2023-05/student_06.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"Sou Licenciado em Engenharia Alimentar e tive a oportunidade de entrar neste Mestrado em Ciência de Dados recentemente. Esta experiência tem sido muito boa. A transição para a Ciência de Dados foi fácil, graças aos professores e ao currículo bem estruturado. A combinação de aulas teóricas e práticas permitiu-me adquirir o conhecimento necessário rapidamente, além de conseguir aplicar dados da minha área de estudo nos trabalhos e projetos que estamos a desenvolver. Estou satisfeito por ter escolhido este mestrado, pois abriu novas oportunidades que de certeza que vão aparecer no futuro, além que está muito ligada a todo o tipo de Indústria Alimentar e não só. Recomendo a todos aqueles que estão curiosos para saber como aplicar a automatização e Inteligência Artificial nas suas áreas de estudo."</p>
+
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Miguel Paulo</p>
+</div>
+</div>
+</div>
+</div>
+

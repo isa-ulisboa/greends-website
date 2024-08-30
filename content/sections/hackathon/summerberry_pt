@@ -1,0 +1,38 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h3 class="pt-4 pb-3"><span class="text-muted">Problema de Ciência de Dados:</span> Criar um modelo de previsão de curto e médio prazo para a quantidade de framboesas colhidas</h3>
+
+		<p>Prever a quantidade de frutos que podem ser colhidos semanalmente é fundamental para apoiar a gestão da produção de frutos vermelhos em estufas. Este valor é importante para planear a alocação
+de recursos humanos necessários à realização da colheita, e antever a quantidade de fruta disponível para entrega aos clientes. No caso de frutos vermelhos, que não podem ser armazenados e têm vida útil curta, a precisão
+da previsão é essencial.
+</p>
+
+		<p> O grupo Summer Berry Company (TSBCo) produz pequenos frutos durante todo o ano. A produção é realizada em túneis de estufa, que permitem condições estáveis para o crescimento das plantas. No entanto, nem todos
+fatores ambientais podem ser controlados, especialmente os meteorológicos. Isto pode ter implicações na velocidade de desenvolvimento dos frutos e quantidade produzida em cada época.</p>
+
+		<p> Neste Hackathon, foi lançado o desafio de criar um modelo de previsão de curto e médio prazo para a quantidade de framboesas colhidas. O projeto baseia a sua análise no histórico de dados colhidos
+pela empresa nas explorações agrícolas, que inclui, entre outros, dados de produção, caracterização de parâmetros fenológicos da cultura, dados meteorológicos e ambientais.</p>
+
+
+	</div>
+
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+		<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+			style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 0, 0, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/raspberries.jpg');">
+            <h1 class="mb-3 h2">Detalhes do Hackathon</h1>
+				
+            <ul class="mt-auto fw-normal list-unstyled">
+                <li class="py-0"><span class="fw-bolder">Parceiro</span>: The Summer Berry Company Portugal</li>
+				<li class="py-0"><span class="fw-bolder">Domínio</span>: Agricultura</li>
+			    <li class="py-0"><span class="fw-bolder"> Ano</span>: 2023</li>
+                <li class="pt-2"><span class="fw-bolder"> Membros da Equipa</span>: Afonso Marques, Aziza Ben Tanfous, Beatriz Cardoso, Diogo Pinto, Luís Soares, Miguel Paulo</li>
+                <li class="py-0"><span class="fw-bolder"> Orientador ISA</span>: Rui Figueira</li>
+                <li class="py-0"><span class="fw-bolder"> Orientadores Parceiro</span>: João Alves, Ana Morais</li>
+				<li class="py-2"><span class="fw-bolder"> Github</span>: <a class="text-white" href="https://github.com/isa-ulisboa/greends-hack2023-smb">https://github.com/isa-ulisboa/greends-hack2023-smb</a> (disponível em breve) </li>
+            </ul>
+
+
+		</div>
+		<!-- Jumbotron -->
+	</div>
+</div>

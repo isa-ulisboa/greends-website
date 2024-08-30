@@ -1,0 +1,9 @@
+Blocks
+
+Block layout: B5 GreenDS
+
+Main content
+  |
+  |-- carousel: custom block 'carousel'
+  |-- welcome: custom block 'welcome'
+  

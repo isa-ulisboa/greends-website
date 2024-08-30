@@ -1,0 +1,188 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h4 class="py-3"><a href="#projectos">Lista de projectos hackathon</a></h4>
+
+    <h2>Os projectos Hackathon resolvem problemas reais.<span class="text-muted"> Trabalhando em equipa, usa a Ciência
+        de Dados para resolver desafios colocados por empresas parceiras.</span></h2>
+
+    <p class="py-3">Os projectos Hackathon são uma componente essencial do mestrado <span>Green Data Science</span>. Os
+      problemas de Ciência de Dados propostos por empresas ou entidades são trabalhados por equipas de pelo menos cinco
+      alunos, proporcionando uma experiência de trabalho real. A palavra Hackathon tem origem em
+      <em>hacker+marathon</em>, o que significa desafio para atingir a meta!</p>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="card h-100 p-4 bg-light border rounded-3"><svg class="bi bi-person-workspace" fill="currentColor"
+            height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"> </path>
+            <path
+              d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.4 5.4 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2z">
+            </path>
+          </svg>
+
+          <h3 class="py-3">Benefícios dos Projectos Hackathon</h3>
+
+          <ul>
+            <li>trabalhar com problemas reais</li>
+            <li>aplicar e praticar as capacidades adquiridas em problemas complexos</li>
+            <li>trabalhar em equipas colaborativas</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="pt-5 pb-3"><svg class="bi bi-question-circle-fill" fill="currentColor" height="28" viewbox="0 0 16 16"
+        width="28" xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M5.496 6.033h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286a.237.237 0 0 0 .241.247m2.325 6.443c.61 0 1.029-.394 1.029-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94 0 .533.425.927 1.01.927z">
+        </path>
+      </svg> Quero propor um problema de ciência de dados!</h3>
+
+    <p><span class="pt-5">Se, na sua empresa ou entidade, tiver um problema com potencial de aplicação de ciência de
+        dados, e quiser que ele seja resolvido por uma das equipas do hackathon, pode tornar-se uma empresa ou entidade
+        parceira do <span class="green-ds-name">Green Data Science</span>. Veja como em <a
+          href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/parcerias">PARCERIAS</a>.</span></p>
+  </div>
+
+  <div class="col-md-4 mt-3"><img class="img-fluid"
+      src="https://www.isa.ulisboa.pt/files/courses/pub/mcdaafa/poster_1.jpg" /></div>
+</div>
+
+<div class="row featurette">
+  <style type="text/css">
+    .truncate-text {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      -webkit-line-clamp: 5;
+      /* Number of lines to show */
+    }
+  </style>
+  <h1 class="pt-5 pb-3" id="projectos">Lista dos projectos Hackathon</h1>
+
+  <p>Os seguintes projectos foram desenvolvidos pelas equipas do Hackathon</p>
+
+  <div class="card mb-12 border-0 ">
+    <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+      <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+          src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/raspberries.jpg" />
+      </div>
+
+      <div class="col-md-6 bg-light">
+        <div class="card-body ">
+          <p class="card-text ">&nbsp;</p>
+
+          <h3 class="green-ds-name">Desafio de previsão da colheita de framboesa</h3>
+
+          <div class="row py-2">
+            <div class="col-md-6"><span class="fw-bolder">Parceiro</span>: The Summer Berry Company Portugal</div>
+
+            <div class="col-md-6"><span class="fw-bolder">Domínio</span>: Agricultura</div>
+          </div>
+
+          <div class="row py-2">
+            <div class="col-md-12"><span class="fw-bolder">Ano</span>: 2023</div>
+          </div>
+          <span class="truncate-text">Prever a quantidade de frutos que podem ser colhidos semanalmente é fundamental
+            para apoiar a gestão da produção de frutos vermelhos em estufas. Este valor é importante para planear a
+            alocação de recursos humanos necessários à realização da colheita, e antever a quantidade de fruta
+            disponível para entrega aos clientes. No caso de frutos vermelhos, que não podem ser armazenados e têm vida
+            útil curta, a precisão da previsão é essencial. O grupo Summer Berry Company (TSBCo) produz pequenos frutos
+            durante todo o ano. A produção é realizada em túneis de estufa, que permitem condições estáveis para o
+            crescimento das plantas. No entanto, nem todos fatores ambientais podem ser controlados, especialmente os
+            meteorológicos. Isto pode ter implicações na velocidade de desenvolvimento dos frutos e quantidade produzida
+            em cada época. Neste Hackathon, foi lançado o desafio de criar um modelo de previsão de curto e médio prazo
+            para a quantidade de framboesas colhidas. O projeto baseia a sua análise no histórico de dados colhidos pela
+            empresa nas explorações agrícolas, que inclui, entre outros, dados de produção, caracterização de parâmetros
+            fenológicos da cultura, dados meteorológicos e ambientais. Team Members Afonso Marques, Aziza Ben Tanfous,
+            Beatriz Cardoso, Diogo Pinto, Luís Soares, Miguel Paulo Faculty advisor Rui Figueira Partner advisor João
+            Alves, Ana Morais github repository https://github.com/isa-ulisboa/greends-hack2023-smb</span>
+
+          <p>&nbsp;</p>
+
+          <p class="pt-2"><a class="card-link" href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/46">Ver
+              detalhes</a></p>
+
+          <p class="pt-3 fs-6"><small>Foto por <a
+                href="https://unsplash.com/@zachinglis?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Zach
+                Inglis</a> na <a
+                href="https://unsplash.com/photos/macro-photography-of-raspberry-fruits-t0A2NCMhXRQ?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-12 border-0 ">
+    <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+      <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+          src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg" />
+      </div>
+
+      <div class="col-md-6 bg-light">
+        <div class="card-body ">
+          <p class="card-text ">&nbsp;</p>
+
+          <h3 class="green-ds-name">Priorização de ocorrências e alocação de meios de combate a incêndios florestais
+          </h3>
+
+          <div class="row py-2">
+            <div class="col-md-6"><span class="fw-bolder">Parceiro</span>: ANEPC – FEPC</div>
+
+            <div class="col-md-6"><span class="fw-bolder">Domínio</span>: Gestão de fogos florestais</div>
+          </div>
+
+          <div class="row py-2">
+            <div class="col-md-12"><span class="fw-bolder">Ano</span>: 2023</div>
+          </div>
+          <span class="truncate-text">Portugal é um país que tem sido gravemente afetado por incêndios nas últimas
+            décadas, que geram elevados impactos sociais, económicos e ambientais. Existem vários fatores que contribuem
+            para esta realidade: (1) o território com elevado abandono rural, que aliado à baixa rentabilidade dos
+            espaços rurais, cria uma paisagem inflamável, com elevada continuidade e quantidade de combustível; (2) o
+            clima favorável condições, especialmente durante o verão, agravadas pelas alterações climáticas; (3) um
+            elevado número de ignições promovida por uma cultura de uso negligente do fogo. Os incêndios que geram maior
+            área queimada e impactos negativos geralmente concentram-se num período de 10 a 15 dias. Este facto introduz
+            complexidade na gestão do fogo, uma vez que grandes incêndios são muitas vezes acompanhado por
+            simultaneidade (ou seja, várias ocorrências ocorrendo ao mesmo tempo) e alta dispersão pelo território
+            nacional. Neste contexto, a gestão da supressão de incêndios é uma tarefa complexa que requer conhecimentos,
+            ferramentas e esforços concertados de todos os envolvidos. Isto deve levar em conta as condições ambientais
+            que influenciam o desenvolvimento dos incêndios, mas também a heterogeneidade espacial, temporal e de
+            capacidade dos incêndios. recursos disponíveis para o combate. Para melhorar o sistema de combate a
+            incêndios florestais, é importante aumentar a eficácia na resposta. Esta melhoria pode passar pela promoção
+            de medidas de antevisão, que promovam a gestão eficaz dos recursos, mantendo o equilíbrio do sistema de
+            combate (ou seja, evitando o seu colapso). A possibilidade de prever o tipo de evento, com base na análise
+            do histórico de ocorrências, é um elemento importante no apoio às decisões de gestão de recursos. Neste
+            Hackathon, o desafio é prever a probabilidade de um novo evento de incêndio florestal escapar ao ataque
+            inicial que permite extingui-lo em 90 minutos, atendendo ao terreno e às condições meteorológicas associadas
+            à ocorrência. O objetivo é também identificar quais os fatores que determinam que um fogo florestal possa
+            escapar a este ataque inicial. Para este projecto foram utilizados dados históricos sobre ocorrências em
+            Portugal desde 2018, incluindo dados operacionais, dados meteorológicos e dados geográficos. Team Members
+            António Lacerda, Benjamin Hilliger, Christoph Fischer, Inês Silveira, Joana Esteves, Johanna Rauberger,
+            Vasco Florentino Faculty advisor Akli Benali, Rui Figueira Partner advisor Fábio Silva, Alexandre Penha,
+            Carlos Mota github repository https://github.com/isa-ulisboa/greends-hack2023-wildfire</span>
+
+          <p>&nbsp;</p>
+
+          <p class="pt-2"><a class="card-link" href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/47">Ver
+              detalhes</a></p>
+
+          <p class="pt-3 fs-6"><small>Foto por <a
+                href="https://unsplash.com/pt-br/@egor_vikhrev?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Egor
+                Vikhrev</a> na <a
+                href="https://unsplash.com/pt-br/fotografias/silhueta-das-arvores-durante-a-noite--E6jqIGzgOY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row featurette">
+  <h1 class="pt-5 pb-3">Lista de workshops Hackathon</h1>
+
+  <ul>
+    <li>2023 - Data Science Hackathon Workshop: <strong><span><a
+            href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/node/33">DESAFIOS E RESOLUÇÃO DE PROBLEMAS
+            COM CIÊNCIA DE DADOS EM RECURSOS NATURAIS E AMBIENTE</a></span></strong>, 6 de outubro de 2023.</li>
+  </ul>
+</div>

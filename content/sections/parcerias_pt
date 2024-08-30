@@ -1,0 +1,122 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h2>Ser parceiro do Green Data Science.<span class="text-muted"> Estreitar a ligação da Ciência de Dados com as
+				empresas e entidades.</span></h2>
+
+		<p>Ao ser parceiro do <span>Green Data Science</span>, as entidades ou empresas podem contribuir para a formação
+			de profissionais preparados para resolver problemas reais nas áreas de formação do mestrado. Isto permite às
+			organizações avançar mais rapidamente na transformação digital em curso, possibilitando que os desafios de
+			gestão e análise de dados dos seus processos de produção e gestão possam ser alvo de atenção durante a
+			formação prática do mestrado. Os alunos graduados do <span>Green Data Science</span> estarão, deste modo,
+			aptos a contribuir imediatamente para a melhoria e ganho de eficiência que a ciência de dados pode
+			proporcionar. Os parceiros podem colaborar de diversas formas:</p>
+
+		<ul>
+			<li>Fornecer casos de uso para Projecto Hackathon</li>
+			<li>Apresentar Seminários sobre a actividade e experiência com Ciência de Dados</li>
+			<li>Acolher estágios ou dissertações</li>
+			<li>Proporcionar a formação dos seus colaboradores</li>
+		</ul>
+
+		<h3 id="hackathon" class="pt-4 pb-2">Apresente-nos o seu caso de uso para ser trabalhado num <strong>Projecto
+				Hackaton</strong>
+		</h3>
+
+		<p>Em <strong>Projecto Hackathon</strong>, os alunos realizam um projecto proposto
+			pelas empresas parceiras, na modalidade de hackathon. São formadas equipas com pelo menos cinco alunos, que
+			desenvolvem as diferentes fases da metodologia de ciência de dados, desde a formulação
+			do problema, à aquisição e gestão dos dados, visualização e análise dos dados, modelação
+			e aplicação de métodos de <i>machine learning</i>, e apresentação/<i>story telling</i>
+			do caso de uso. As entidades que apresentam o caso de uso fazem o acompanhamento do
+			projecto enquanto especialistas, contribuindo para a apresentação e análise do problema, e para a validação
+			da solução.</p>
+
+		<h4 class="pt-3 pb-3">O que é necessário para apresentar uma proposta de <strong>Projecto Hackaton</strong>?</h4>
+
+		<p>Para um Projecto Hackathon de sucesso, é necessário que a proposta esteja associada a:
+		<ul>
+			<li>Um problema no âmbito da ciência de dados. Caso tenha dúvidas sobre a adequação do problema, <a
+					href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/partners-proposals">contacte-nos</a>;
+			</li>
+			<li>Um conjunto de dados pré-existentes. Os dados não precisam de estar organizados, o que pode ser um dos
+				objectivos/resultados do hackathon;</li>
+			<li>A disponibilidade para desempenhar o papel de especialista sobre o tópico do problema, para acompanhar o projecto e validar os
+				resultados;</li>
+		</ul>
+
+		</p>
+
+		<p>Cada projecto Hackathon tem a duração de 8 a 12 semanas, e inclui um pelo menos workshop initial e um
+			workshop final.
+			Durante o hackathon, as equipas trabalham em ambiente remoto, mas com forte recurso a ferramentas online de
+			partilha de código, documentação, discussão e reunião. O progresso e planeamento é avaliado através de
+			reuniões semanais.
+			Os trabalhos são acompanhados por um professor ou investigador do ISA, e por um mentor da entidade parceira.
+		</p>
+
+		<p>Veja os <a href="node/43#projectos">projectos já realizados</a>.</p>
+
+		<p><a class="btn btn-outline-secondary"
+				href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+				type="button">Submeta uma proposta de hackathon</a></p>
+
+		<h3 class="pt-4 pb-3">Participar em <strong>Seminários</strong> integrados nas unidades curriculares</h3>
+
+		<p>A experiência e aplicação é muito importante para os nossos alunos. Através da apresentação de um Seminário,
+			integrado nas unidades curriculares do nosso curso, queremos promover o contacto entre os alunos e os
+			profissionais das diferentes áreas de aplicação, promovendo o saber fazer através do seu <em>expertise</em>.
+		</p>
+
+		<p><a class="btn btn-outline-secondary"
+				href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+				type="button">Submeta um tópico para um seminar</a></p>
+
+		<h3 class="pt-4 pb-3">Acolher estágios ou dissertações</h3>
+
+		<p>O acolhimento de estágios ou dissertações proporciona oportunidades de inovação através da criação de novo
+			conhecimento e sua aplicação. Esta fase da graduação permitem explorar problemas, testar pilotos ou apoiar a
+			implementação de soluções, num contexto de forte proximidade entre o meio universitário e a realidade
+			empresarial. Existe, assim, um elevado potencial de ganho por parte dos parceiros que se proponham acolher
+			estágios ou dissertações, beneficiando da transferência de tecnologia ou conhecimento ajustado à realidade
+			dos seus processos.</p>
+
+		<p><a class="btn btn-outline-secondary"
+				href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+				type="button">Submeta uma proposta</a></p>
+
+		<h3 class="pt-4 pb-3">Proporcionar a pós-graduação dos seus colaboradores</h3>
+
+		<p>O mestrado Green Data Science dá especial atenção à formação ao longo da vida. O horário do curso é misto,
+			tornando possível realizar a formação enquanto se mantém a actividade profissional. Adicionalmente, a forte
+			componente prática das matérias de ciência de dados permite que os alunos testem essa aprendizagem sobre os
+			seus próprios interesses e necessidades de aplicação. Ao possibilitar a formação dos seus colaboradores, as
+			empresas ou entidades, contribuem não apenas para a valorização dos seus quadros, como possibilitam a
+			aquisição de conhecimento ajustado às suas necessidades específicas.</p>
+
+		<p><a class="btn btn-outline-secondary" href="./contacto" type="button">Torne-se parceiro</a></p>
+	</div>
+
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+		<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+			style="background-image: url('./sites/default/files/2022-05/curriculum.jpg');">
+			<h1 class="mb-3 h2">Seja parceiro</h1>
+
+			<ul class="mt-auto fw-bold">
+				<li class="me-auto pt-3">Contribua conforme a sua preferência:
+					<ul>
+						<li>proponha problemas para projectos Hackathon,</li>
+						<li>apresente um seminário,</li>
+						<li>acolha um estágio ou dissertação;</li>
+					</ul>
+				</li>
+				<li class="me-auto pt-3">Potencie a inovação e transferência de conhecimento;</li>
+				<li class="me-auto pt-3">Promova a formação dos seus colaboradores.</li>
+			</ul>
+
+			<p class="pt-3"><a class="btn btn-outline-light"
+					href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+					type="button">Torne-se parceiro</a></p>
+		</div>
+		<!-- Jumbotron -->
+	</div>
+</div>

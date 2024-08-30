@@ -1,0 +1,117 @@
+<div class="row featurette">
+	<div class="col-md-7">
+		<h2>Being a partner of Green Data Science.<span class="text-muted"> Strengthening the connection of Data Science
+				with companies and entities.</span></h2>
+
+		<p>By being a partner of <span>Green Data Science</span>, entities or companies can contribute to the training
+			of professionals prepared to solve real problems in the areas of Master's training. This allows
+			organizations to advance more quickly in the ongoing digital transformation, allowing the challenges of
+			management and data analysis of their production and management processes to be the focus of attention
+			during the practical training of the master. Graduates of <span>Green Data Science</span> will, therefore,
+			be able to immediately contribute to the improvement and efficiency gains that data science can provide.
+			Partners can collaborate in several ways:</p>
+
+		<ul>
+			<li>Provide use cases for Hackathon Project</li>
+			<li>Presenting Seminars on Data Science activity and experience</li>
+			<li>Hosting internships or dissertations</li>
+			<li>Providing the training of its employees</li>
+		</ul>
+
+		<h3 class="en-4 pb-3">Introduce us your use case to be a subject of a <strong>Hackathon Project</strong></h3>
+
+		<p>In <strong>Hackathon Project</strong>, students carry out a project proposed by partner companies, as a
+			hackathon. Teams are formed to develop the different phases of the data science methodology, from problem
+			formulation, to data acquisition and management, data visualization and analysis, modeling and application
+			of machine learning methods, and story telling of the use case. The entities that present the use case
+			follow-up the project as specialists, contributing to the presentation and analysis of the problem, and to
+			the validation of the solution.</p>
+			
+		<h4 class="pt-3 pb-3">What is needed to present a <strong>Hackaton Project</strong> proposal?</h4>
+
+		<p>For a successful Hackathon Project, the proposal must be associated with:
+			<ul>
+			<li>A problem within the scope of data science. If you have doubts about the suitability of the problem, <a
+			href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals">contact us</a>;
+			</li>
+			<li>A set of pre-existing data. The data does not need to be organized, which can one of the
+			hackathon goals/deliverables;</li>
+			<li>The availability to play the role of an expert on the topic of the problem, to monitor the project and validate the
+			results;</li>
+			</ul>
+		</p>
+
+		<p>Each Hackathon project lasts 8 to 12 weeks, and includes at least one initial workshop and one
+			final workshop.
+			During the hackathon, teams work in a remote environment, but with heavy use of online tools for
+			code sharing, documentation, discussion and meeting. Progress and planning is assessed through
+			weekly meetings.
+			The work is monitored by a professor or researcher from ISA, and by a mentor from the partner entity.
+			</p>
+			
+			<p>See the <a href="node/43#projectos">projects already carried out</a>.</p>
+
+
+		<p><a class="btn btn-outline-secondary"
+				href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals" type="button">Submit
+				a hackathon proposal</a></p>
+
+			<h3 class="pt-4 pb-3">Participate in <strong>Seminars</strong> integrated into the curricular units</h3>
+
+			<p>Experience and application is very important to our students. Through the presentation of a Seminar,
+				integrated in the curricular units of our course, we want to promote contact between students and
+				professionals from different areas of application, promoting know-how through their expertise.</p>
+
+			<p><a class="btn btn-outline-secondary"
+					href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+					type="button">Submit a seminar topic</a></p>
+
+			<h3 class="en-4 pb-3">Host internships or dissertations</h3>
+
+			<p>Hosting internships or dissertations provides opportunities for innovation through the creation of new
+				knowledge and its application. This graduation phase allows you to explore problems, test pilots or
+				support the implementation of solutions, in a context of strong proximity between the university
+				environment and the business reality. There is, therefore, a high potential for gain on the part of
+				partners who propose to host internships or dissertations, benefiting from the transfer of technology or
+				knowledge adjusted to the reality of their processes.</p>
+
+			<p><a class="btn btn-outline-secondary"
+					href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+					type="button">Submit a proposal</a></p>
+
+			<h3 class="pt-4 pb-3">Providing postgraduate training for its employees</h3>
+
+			<p>The Green Data Science Master gives special attention to lifelong learning. The course schedule is mixed,
+				making it possible to carry out training while maintaining professional activity. Additionally, the
+				strong hands-on component of data science subjects allows students to test this learning against their
+				own interests and application needs. By enabling the training of their employees, companies or entities
+				not only contribute to the enhancement of their staff, but also enable the acquisition of knowledge
+				adjusted to their specific needs.</p>
+
+			<p><a class="btn btn-outline-secondary" href="./contacto" type="button">Become a partner</a></p>
+	</div>
+
+	<div class="col-md-4 mt-3"><!-- Jumbotron -->
+		<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+			style="background-image: url('../sites/default/files/2022-05/curriculum.jpg');">
+			<h1 class="mb-3 h2">Being partner</h1>
+
+			<ul class="mt-auto fw-bold">
+				<li class="me-auto en-3">Contribute according to your preference:
+					<ul>
+						<li>propose problems for Hackathon projects,</li>
+						<li>present a seminar,</li>
+						<li>host an internship or dissertation;</li>
+					</ul>
+				</li>
+				<li class="me-auto en-3">Power innovation and knowledge transfer;</li>
+				<li class="me-auto en-3">Promote the training of your employees.</li>
+			</ul>
+
+			<p class="pt-3"><a class="btn btn-outline-light"
+					href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners-proposals"
+					type="button">Become a partner</a></p>
+		</div>
+		<!-- Jumbotron -->
+	</div>
+</div>

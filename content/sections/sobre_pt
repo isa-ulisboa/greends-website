@@ -1,0 +1,64 @@
+<div class="row featurette">
+<div class="col-md-7">
+<h2 class="featurette-heading py-3">Ciência de Dados em Agricultura, Alimentação, Floresta e Ambiente. <span class="text-muted">Um mestrado para a transição digital...</span></h2>
+
+<p>O mestrado <span class="green-ds-name">Green Data Science</span> forma profissionais especializados na aplicação da Ciência de Dados às áreas de produção e gestão dos recursos naturais e do ambiente. O programa é especialmente atractivo para novos estudantes que querem construir uma carreira em ciência de dados aplicada, mas também para profissionais no activo que procurem novas competências para melhorar o desempenho e eficiência na sua actividade em agricultura, alimentação, florestas e ambiente.</p>
+
+<h3 class="pt-4 pb-3">Aprender técnicas de análise de dados e ciências da computação para aplicar aos problemas reais</h3>
+
+<p>São gerados, cada vez mais, grandes volumes de dados (Big Data) através do uso de novas tecnologias (sensores e IoT, imagens de satélite, dados ambientais) na agricultura de precisão, gestão de cadeias alimentares, monitorização ambiental, ou outras. Para processar e analisar estas grandes quantidades de dados, são necessários quadros que utilizem as metodologias da ciência de dados, articulado com um profundo conhecimento científico e experiência técnica nos domínios de aplicação. Por exemplo, um engenheiro agrónomo conhecedor da dinâmica de uma praga de uma cultura poderá identificar melhor que parâmetros monitorizar num sistema de alerta baseado em inteligência artificial.</p>
+
+<p>As áreas do ambiente, agricultura, florestas e biodiversidade são particularmente <strong>desafiantes para o acesso e análise de informação</strong> porque: i) os sistemas são <strong>intrinsecamente multidimensionais</strong>, obrigando à procura de soluções multivariadas e ii) as <strong>tipologias de informação são muito diversas</strong>, obrigando ao cruzamento de dados biológicos e agronómicos, ambientais, geográficos, remotos, climáticos, socio-económicos, etc., frequentemente com dimensões que requerem o suporte de ferramentas de big data.</p>
+
+<p>Os graduados deste curso <strong>actuam na interface entre as ciências agrárias, florestais, ambientais e alimentação e a aplicação da inteligência artificial e aprendizagem automática</strong>, potenciando a capitalização dos dados e informação no apoio à decisão, com ganhos de eficiência e sustentabilidade.</p>
+
+<h3 class="pt-4 pb-3">Para estudantes de diferentes áreas de conhecimento</h3>
+
+<p>O mestrado permite a aprendizagem dos pilares fundamentais da ciência de dados associado ao aprofundamento das áreas de aplicação em agronomia, alimentação, florestas e ambiente. É destinado, por isso, a alunos de uma ampla gama de áreas, em particular:</p>
+
+<ul>
+	<li>os alunos com licenciaturas em ciências agrárias, florestais, ambientais, biologia e outras, os quais têm a possibilidade de aprofundar os seus conhecimentos nessas áreas de aplicação, mas com um foco particular sobre as vertentes de análise e computação da informação.</li>
+	<li class="pt-3">os profissionais destas áreas já no activo que, através da formação ao longo da vida, procuram adquirir novas competências, beneficiando fortemente do carácter aplicado do mestrado, o qual dará enquadramento às questões baseadas na sua experiência.</li>
+</ul>
+<a class="btn btn-outline-secondary" href="./curriculum" type="button">Ver curriculum</a><a class="btn btn-outline-secondary" href="./candidatura" type="button">Mais sobre candidatura</a></div>
+
+<div class="col-md-4 mt-3"><!-- Jumbotron -->
+<div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white" style="background-image: url('./sites/default/files/2022-05/code_0.jpg');">
+<h1 class="mb-3 h2">Destaques</h1>
+
+<ul class="mt-auto fw-bold">
+	<li class="me-auto pt-3">Desenvolve competências de aplicação da Ciência de Dados aos processos de produção e gestão sustentável dos recursos naturais;</li>
+	<li class="me-auto pt-3">Baseado na larga experiência e saber do ISA;</li>
+	<li class="me-auto pt-3">Ensino com forte vertente prática e de aplicação;</li>
+	<li class="me-auto pt-3">Com estreita ligação a entidades e empresas.</li>
+</ul>
+</div>
+
+<div class="bg-light p-3">
+<h3>Informações</h3>
+
+<ul class="list-unstyled">
+	<li>Duração: 2 anos (4 semestres), 120 ECTS</li>
+	<li>Vagas: 30</li>
+	<li>Língua: Português/Inglês</li>
+	<li>Gestão do curso: <a href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa">Fenix</a></li>
+</ul>
+
+<h3>Avaliação/Acreditação/Registo:</h3>
+
+<ul class="list-unstyled">
+	<li><a href="https://www.a3es.pt/pt/resultados-acreditacao/ciencia-de-dados-em-agricultura-alimentacao-floresta-e-ambiente">Acreditação A3ES</a></li>
+	<li>Registo DGES: R/A-Cr 165/2022</li>
+	<li>Publicação em DR: <a href="https://files.dre.pt/2s/2022/09/189000000/0010500109.pdf">Despacho n.º 11559/2022</a></li>
+</ul>
+
+<h3>Propinas anuais</h3>
+
+<ul class="list-unstyled">
+	<li>Estudantes da UE: 1250,00€</li>
+	<li>Estudantes de fora da UE: 3000,00€</li>
+</ul>
+</div>
+<!-- Jumbotron --></div>
+</div>
+

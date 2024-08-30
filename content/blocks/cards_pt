@@ -1,0 +1,41 @@
+<div>
+<h1 class="text-uppercase welcome-title pt-5 text-center">As razões do <span class="green-ds-name">Green Data Science</span></h1>
+
+<div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+<div class="col">
+<div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./sites/default/files/2022-05/gps_0.jpg');">
+<div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+<h2 class="pt-5 mt-5 mb-4 display-6 lh-1">A EVOLUÇÃO <span class="fw-bold">NECESSÁRIA</span></h2>
+
+<p>As ciências agroalimentares e ambientais são multidimensionais.A nossa ambição é preparar os profissionais capazes de lidar com essa complexidade através da aplicação da Ciência de Dados.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./pt-pt/sobre" type="button">Mais sobre o GREEN DS</a></p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./sites/default/files/2022-05/code1_0.jpg');">
+<div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+<h2 class="pt-5 mt-5 mb-4 display-6 lh-1">À PROVA DE <span class="fw-bold">FUTURO</span></h2>
+
+<p>O curriculum do Green Data Science prepara a transformação digital, capacitando para a utilização de grandes volumes de dados no suporte à decisão.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./pt-pt/curriculum" type="button">Ver curriculum</a></p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('./sites/default/files/2022-05/candidatura.jpg');">
+<div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+<h2 class="pt-5 mt-5 mb-4 display-6 lh-1">AMBIENTE IDEAL: <span class="fw-bold">ISA</span></h2>
+
+<p>O ISA é a maior e mais qualificada escola em ciências agrárias de Portugal! A larga experiência e saber proporciona o ambiente ideal para a aprendizagem aplicada da ciência de dados.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./pt-pt/node/6" type="button">Saber mais</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>

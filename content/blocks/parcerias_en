@@ -1,0 +1,14 @@
+<div class="bg-success bg-gradient text-light py-4 text-start shadow-1-strong mb-5">
+<h1 class="text-uppercase welcome-title text-light text-center pt-3">Partnerships</h1>
+
+<h3 class="py-3">Engage your company or organisation to the master's degree. Support training in Data Science applied to your area of activity.</h3>
+
+<p>Becoming a partner of <span class="green-ds-name">Green Data Science</span> creates opportunities to facilitate innovation and technology transfer, tailored to your organization's specific processes.</p>
+
+<p>The biggest benefit, however, is the training of highly qualified professionals, based on experience and application to real problems.</p>
+
+<p>Partnership can take many forms. For example, you can submit a use case for a Hackathon Project, present a seminar on the activity in your sector, host internships or dissertations and even provide training for your employees.</p>
+
+<p class="d-flex mt-auto"><a class="btn btn-outline-light me-auto" href="./en/partners" type="button">Find out more</a></p>
+</div>
+
