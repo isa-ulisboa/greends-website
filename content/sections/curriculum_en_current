@@ -107,7 +107,7 @@
 					<li>Availability of data resources;</li>
 					<li>Ethics in accessing and using information.</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-fads-exercises" target="_blank" type="button">Repository </a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/fcda-a-283463546571626" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-fads-exercises" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr data-bs-target="#r2" data-bs-toggle="collapse">
 				<td scope="row">Introduction to Python (2370)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -131,7 +131,7 @@
 					<li>Access and provide a data service (APIs);</li>
 					<li>Structuring of a program for processing in sequence and in parallel and in a grid environment.</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546570715" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-ipython" target="_blank" type="button">Repository </a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/intpy-283463546571610" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-ipython" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr data-bs-target="#r3" data-bs-toggle="collapse">
 				<td scope="row">Data Management and Storage (2371)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -159,7 +159,7 @@
 					<li>Agri-environment data resources;</li>
 					<li>Introduction to the concept of large data sets and their specificities in relation to production, storage and analysis.</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/gestadad-283463546570712" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-dms-exercises" target="_blank" type="button">Repository </a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/gestadad-283463546571604" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-dms-exercises" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr>
 				<td>Option 1</td>
@@ -203,7 +203,7 @@
 					<li>Representation of spatial data;</li>
 					<li>Creation of interactive visual information panels (dashboards).</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/avdcaamb-283463546570951" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-avcd/" target="_blank" type="button">Repository </a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/avdcaamb-283463546571684" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-avcd/" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr data-bs-target="#r5" data-bs-toggle="collapse">
 				<td scope="row">Applied Machine Learning (2373)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -229,7 +229,7 @@
 					<li>Neural networks;</li>
 					<li>Convolutional networks and deep learning for image problems.</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/aaap-283463546570956" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-pml" target="_blank" type="button">Repository </a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/aaap-283463546571672" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-pml" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr>
 				<td>Option 3</td>
@@ -274,7 +274,7 @@
 					<li>Present the student's dissertation work in a compact format, supported by advanced data visualization;</li>
 					<li>Develop presentation skills.</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/semcd-283463546570710" target="_blank" type="button">See at Fenix</a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/semcd-283463546571609" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r7" data-bs-toggle="collapse">
 				<td scope="row">Data Science Hackathon Project (2375)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -299,7 +299,7 @@
 				</ol>
 	
 				<p>These contents will be complemented with syllabus adjusted to the specific project, either from the data science skills, or from the specific components of the system under analysis.</p>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/phtcd-283463546570720" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-hackathon" target="_blank" type="button">Repository </a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/courses/phtcd-283463546571628" target="_blank" type="button">See at Fenix</a> <a class="btn btn-outline-secondary" href="https://github.com/isa-ulisboa/greends-hackathon" target="_blank" type="button">Repository </a></td>
 			</tr>
 			<tr>
 				<td>Dissertation/Project/Internship (2376)</td>
@@ -341,7 +341,7 @@
 					<li>Multiple Linear Regression (both descriptive and inferential contexts);</li>
 					<li>Analysis of Variance (introductory concepts in experimental design; Anova models for some elementary experimentaldesigns).</li>
 				</ol>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665536" target="_blank" type="button">See at Fenix</a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mea/disciplina-curricular/845481492086973" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r8" data-bs-toggle="collapse">
 				<td>Applied Operations Research (2813)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -416,7 +416,7 @@
 				<td>Portuguese</td>
 			</tr>
 			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r29">
-				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386351" target="_blank" type="button">See at Fenix</a></td>
+				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mea/disciplina-curricular/845481492086974" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r32" data-bs-toggle="collapse">
 				<td>Business Strategy and Project Evaluation (2176)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -482,7 +482,7 @@
 				<td>Portuguese</td>
 			</tr>
 			<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r28">
-				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386349" target="_blank" type="button">See at Fenix</a></td>
+				<td colspan="3"><a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mea/disciplina-curricular/845481492086971" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r30" data-bs-toggle="collapse">
 				<td>Fruit Production (1382)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
@@ -756,7 +756,7 @@
 				<h6>Syllabus</h6>
 	
 				<p>Introduction to the raster structure of multispectral data. Spatial, radiometric, spectral and temporal resolution. Color compositing and image visualization. Contrast enhancement and filtering. Pre-processing: radiometric correction and DN-to-reflectance conversion. Geometrical correction. The atmospheric effect and its correction in images. Spectral signatures: vegetation, soil, and water. Main algorithms for supervised and unsupervised classification: ISODATA, k-means, maximum likelihood, classification trees. Accuracy assessment statistics. Change detection and analysis of image time series. Vegetation indices: generic concept and specialized indices; minimization of disturbances induced by the atmosphere and soil background.</p>
-				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665533" target="_blank" type="button">See at Fenix</a></td>
+				<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mea/disciplina-curricular/845481492086963" target="_blank" type="button">See at Fenix</a></td>
 			</tr>
 			<tr data-bs-target="#r21" data-bs-toggle="collapse">
 				<td>Modelling of Forest Ecosystems (2827)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
