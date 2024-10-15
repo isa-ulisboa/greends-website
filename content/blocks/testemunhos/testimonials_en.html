@@ -1,126 +1,328 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-  <title>Bootstrap Carousel with Three Cards</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-</head>
-<body>
+    <head>
+        <title>Bootstrap Carousel with Three Cards</title>
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+        />
+    </head>
+    <body>
+        <div>
+            <h1 class="text-uppercase welcome-title pt-5 text-center">
+                What our <span class="green-ds-name">students</span> have to say
+            </h1>
+        </div>
+        <div
+            id="carouseltestimonials"
+            class="carousel slide pt-5"
+            data-bs-ride="carousel"
+        >
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2024-10/student_alicia.jpg"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "The Green Data Science course has
+                                        equipped me with data analytics skills,
+                                        enhancing my ability to interpret data
+                                        and complementing my Biology degree.
+                                        This combined expertise will be
+                                        invaluable in the future, enabling me to
+                                        address biodiversity challenges through
+                                        a data-driven approach."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Alícia Gouveia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_02.png"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "I come from an agricultural engineering
+                                        background and the choice for this
+                                        master's degree Green Data Science could
+                                        not have been a better choice, where I
+                                        combine my area of study with my passion
+                                        in technologies and process automation.
+                                        So far I am very happy with the option I
+                                        made and, for me, the word that best
+                                        describes this master would be:
+                                        challenging."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Diogo Pinto
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_03.jpeg"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "Evidence-based decision-making is
+                                        crucial to meet the needs of the world's
+                                        growing population while overcoming the
+                                        environmental crisis. By using data
+                                        science to promote sustainable resource
+                                        management, this unprecedented Master's
+                                        programme harnesses the power of today's
+                                        technologies to address the critical
+                                        global issues facing humanity."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Johanna Rauberger
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <!-- Second set of three cards -->
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_04.jpg"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "I'm from landscape architecture and
+                                        this degree allowed me to conciliate two
+                                        masters at the same time. With the wide
+                                        amount of optative disciplines, I could
+                                        pick the most relevant for my
+                                        professional future. The integration of
+                                        data science with the other disciplines
+                                        comes alive at ISA, I could innovate
+                                        methods in several disciplines in ways
+                                        never presented before."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Vasco Florentino
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_05.jpg"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "I had an amazing experience in the
+                                        master's degree program in Green Data
+                                        Science at ISA. The curriculum was
+                                        carefully planned and covered all the
+                                        essential areas of data analysis,
+                                        machine learning, and programming
+                                        skills. The professors were highly
+                                        knowledgeable and passionate, and they
+                                        were patient and understanding,
+                                        especially considering my limited coding
+                                        experience. I must also mention that ISA
+                                        itself is a remarkably beautiful place
+                                        to study. The campus and its
+                                        surroundings create a peaceful and
+                                        motivating environment for learning. I
+                                        feel fortunate to be a part of such a
+                                        vibrant academic community, where
+                                        classmates and other individuals at ISA
+                                        have been incredibly supportive and
+                                        inspiring. The sense of camaraderie and
+                                        collaboration among everyone at ISA has
+                                        truly enhanced my overall experience."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Aziza Tanfous
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
 
-<div>
-  <h1 class="text-uppercase welcome-title pt-5 text-center">What our <span class="green-ds-name">students</span> have to say</h1>
-</div>    
-<div id="carouseltestimonials" class="carousel slide pt-5" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <div class="row">
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_01.png"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"Given that I deal with data on a daily basis at my job, this 
-                Master's degree was the ideal choice to teach me how to do it correctly. The course content is highly valuable, 
-                and the schedule is ideal for working students. I had the opportunity to work on my own projects, 
-                which made it far more exciting and connected to my job."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Inês Silveira</p>        
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_06.jpg"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "I have a Degree in Food Engineering and
+                                        I had the opportunity to enter this
+                                        Master in Data Science recently. This
+                                        experience has been really good. The
+                                        transition to Data Science was easy,
+                                        thanks to the teachers and the
+                                        well-structured curriculum. The
+                                        combination of theoretical and practical
+                                        classes allowed me to acquire the
+                                        knowledge needed quickly, in addition to
+                                        being able to apply data from my area of
+                                        study in the work and projects we are
+                                        developing. I am pleased to have chosen
+                                        this master's degree, as it opened up
+                                        new opportunities that I am sure will
+                                        appear in the future, in addition to
+                                        which is closely linked to all types of
+                                        Food Industry and beyond. I recommend it
+                                        to all those who are curious to know how
+                                        apply automation and Artificial
+                                        Intelligence in their areas of study."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Miguel Paulo
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <!-- Third set of three cards -->
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_07.jpg"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "I had zero coding experience, but if
+                                        you are willing to learn to code, you
+                                        can do everything in this Master. It may
+                                        be overwhelming, but if you are
+                                        persistent, you will reach your goal."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Joana Esteves
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card border-light py-5">
+                                <img
+                                    class="rounded-circle mx-auto d-block"
+                                    src="./sites/default/files/2023-05/student_01.png"
+                                    width="250"
+                                    height="250"
+                                    alt="Card image"
+                                />
+                                <div class="card-body">
+                                    <p
+                                        class="card-text fst-italic py-5"
+                                        style="font-size: 1rem"
+                                    >
+                                        "Given that I deal with data on a daily
+                                        basis at my job, this Master's degree
+                                        was the ideal choice to teach me how to
+                                        do it correctly. The course content is
+                                        highly valuable, and the schedule is
+                                        ideal for working students. I had the
+                                        opportunity to work on my own projects,
+                                        which made it far more exciting and
+                                        connected to my job."
+                                    </p>
+                                    <p
+                                        class="card-text fst-italic float-end"
+                                        style="font-size: 1rem"
+                                    >
+                                        Inês Silveira
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_02.png"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"I come from an agricultural engineering background and the choice for this master's degree Green Data Science could not have been a 
-                better choice, where I combine my area of study with my passion in technologies and process automation. 
-                So far I am very happy with the option I made and, for me, the word that best describes this master would be: challenging."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Diogo Pinto</p>        
-            </div>
-          </div>
-        </div>        
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_03.jpeg"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"Evidence-based decision-making is crucial to meet the needs of the world's growing 
-                population while overcoming the environmental crisis. By using data science to promote sustainable resource management, this unprecedented 
-                Master's programme harnesses the power of today's technologies to address the critical global issues facing humanity."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Johanna Rauberger</p>        
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="row">
-        <!-- Second set of three cards -->
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_04.jpg"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"I'm from landscape architecture and this degree allowed me to conciliate two 
-                masters at the same time. With the wide amount of optative disciplines, I could pick the most relevant for my professional future. 
-                The integration of data science with the other disciplines comes alive at ISA, I could innovate methods in several disciplines 
-                in ways never presented before."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Vasco Florentino</p>        
-            </div>
-          </div>
-        </div>        
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_05.jpg"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"I had an amazing experience in the master's degree program in Green Data Science at ISA. 
-                The curriculum was carefully planned and covered all the essential areas of data analysis, machine learning, and programming skills. 
-                The professors were highly knowledgeable and passionate, and they were patient and understanding, especially considering my limited coding experience. 
-                I must also mention that ISA itself is a remarkably beautiful place to study. The campus and its surroundings create a peaceful and motivating environment for learning. 
-                I feel fortunate to be a part of such a vibrant academic community, where classmates and other individuals at ISA have been incredibly supportive and inspiring. 
-                The sense of camaraderie and collaboration among everyone at ISA has truly enhanced my overall experience."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Aziza Tanfous</p>        
-            </div>
-          </div>
-        </div>
-        
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_06.jpg"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"I have a Degree in Food Engineering and I had the opportunity to enter this
-                Master in Data Science recently. This experience has been really good. The transition to Data Science was easy,
-                thanks to the teachers and the well-structured curriculum. The combination of theoretical and practical classes allowed me to acquire the knowledge
-                needed quickly, in addition to being able to apply data from my area of study in the work and projects we are developing.
-                I am pleased to have chosen this master's degree, as it opened up new opportunities that I am sure will appear in the future, in addition to
-                which is closely linked to all types of Food Industry and beyond. I recommend it to all those who are curious to know how
-                apply automation and Artificial Intelligence in their areas of study."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Miguel Paulo</p>        
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="row">
-            <!-- Third set of three cards -->    
-        <div class="col">
-          <div class="card border-light py-5">
-            <img class="rounded-circle mx-auto d-block" src="./sites/default/files/2023-05/student_07.jpg"  width="250" height="250" alt="Card image">
-            <div class="card-body">
-              
-              <p class="card-text fst-italic py-5" style="font-size: 1rem">"I had zero coding experience, but if you are willing to learn to code, 
-                you can do everything in this Master. It may be overwhelming, but if you are persistent, you will reach your goal."</p>
-              <p class="card-text fst-italic float-end" style="font-size: 1rem">Joana Esteves</p>        
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
 </html>

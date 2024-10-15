@@ -89,5 +89,13 @@
 </div>
 </div>
 </div>
-</div>
+<div class="col">
+<div class="card border-light py-5"><img alt="Card image" class="rounded-circle mx-auto d-block" height="250" src="../sites/default/files/2024-10/student_alicia.jpg" width="250" />
+<div class="card-body">
+<p class="card-text fst-italic py-5" style="font-size: 1rem">"O mestrado Green Data Science dotou-me de valências de análise de dados, melhorando a minha capacidade de interpretar dados e complementando a minha licenciatura em Biologia. Esta experiência combinada será inestimável no futuro, permitindo-me enfrentar os desafios da biodiversidade através uma abordagem baseada em dados."</p>
 
+<p class="card-text fst-italic float-end" style="font-size: 1rem">Alícia Gouveia</p>
+</div>
+</div>
+</div>
+</div>
