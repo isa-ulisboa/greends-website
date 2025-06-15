@@ -1,0 +1,45 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Data Science problem:</span> Develop a predictive tool to streamline
+      forest inventory processes for cork oak and holm oak species identification and assessment</h3>
+
+    <p>Forest management plays a vital role in ensuring sustainable ecosystems and resources, yet traditional forest
+      inventory processes are often time-consuming and resource-intensive. Forest inventories, which involve gathering
+      and analyzing data on forest areas, are central to sustainable forest management efforts.</p>
+
+    <p>While modern inventories have begun integrating advanced technological tools such as Geographic Information
+      Systems (GIS), there remains a critical need to optimize these processes, particularly in regions where resources
+      for extensive fieldwork are limited. The AGROGES company faces significant challenges in efficiently managing
+      forest inventories for cork oak (Quercus suber) and holm oak (Quercus ilex) species.</p>
+
+    <p>Traditional methods rely heavily on manual fieldwork and statistical analysis, making the process costly and
+      time-consuming. The need for accurate tree counting, species differentiation, crown area calculation, and health
+      assessment requires a more efficient and scalable approach. In this Hackathon, the challenge was to develop a
+      Convolutional Neural Network (CNN) deep learning model capable of analyzing geospatial data to achieve multiple
+      forest management objectives: assessing tree numbers in plots, accurately mapping the presence of both oak
+      species, differentiating between cork oak and holm oak trees, calculating individual tree crown areas for resource
+      assessment, and evaluating tree health and condition to inform sustainable management practices.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(132, 106, 21, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/natacha-de-hepcee-3Rn9TQ-J1-w-unsplash.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Hackathon details</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Partner</span>: AGROGES</li>
+        <li class="py-0"><span class="fw-bolder">Domain</span>: Forestry</li>
+        <li class="py-0"><span class="fw-bolder">Year</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Team Members</span>: Dominic Welsh, Damião de Goes, Emmanuel Jesús
+          Céspedes, Miguel Ferreira</li>
+        <li class="py-0"><span class="fw-bolder">Faculty advisor</span>: Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Partner advisor</span>: Nélia Aires, Ana Filipa Filipe, Manuel Quintela
+        </li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-quercus">https://github.com/isa-ulisboa/greends-hack2024-quercus</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

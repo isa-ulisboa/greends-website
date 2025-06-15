@@ -1,0 +1,50 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Data Science problem:</span> Enhance the data pipeline and prediction
+      models for prioritizing wildfire response to improve real-time decision-making and resource management</h3>
+
+    <p>Wildfires pose a significant national challenge for Portugal due to their unpredictable nature and the multitude
+      of variables involved. Research indicates that while most fires are controlled early, a small percentage that
+      escape initial attack cause the majority of damage and burnt area.</p>
+
+    <p>Fires that escape the critical initial 90-minute window require firefighters to deploy additional resources and
+      strategies for control, often leading to larger and more devastating events. The ability to predict these
+      scenarios is crucial for improving decision-making and resource management in real-time. Building upon the
+      foundation established by the 2023 hackathon team, who successfully created an application that predicts which
+      fires to prioritize using an XGBoost machine learning model, this project focused on addressing key limitations in
+      data quantity, data pipeline quality, and prediction tool application.</p>
+
+    <p>The challenge was particularly complex as it required handling three distinct data types: meteorological data
+      (dynamic), spatial data (static), and fire occurrence data, while ensuring the system could be continuously
+      updated to maintain accuracy. In this Hackathon, the team was tasked with enhancing the existing wildfire
+      prediction system by adding new data sources, improving the data collection process for continuous model updates,
+      and developing a secondary model that operates without first-time fire support arrival information.</p>
+
+    <p>The project involved creating automated scripts for weekly data updates, cleaning, and preparation, with the goal
+      of optimizing the entire pipeline from data collection to application deployment. Given that Portugal's wildfire
+      season typically begins in July and lasts approximately 15 weeks, the enhanced system was designed to update
+      annually before fire season, with suggested data refreshes in May.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(78, 60, 0, 0.8)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Hackathon details</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Partner</span>: Autoridade Nacional de Emergência e Proteção Civil</li>
+        <li class="py-0"><span class="fw-bolder">Domain</span>: Wildfire management</li>
+        <li class="py-0"><span class="fw-bolder">Year</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Team Members</span>: Diana Martins, Inês Schwartz, Maria Dolgaya, Sofia
+          Rodrigues</li>
+        <li class="py-0"><span class="fw-bolder">Faculty advisor</span>: Akli Benali, Ana Russo, Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Partner advisor</span>: Alexandre Penha, Carlos Mota, Mário Silvestre
+        </li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-wildfire">https://github.com/isa-ulisboa/greends-hack2024-wildfire</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

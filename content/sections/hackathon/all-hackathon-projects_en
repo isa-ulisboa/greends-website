@@ -2,21 +2,19 @@
 	<div class="col-md-7">
 		<h4 class="py-3"><a href="#projectos">List of hackathon projects</a></h4>
 
-		<h2>Hackathon projects solve real problems.<span class="text-muted"> Working as a team, use Data Science to
-				solve challenges posed by partner companies.</span></h2>
+		<h2>Hackathon projects solve real problems.<span class="text-muted"> Working as a team, use Data Science to solve
+				challenges posed by partner companies.</span></h2>
 
-		<p>Hackathon projects are an essential component of the <span class="green-ds-name">Green Data Science</span>
-			master programme. Data Science problems proposed by companies or entities are worked on by teams of at least
-			five students, providing real work experience. The word <strong>Hackathon</strong> comes from
-			<em>hacker+marathon</em>, which means challenge to reach the goal!</p>
+		<p>Hackathon projects are an essential component of the <span class="green-ds-name">Green Data Science</span> master
+			programme. Data Science problems proposed by companies or entities are worked on by teams of at least five
+			students, providing real work experience. The word <strong>Hackathon</strong> comes from <em>hacker+marathon</em>,
+			which means challenge to reach the goal!</p>
 
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="card h-100 p-4 bg-light border rounded-3"><svg class="bi bi-person-workspace"
-						fill="currentColor" height="32" viewbox="0 0 16 16" width="32"
-						xmlns="http://www.w3.org/2000/svg">
-						<path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5">
-						</path>
+				<div class="card h-100 p-4 bg-light border rounded-3"><svg class="bi bi-person-workspace" fill="currentColor"
+						height="32" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg">
+						<path d="M4 16s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-5.95a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"> </path>
 						<path
 							d="M2 1a2 2 0 0 0-2 2v9.5A1.5 1.5 0 0 0 1.5 14h.653a5.4 5.4 0 0 1 1.066-2H1V3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9h-2.219c.554.654.89 1.373 1.066 2h.653a1.5 1.5 0 0 0 1.5-1.5V3a2 2 0 0 0-2-2z">
 						</path>
@@ -33,16 +31,17 @@
 			</div>
 		</div>
 
-		<h3 class="pt-5 pb-3"><svg class="bi bi-question-circle-fill" fill="currentColor" height="28"
-				viewbox="0 0 16 16" width="28" xmlns="http://www.w3.org/2000/svg">
+		<h3 class="pt-5 pb-3"><svg class="bi bi-question-circle-fill" fill="currentColor" height="28" viewbox="0 0 16 16"
+				width="28" xmlns="http://www.w3.org/2000/svg">
 				<path
 					d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M5.496 6.033h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286a.237.237 0 0 0 .241.247m2.325 6.443c.61 0 1.029-.394 1.029-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94 0 .533.425.927 1.01.927z">
 				</path>
 			</svg> I want to propose a data science problem!</h3>
 
-		<p>If, at your company or entity, you have a data science problem, and you would like it to be solved by one of
-			our hackathon teams, you can become a partner company or entity of the <span class="green-ds-name">Green
-				Data Science</span>. See how at <a href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners">PARTNERSHIPS</a>.</p>
+		<p>If, at your company or entity, you have a data science problem, and you would like it to be solved by one of our
+			hackathon teams, you can become a partner company or entity of the <span class="green-ds-name">Green Data
+				Science</span>. See how at <a
+				href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/partners">PARTNERSHIPS</a>.</p>
 	</div>
 
 	<div class="col-md-4 mt-3"><img class="img-fluid"
@@ -66,6 +65,226 @@
 	<div class="card mb-12 border-0 ">
 		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
 			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/natacha-de-hepcee-3Rn9TQ-J1-w-unsplash.jpg" />
+			</div>
+
+			<div class="col-md-6 bg-light">
+				<div class="card-body ">
+					<p class="card-text ">&nbsp;</p>
+
+					<h3 class="green-ds-name">AGROGES Quercus Project - Forest Inventory Optimization</h3>
+
+					<div class="row py-2">
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: AGROGES</div>
+
+						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Forestry</div>
+					</div>
+
+					<div class="row py-2">
+						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2024</div>
+					</div>
+					<span class="truncate-text">Forest management plays a vital role in ensuring sustainable ecosystems and
+						resources, yet traditional forest inventory processes are often time-consuming and resource-intensive.
+						Forest inventories, which involve gathering and analyzing data on forest areas, are central to sustainable
+						forest management efforts. While modern inventories have begun integrating advanced technological tools such
+						as Geographic Information Systems (GIS), there remains a critical need to optimize these processes,
+						particularly in regions where resources for extensive fieldwork are limited. The AGROGES company faces
+						significant challenges in efficiently managing forest inventories for cork oak (Quercus suber) and holm oak
+						(Quercus ilex) species. Traditional methods rely heavily on manual fieldwork and statistical analysis,
+						making the process costly and time-consuming. The need for accurate tree counting, species differentiation,
+						crown area calculation, and health assessment requires a more efficient and scalable approach. In this
+						Hackathon, the challenge was to develop a Convolutional Neural Network (CNN) deep learning model capable of
+						analyzing geospatial data to achieve multiple forest management objectives: assessing tree numbers in plots,
+						accurately mapping the presence of both oak species, differentiating between cork oak and holm oak trees,
+						calculating individual tree crown areas for resource assessment, and evaluating tree health and condition to
+						inform sustainable management practices.</span>
+
+					<p>&nbsp;</p>
+
+					<p class="pt-2"><a class="card-link"
+							href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/61">Load details</a></p>
+
+					<p class="pt-3"><small>Photo by <a
+								href="https://unsplash.com/pt-br/@hepceen?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Natacha
+								de Hepcée</a> on <a
+								href="https://unsplash.com/pt-br/fotografias/o-sol-brilha-atraves-das-folhas-de-uma-arvore-3Rn9TQ-J1-w?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="card mb-12 border-0 ">
+		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg" />
+			</div>
+
+			<div class="col-md-6 bg-light">
+				<div class="card-body ">
+					<p class="card-text ">&nbsp;</p>
+
+					<h3 class="green-ds-name">Wildfire Priority Prediction - Data Pipeline Enhancement</h3>
+
+					<div class="row py-2">
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: ANEPC</div>
+
+						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Wildfire management</div>
+					</div>
+
+					<div class="row py-2">
+						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2024</div>
+					</div>
+					<span class="truncate-text">Wildfires pose a significant national challenge for Portugal due to their
+						unpredictable nature and the multitude of variables involved. Research indicates that while most fires are
+						controlled early, a small percentage that escape initial attack cause the majority of damage and burnt area.
+						Fires that escape the critical initial 90-minute window require firefighters to deploy additional resources
+						and strategies for control, often leading to larger and more devastating events. The ability to predict
+						these scenarios is crucial for improving decision-making and resource management in real-time. Building upon
+						the foundation established by the 2023 hackathon team, who successfully created an application that predicts
+						which fires to prioritize using an XGBoost machine learning model, this project focused on addressing key
+						limitations in data quantity, data pipeline quality, and prediction tool application. The challenge was
+						particularly complex as it required handling three distinct data types: meteorological data (dynamic),
+						spatial data (static), and fire occurrence data, while ensuring the system could be continuously updated to
+						maintain accuracy. In this Hackathon, the team was tasked with enhancing the existing wildfire prediction
+						system by adding new data sources, improving the data collection process for continuous model updates, and
+						developing a secondary model that operates without first-time fire support arrival information. The project
+						involved creating automated scripts for weekly data updates, cleaning, and preparation, with the goal of
+						optimizing the entire pipeline from data collection to application deployment. Given that Portugal's
+						wildfire season typically begins in July and lasts approximately 15 weeks, the enhanced system was designed
+						to update annually before fire season, with suggested data refreshes in May.</span>
+
+					<p>&nbsp;</p>
+
+					<p class="pt-2"><a class="card-link"
+							href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/62">Load details</a></p>
+
+					<p class="pt-3"><small>Photo by <a
+								href="https://unsplash.com/pt-br/@egor_vikhrev?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Egor
+								Vikhrev</a> on <a
+								href="https://unsplash.com/pt-br/fotografias/silhueta-das-arvores-durante-a-noite--E6jqIGzgOY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="card mb-12 border-0 ">
+		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/jonathan-hislop-XSSibD1bt80-unsplash.jpg" />
+			</div>
+
+			<div class="col-md-6 bg-light">
+				<div class="card-body ">
+					<p class="card-text ">&nbsp;</p>
+
+					<h3 class="green-ds-name">irrig.ISA Dashboard - Sustainable Water Management for Irrigation</h3>
+
+					<div class="row py-2">
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: ISA</div>
+
+						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Water management for irrigation</div>
+					</div>
+
+					<div class="row py-2">
+						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2024</div>
+					</div>
+					<span class="truncate-text">Water management for irrigation represents one of the most critical challenges in
+						sustainable agriculture, particularly in Portugal where water resources require careful conservation and
+						optimization. Decades of valuable research data on water needs for key crops have been collected, but this
+						information often remains scattered across fragmented datasets, making it difficult for farmers, irrigation
+						technicians, and public administrators to access and apply this knowledge effectively in their daily
+						operations. The complexity of irrigation data, combined with the diverse needs of different stakeholders,
+						creates a significant barrier between scientific research and practical field application. Farmers need
+						clear, actionable insights to make informed decisions about when and how much to irrigate, while maintaining
+						sustainable practices that conserve water resources. The challenge extends beyond data access to encompass
+						the need for intuitive tools that can translate complex scientific information into practical guidance for
+						irrigation management. In this Hackathon, the challenge was to develop the irrig.ISA platform, a
+						comprehensive solution that addresses these challenges through three core approaches: organizing decades of
+						fragmented research datasets into a coherent and unified structure compatible with modern data frameworks;
+						creating interactive dashboards and visualizations tailored to meet diverse user needs; and ensuring the
+						platform aligns with practical requirements of end users across different sectors. The project aimed to
+						democratize access to critical irrigation data, streamline complex datasets into visually intuitive formats,
+						and promote sustainable resource management by enabling precise irrigation practices that reduce water waste
+						and enhance long-term agricultural resilience.</span>
+
+					<p>&nbsp;</p>
+
+					<p class="pt-2"><a class="card-link"
+							href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/63">Load details</a></p>
+
+					<p class="pt-3"><small>Photo by <a
+								href="https://unsplash.com/pt-br/@kahika?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jonathan
+								Hislop</a> on <a
+								href="https://unsplash.com/pt-br/fotografias/macro-tiro-de-goticulas-de-agua-na-grama-verde-XSSibD1bt80?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="card mb-12 border-0 ">
+		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/soliman-cifuentes-UpviBJC--es-unsplash.jpg" />
+			</div>
+
+			<div class="col-md-6 bg-light">
+				<div class="card-body ">
+					<p class="card-text ">&nbsp;</p>
+
+					<h3 class="green-ds-name">Eucalyptus Weevil Management - Defoliation Prediction and Biological Control
+						Optimization</h3>
+
+					<div class="row py-2">
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: RAIZ - Navigator</div>
+
+						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Forestry</div>
+					</div>
+
+					<div class="row py-2">
+						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2024</div>
+					</div>
+					<span class="truncate-text">Eucalyptus plantations represent a cornerstone of Portugal's forestry sector, with
+						Eucalyptus globulus covering approximately 845,000 hectares and constituting 26.2% of the Portuguese forest.
+						These plantations serve as the primary raw material source for the pulp and paper industry, one of the
+						country's most important economic sectors. However, defoliation caused by the Eucalyptus weevil (Gonipterus
+						platensis) poses a persistent and severe threat to plantation productivity and ecosystem health. The
+						Eucalyptus weevil, accidentally introduced to Portugal in 1995, rapidly became a major pest with larvae and
+						adults feeding on newly flushed leaves, shoots, and buds, causing trees to lose apical dominance and
+						significantly decreasing wood productivity. Despite biological control efforts using the parasitoid Anaphes
+						nitens, the effectiveness varies dramatically with environmental conditions, particularly temperature and
+						elevation. Research shows that parasitism rates drop from 70-95% at low elevations to 0-25% above 600-700m
+						altitude, while winter temperatures below 10°C result in ineffective biological control. The economic impact
+						is substantial, with weevil-induced damage causing wood losses of 648 million euros over the past 20 years
+						in Portugal. In this Hackathon, the challenge was divided into two interconnected problems addressing
+						critical gaps in eucalyptus pest management. The first problem focused on developing predictive models for
+						defoliation levels based on environmental and management variables, enabling decision-makers to anticipate
+						risks, prioritize regions for monitoring and intervention, and optimize resource allocation for pest control
+						while minimizing environmental impacts. The second problem involved analyzing temperature data from
+						2009-2011 to understand how meteorological factors affect population dynamics between the weevil and its
+						parasitoid, providing insights crucial for improving biological control strategies and determining optimal
+						conditions for natural enemy effectiveness.</span>
+
+					<p>&nbsp;</p>
+
+					<p class="pt-2"><a class="card-link"
+							href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/64">Load details</a></p>
+
+					<p class="pt-3"><small>Photo by <a
+								href="https://unsplash.com/pt-br/@aleexcif?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Soliman
+								Cifuentes</a> on <a
+								href="https://unsplash.com/pt-br/fotografias/uma-girafa-em-pe-no-meio-de-uma-floresta-UpviBJC--es?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="card mb-12 border-0 ">
+		<div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+			<div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
 					src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/raspberries.jpg" />
 			</div>
 
@@ -76,8 +295,7 @@
 					<h3 class="green-ds-name">Raspberry harvest forecasting challenge</h3>
 
 					<div class="row py-2">
-						<div class="col-md-6"><span class="fw-bolder">Partner</span>: The Summer Berry Company Portugal
-						</div>
+						<div class="col-md-6"><span class="fw-bolder">Partner</span>: The Summer Berry Company Portugal</div>
 
 						<div class="col-md-6"><span class="fw-bolder">Domain</span>: Agriculture</div>
 					</div>
@@ -85,22 +303,20 @@
 					<div class="row py-2">
 						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2023</div>
 					</div>
-					<span class="truncate-text">Predicting the quantity of fruits that can be harvested weekly is
-						essential to support the daily management of red fruit production in greenhouses. This value is
-						important for planning the allocation of human resources necessary to carry out the harvest,
-						predicting the quantity of fruit delivered to customers. In the case of red fruits, which cannot
-						be stored and have a short shelf life, the accuracy of this prediction is essential. The Summer
-						Berry Company (TSBCo) group produces small fruits throughout the year. Production is carried out
-						in greenhouse tunnels, which allow stable conditions for plant growth. However, not all
-						environmental factors can be controlled, especially meteorological ones. This may have
-						implications for the speed of fruit development and quantity produced at each time. In this
-						Hackathon, the challenge was launched to create a short and medium-term prediction model for the
-						quantity of raspberries harvested. The project bases its analysis on the history of data
-						collected by the company on agricultural holdings, which includes, among others, production
-						data, characterization of crop phenological parameters, meteorological and environmental data.
-						Team Members Afonso Marques, Aziza Ben Tanfous, Beatriz Cardoso, Diogo Pinto, Luís Soares,
-						Miguel Paulo Faculty advisor Rui Figueira Partner advisor João Alves, Ana Morais github
-						repository https://github.com/isa-ulisboa/greends-hack2023-smb</span>
+					<span class="truncate-text">Predicting the quantity of fruits that can be harvested weekly is essential to
+						support the daily management of red fruit production in greenhouses. This value is important for planning
+						the allocation of human resources necessary to carry out the harvest, predicting the quantity of fruit
+						delivered to customers. In the case of red fruits, which cannot be stored and have a short shelf life, the
+						accuracy of this prediction is essential. The Summer Berry Company (TSBCo) group produces small fruits
+						throughout the year. Production is carried out in greenhouse tunnels, which allow stable conditions for
+						plant growth. However, not all environmental factors can be controlled, especially meteorological ones. This
+						may have implications for the speed of fruit development and quantity produced at each time. In this
+						Hackathon, the challenge was launched to create a short and medium-term prediction model for the quantity of
+						raspberries harvested. The project bases its analysis on the history of data collected by the company on
+						agricultural holdings, which includes, among others, production data, characterization of crop phenological
+						parameters, meteorological and environmental data. Team Members Afonso Marques, Aziza Ben Tanfous, Beatriz
+						Cardoso, Diogo Pinto, Luís Soares, Miguel Paulo Faculty advisor Rui Figueira Partner advisor João Alves, Ana
+						Morais github repository https://github.com/isa-ulisboa/greends-hack2023-smb</span>
 
 					<p>&nbsp;</p>
 
@@ -127,8 +343,7 @@
 				<div class="card-body ">
 					<p class="card-text ">&nbsp;</p>
 
-					<h3 class="green-ds-name">Prioritization of occurrences and allocation of means to combat forest
-						fires</h3>
+					<h3 class="green-ds-name">Prioritization of occurrences and allocation of means to combat forest fires</h3>
 
 					<div class="row py-2">
 						<div class="col-md-6"><span class="fw-bolder">Partner</span>: ANEPC – FEPC</div>
@@ -139,32 +354,29 @@
 					<div class="row py-2">
 						<div class="col-md-12"><span class="fw-bolder">Year</span>: 2023</div>
 					</div>
-					<span class="truncate-text">Portugal is a country that has been severely affected by fires in recent
-						decades, which generate high social, economic and environmental impacts. There are several
-						factors that contribute to this reality: (1) territory with high rural abandonment, which
-						combined with the low profitability of rural spaces, creates a flammable landscape, with high
-						continuity and quantity of fuel; (2) favorable weather conditions, especially during summer,
-						aggravated by climate change; (3) a high number of ignitions promoted by a culture of negligent
-						use of fire. The fires that generate the largest burned area and negative impacts are usually
-						concentrated in a period of 10-15 days. This fact introduces complexity into fire management,
-						since large fires are often accompanied by simultaneity (i.e. several occurrences occurring at
-						the same time) and high geographic dispersion across the national territory. In this context,
-						fire suppression management is a complex task that requires knowledge, tools and concerted
-						efforts from all involved. This must take into account the environmental conditions that
-						influence the development of fires, but also the spatial, temporal and capacity heterogeneity of
-						resources available for fighting. In order to improve the forest fire fighting system, it is
-						important to increase the effectiveness of its response. This improvement may involve the
-						promotion of anticipatory measures, which promote more effective management of resources,
-						maintaining the balance of the combat system (i.e. avoiding its collapse). The possibility of
-						predicting the type of event, based on the analysis of the history of occurrences, is an
-						important element in supporting resource management decisions. In this Hackathon, the challenge
-						is to predict the probability of a new forest fire event escaping the initial attack that allows
-						it to be extinguished in 90 minutes, given the terrain and meteorological conditions associated
-						with the occurrence. The aim is also to identify which factors determine a forest fire to escape
-						this initial attack. For this project, historical data on occurrences in Portugal since 2018 is
-						used, including operational data, meteorological data and geographic data. Team Members António
-						Lacerda, Benjamin Hilliger, Christoph Fischer, Inês Silveira, Joana Esteves, Johanna Rauberger,
-						Vasco Florentino Faculty advisor Akli Benali, Rui Figueira Partner advisor Fábio Silva,
+					<span class="truncate-text">Portugal is a country that has been severely affected by fires in recent decades,
+						which generate high social, economic and environmental impacts. There are several factors that contribute to
+						this reality: (1) territory with high rural abandonment, which combined with the low profitability of rural
+						spaces, creates a flammable landscape, with high continuity and quantity of fuel; (2) favorable weather
+						conditions, especially during summer, aggravated by climate change; (3) a high number of ignitions promoted
+						by a culture of negligent use of fire. The fires that generate the largest burned area and negative impacts
+						are usually concentrated in a period of 10-15 days. This fact introduces complexity into fire management,
+						since large fires are often accompanied by simultaneity (i.e. several occurrences occurring at the same
+						time) and high geographic dispersion across the national territory. In this context, fire suppression
+						management is a complex task that requires knowledge, tools and concerted efforts from all involved. This
+						must take into account the environmental conditions that influence the development of fires, but also the
+						spatial, temporal and capacity heterogeneity of resources available for fighting. In order to improve the
+						forest fire fighting system, it is important to increase the effectiveness of its response. This improvement
+						may involve the promotion of anticipatory measures, which promote more effective management of resources,
+						maintaining the balance of the combat system (i.e. avoiding its collapse). The possibility of predicting the
+						type of event, based on the analysis of the history of occurrences, is an important element in supporting
+						resource management decisions. In this Hackathon, the challenge is to predict the probability of a new
+						forest fire event escaping the initial attack that allows it to be extinguished in 90 minutes, given the
+						terrain and meteorological conditions associated with the occurrence. The aim is also to identify which
+						factors determine a forest fire to escape this initial attack. For this project, historical data on
+						occurrences in Portugal since 2018 is used, including operational data, meteorological data and geographic
+						data. Team Members António Lacerda, Benjamin Hilliger, Christoph Fischer, Inês Silveira, Joana Esteves,
+						Johanna Rauberger, Vasco Florentino Faculty advisor Akli Benali, Rui Figueira Partner advisor Fábio Silva,
 						Alexandre Penha, Carlos Mota github repository
 						https://github.com/isa-ulisboa/greends-hack2023-wildfire</span>
 
@@ -188,9 +400,13 @@
 	<h1 class="pt-5 pb-3">List of Hackathon workshops</h1>
 
 	<ul>
+		<li>2024 - Data Science Hackathon Workshop: <strong><span><a
+						href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/node/50">CHALLENGES AND PROBLEM SOLVING WITH
+						DATA SCIENCE IN NATURAL RESOURCES AND ENVIRONMENT</a></span></strong>, 11th October 2024.</li>
 		<li>2023 - Data Science Hackathon Workshop: <strong><span><a
-						href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/node/33">CHALLENGES AND PROBLEM
-						SOLVING WITH DATA SCIENCE IN NATURAL RESOURCES AND ENVIRONMENT</a></span></strong>, 6th October
-			2023.</li>
+						href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/node/33">CHALLENGES AND PROBLEM SOLVING WITH
+						DATA SCIENCE IN NATURAL RESOURCES AND ENVIRONMENT</a></span></strong>, 6th October 2023.</li>
 	</ul>
+
+	<p>&nbsp;</p>
 </div>

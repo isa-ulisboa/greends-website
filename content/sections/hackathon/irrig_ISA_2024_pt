@@ -1,0 +1,47 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Problema de Data Science:</span> Transformar décadas de investigação
+      fragmentada em matéria de rega numa plataforma acessível que ajude a otimizar a rega e a apoiar práticas agrícolas
+      sustentáveis em Portugal</h3>
+
+    <p>A gestão da água na rega representa um dos maiores desafios para uma agricultura sustentável, particularmente em
+      Portugal, onde os recursos hídricos exigem uma poupança e uma otimização cuidadosas. Décadas de valiosa
+      investigação foram já realizadas, sendo que essa informação se revela muitas vezes dispersa e de difícil acesso
+      para os agricultores, os técnicos de rega e outros stakeholders.</p>
+
+    <p>A complexidade dos dados de rega, aliada às necessidades dos diferentes intervenientes, constitui uma barreira
+      importante na transferência de conhecimento da investigação para a prática. Os agricultores precisam de indicações
+      práticas para saber exatamente quando e quanto regar, enquanto se conserva a água.</p>
+
+    <p>Este desafio estende-se para além do mero acesso às fontes de informação, exigindo também o desenvolvimento de
+      ferramentas intuitivas que ajudem a aplicar o conhecimento na prática. Neste Hackathon, o desafio passou pelo
+      desenvolvimento da plataforma Irrig.ISA — uma saída que permitirá dar uma nova organização às fontes de
+      informação, mostrando-as de forma coesa, utilizando visualizações interativas facilmente interpretáveis pelos
+      diferentes intervenientes, enquanto se respeitam as exigências práticas do sector.</p>
+
+    <p>O projecto propõe assim a democratização do acesso às fontes de informação, a organização de um conjunto de dados
+      complexos de forma coesa e a promoção de um uso sustentável da água na agricultura, aumentando a eficácia da rega,
+      enquanto se poupa um recurso escasso.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(10, 255, 10, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/jonathan-hislop-XSSibD1bt80-unsplash.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Detalhes do Hackathon</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Parceiro</span>: ISA</li>
+        <li class="py-0"><span class="fw-bolder">Domínio</span>: Rega</li>
+        <li class="py-0"><span class="fw-bolder">Ano</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Membros da Equipa</span>: Filipe Felisardo, Ana Moreira, Rafael
+          Rodrigues, Rubén Torrado, Lotte van Dam</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores ISA</span>: Ana Russo, Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores Parceiro</span>: Teresa Afonso do Paço, João Rolim</li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-irrigisa">https://github.com/isa-ulisboa/greends-hack2024-irrigisa</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

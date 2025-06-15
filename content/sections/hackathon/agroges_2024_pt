@@ -1,0 +1,47 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Problema de Data Science:</span> Desenvolver uma ferramenta preditiva
+      para agilizar o inventário florestal na identificação e avaliação de sobreiro e azinheira</h3>
+
+    <p>A organização florestal desempenha um papel vital na manutenção de ecossistemas e recursos sustentáveis, sendo
+      que os processos tradicionais de inventário florestal estão muitas vezes associados a um grande dispêndio de tempo
+      e recursos. Os inventários florestais, que envolvem a recolha e a análise de dados nas florestas, estão na base de
+      uma organização florestal sustentável.</p>
+
+    <p>Apesar de já se começar a recorrer a ferramentas avançadas, como os Sistemas de Informação Geográfica (SIG),
+      ainda se verifica uma necessidade crítica de otimizar estes processos, particularmente nas regiões onde os
+      recursos para trabalho de campo são escassos. A empresa AGROGES enfrenta dificuldades na execução de inventários
+      florestais para as espécies sobreiro (Quercus suber) e azinheira (Quercus ilex).</p>
+
+    <p>Os métodos tradicionais baseiam-se fortemente no trabalho de campo manual e na análise estatística, aumentando
+      assim o custo e o tempo dispendidos. A contagem precisa de árvore, a avaliação das copas, a avaliação do seu
+      estado de saúde e a distinção de espécies exigem uma abordagem mais eficiente e escalavelmente implementável.
+      Neste Hackathon, o desafio consistiu em desenvolver um modelo de aprendizagem profunda, uma Rede Neuronal
+      Convolucional (CNN), capaz de analisar dados geoespaciais para apoiar diferentes atividades de organização
+      florestal: contar o número de árvores nas parcelas, mapear com precisão a presença de cada uma das duas espécies,
+      distinguir o sobreiro da azinheira, calcular a área das copas de cada árvore para apoiar a avaliação de recursos,
+      e avaliar o seu estado de saúde para apoiar uma organização florestal sustentável.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(132, 106, 21, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/natacha-de-hepcee-3Rn9TQ-J1-w-unsplash.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Detalhes do Hackathon</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Parceiro</span>: AGROGES</li>
+        <li class="py-0"><span class="fw-bolder">Domínio</span>: Florestal</li>
+        <li class="py-0"><span class="fw-bolder">Ano</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Membros da Equipa</span>: Dominic Welsh, Damião de Goes, Emmanuel Jesús
+          Céspedes, Miguel Ferreira</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores ISA</span>: Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores Parceiro</span>: Nélia Aires, Ana Filipa Filipe, Manuel
+          Quintela</li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-quercus">https://github.com/isa-ulisboa/greends-hack2024-quercus</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

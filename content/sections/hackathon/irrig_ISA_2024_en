@@ -1,0 +1,48 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Data Science problem:</span> Transform decades of fragmented
+      irrigation research data into an accessible platform that optimizes water management and supports sustainable
+      agricultural practices in Portugal</h3>
+
+    <p>Water management for irrigation represents one of the most critical challenges in sustainable agriculture,
+      particularly in Portugal where water resources require careful conservation and optimization. Decades of valuable
+      research data on water needs for key crops have been collected, but this information often remains scattered
+      across fragmented datasets, making it difficult for farmers, irrigation technicians, and public administrators to
+      access and apply this knowledge effectively in their daily operations. The complexity of irrigation data, combined
+      with the diverse needs of different stakeholders, creates a significant barrier between scientific research and
+      practical field application. Farmers need clear, actionable insights to make informed decisions about when and how
+      much to irrigate, while maintaining sustainable practices that conserve water resources.</p>
+
+    <p>The challenge extends beyond data access to encompass the need for intuitive tools that can translate complex
+      scientific information into practical guidance for irrigation management. In this Hackathon, the challenge was to
+      develop the irrig.ISA platform, a comprehensive solution that addresses these challenges through three core
+      approaches: organizing decades of fragmented research datasets into a coherent and unified structure compatible
+      with modern data frameworks; creating interactive dashboards and visualizations tailored to meet diverse user
+      needs; and ensuring the platform aligns with practical requirements of end users across different sectors.</p>
+
+    <p>The project aimed to democratize access to critical irrigation data, streamline complex datasets into visually
+      intuitive formats, and promote sustainable resource management by enabling precise irrigation practices that
+      reduce water waste and enhance long-term agricultural resilience.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(10, 255, 10, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/jonathan-hislop-XSSibD1bt80-unsplash.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Hackathon details</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Partner</span>: ISA</li>
+        <li class="py-0"><span class="fw-bolder">Domain</span>: Water management for irrigation</li>
+        <li class="py-0"><span class="fw-bolder">Year</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Team Members</span>: Filipe Felisardo, Ana Moreira, Rafael Rodrigues,
+          Rubén Torrado, Lotte van Dam</li>
+        <li class="py-0"><span class="fw-bolder">Faculty advisor</span>: Ana Russo, Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Partner advisor</span>: Teresa Afonso do Paço, João Rolim</li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-irrigisa">https://github.com/isa-ulisboa/greends-hack2024-irrigisa</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

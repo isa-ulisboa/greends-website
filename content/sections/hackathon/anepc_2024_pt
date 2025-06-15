@@ -1,0 +1,53 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Problema de Data Science:</span> Melhorar o pipeline de dados e os
+      modelos de previsão para apoiar a priorização da resposta a incêndios florestais, aumentando a eficácia na tomada
+      de decisão em tempo real e na organização de recursos</h3>
+
+    <p>Os incêndios florestais representam um dos maiores desafios nacionais para Portugal, dada a sua imprevisibilidade
+      e a multiplicidade de variáveis envolvidas. A investigação revela que, embora a maioria dos incêndios seja
+      controlada na fase inicial, uma pequena percentagem que escapa ao primeiro ataque é a que provoca a maior parte
+      dos danos.</p>
+
+    <p>Dados que escapam nas fases iniciais exigem que os bombeiros desloquem recursos e estratégias adicionais,
+      aumentando assim a dificuldade de controlo e os impactos. A capacidade de prever estes cenários é crucial para
+      apoiar a eficácia na organização de recursos. Com base nas fundação criada pelas equipas do hackathon de 2023, que
+      já tinham desenvolvido uma aplicação que prediz quais os incêndios que serão prioridade utilizando um modelo de
+      aprendizagem automática (XGBoost), o objetivo neste hackathon era ultrapassar algumas das limitações, nomeadamente
+      a quantidade de dados, a qualidade do pipeline de tratamento de dados e a eficácia do modelo de previsão.</p>
+
+    <p>Este era um problema particularmente complexo, já que exigia o tratamento de três tipos de dados: os dados
+      meteorológicos (dinâmicos), os dados geoespaciais (estáticos) e os registos de ocorrências de incêndios, sendo
+      ainda preciso que o modelo pudesse ser atualizado automaticamente para se manter preciso. Neste Hackathon, a
+      equipa ficou encarregue de acrescentar fontes de dados, de melhorar o pipeline de tratamento de dados para
+      atualizações contínuas, e de desenvolver um modelo secundário que funcione sem a chegada de apoio externo.</p>
+
+    <p>O trabalho incluiu a criação de procedimentos automatizados para a atualização semanal de dados, a sua limpeza e
+      tratamento, sendo o objetivo final a otimização de todo o pipeline — da recolha de dados até à aplicação. Uma vez
+      que a época de incêndios em Portugal se inicia habitualmente em julho e se prolonga por 15 semanas, o modelo
+      atualizado é atualizado anualmente, sendo sugerida uma nova atualização em maio.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(78, 60, 0, 0.8)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Detalhes do Hackathon</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Parceiro</span>: Autoridade Nacional de Emergência e Proteção Civil
+        </li>
+        <li class="py-0"><span class="fw-bolder">Domínio</span>: Combate a Incêndios Florestais</li>
+        <li class="py-0"><span class="fw-bolder">Ano</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Membros da Equipa</span>: Diana Martins, Inês Schwartz, Maria Dolgaya,
+          Sofia Rodrigues</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores ISA</span>: Akli Benali, Ana Russo, Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores Parceiro</span>: Alexandre Penha, Carlos Mota, Mário
+          Silvestre</li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-wildfire">https://github.com/isa-ulisboa/greends-hack2024-wildfire</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

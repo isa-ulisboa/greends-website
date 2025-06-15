@@ -1,0 +1,56 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Problema de Data Science:</span> Desenvolver modelos preditivos para
+      os níveis de desfolhamento de eucalipto e analisar o efecto da temperatura nas dinâmicas praga-parasitóide para
+      apoiar a organização florestal e o controlo biológico</h3>
+
+    <p>As plantações de eucalipto representam um pilar importante do sector florestal em Portugal, sendo que o
+      Eucalyptus globulus cobre aproximadamente 845 000 hectares, ou 26,2% da floresta portuguesa. Estas plantações
+      representam a principal fonte de matéria-prima para a indústria de pasta de papel, um dos sectores
+      económico-estratégicos do país. No entanto, a desfolhação causada pelo gorgulho-do-eucalipto (Gonipterus
+      platensis) representa uma séria ameaça à produção de madeira e à sanidade das florestas.</p>
+
+    <p>Este gorgulho, acidentalmente introduzido em Portugal em 1995, propagou-se rapidamente, sendo que tanto as larvas
+      como os adultos se alimentam das rebentações, rebentos e folhas, debilitando a árvore e aumentando a possibilidade
+      de dano.</p>
+
+    <p>Apesar dos esforços de controlo biológico, nomeadamente recorrendo ao parasitóide Anaphes nitens, a eficácia do
+      controlo revela-se variável. A taxa de parasitismo desce de 70-95% nas zonas de baixa altitude para 0-25% nas
+      zonas com elevação superior a 600-700m, enquanto que temperaturas de inverno inferiores a 10°C estão associadas a
+      um controle ineficaz.</p>
+
+    <p>O impacto económico é significativo, sendo que os estragos causados pelo gorgulho resultaram, nos últimos 20
+      anos, em perdas na produção de madeira na ordem dos 648 milhões de euros em Portugal. Neste Hackathon, o desafio
+      foi dividido em dois problemas relacionados.</p>
+
+    <p>O primeiro incidiu no desenvolvimento de modelos preditivos para os níveis de desfolhamento com base nas
+      condições ambientais e nas estratégias de organização florestal, permitindo assim que os decisores pudessem
+      antecipar os riscos, dar prioridade às regiones para a monitorização e a intervenção, e otimizar a afetação de
+      recursos enquanto se minimiza o impacto ambiental.</p>
+
+    <p>O segundo envolveu a análise de dados de temperaturas de 2009-2011 para compreender como as condições climáticas
+      afetam a dinâmica populacional entre o gorgulho e o seu parasitóide, sendo assim uma informação crucial para
+      apoiar o controlo biológico e determinar as condições ótimas para a eficácia do inimigo natural.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(49, 116, 47, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/soliman-cifuentes-UpviBJC--es-unsplash.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Detalhes do Hackathon</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Parceiro</span>: RAIZ - Navigator</li>
+        <li class="py-0"><span class="fw-bolder">Domínio</span>: Florestal</li>
+        <li class="py-0"><span class="fw-bolder">Ano</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Membros da Equipa</span>: Alícia Gouveia, Diogo Simão, Maria Navalho,
+          Mariana Coelho</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores ISA</span>: Manuela Branco, Ana Russo, Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Orientadores Parceiro</span>: Carlos Valente</li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-gonipterus">https://github.com/isa-ulisboa/greends-hack2024-gonipterus</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

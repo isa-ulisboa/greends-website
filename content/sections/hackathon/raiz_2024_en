@@ -1,0 +1,53 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h3 class="pt-4 pb-3"><span class="text-muted">Data Science problem:</span> Develop predictive models for eucalyptus
+      defoliation levels and analyze temperature effects on pest-parasitoid dynamics to optimize forest management and
+      biological control strategies</h3>
+
+    <p>Eucalyptus plantations represent a cornerstone of Portugal's forestry sector, with Eucalyptus globulus covering
+      approximately 845,000 hectares and constituting 26.2% of the Portuguese forest. These plantations serve as the
+      primary raw material source for the pulp and paper industry, one of the country's most important economic sectors.
+      However, defoliation caused by the Eucalyptus weevil (Gonipterus platensis) poses a persistent and severe threat
+      to plantation productivity and ecosystem health. The Eucalyptus weevil, accidentally introduced to Portugal in
+      1995, rapidly became a major pest with larvae and adults feeding on newly flushed leaves, shoots, and buds,
+      causing trees to lose apical dominance and significantly decreasing wood productivity.</p>
+
+    <p>Despite biological control efforts using the parasitoid Anaphes nitens, the effectiveness varies dramatically
+      with environmental conditions, particularly temperature and elevation. Research shows that parasitism rates drop
+      from 70-95% at low elevations to 0-25% above 600-700m altitude, while winter temperatures below 10°C result in
+      ineffective biological control.</p>
+
+    <p>The economic impact is substantial, with weevil-induced damage causing wood losses of 648 million euros over the
+      past 20 years in Portugal. In this Hackathon, the challenge was divided into two interconnected problems
+      addressing critical gaps in eucalyptus pest management.</p>
+
+    <p>The first problem focused on developing predictive models for defoliation levels based on environmental and
+      management variables, enabling decision-makers to anticipate risks, prioritize regions for monitoring and
+      intervention, and optimize resource allocation for pest control while minimizing environmental impacts.</p>
+
+    <p>The second problem involved analyzing temperature data from 2009-2011 to understand how meteorological factors
+      affect population dynamics between the weevil and its parasitoid, providing insights crucial for improving
+      biological control strategies and determining optimal conditions for natural enemy effectiveness.</p>
+  </div>
+
+  <div class="col-md-4 mt-3"><!-- Jumbotron -->
+    <div class="bg-image p-5 text-start shadow-1-strong rounded mb-5 text-white"
+      style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(49, 116, 47, 0.5)), url('https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/soliman-cifuentes-UpviBJC--es-unsplash.jpg'); background-position: center center;">
+      <h1 class="mb-3 h2">Hackathon details</h1>
+
+      <ul class="mt-auto fw-normal list-unstyled">
+        <li class="py-0"><span class="fw-bolder">Partner</span>: RAIZ - Navigator</li>
+        <li class="py-0"><span class="fw-bolder">Domain</span>: Forestry</li>
+        <li class="py-0"><span class="fw-bolder">Year</span>: 2024</li>
+        <li class="pt-2"><span class="fw-bolder">Team Members</span>: Alícia Gouveia, Diogo Simão, Maria Navalho,
+          Mariana Coelho</li>
+        <li class="py-0"><span class="fw-bolder">Faculty advisor</span>: Manuela Branco, Ana Russo, Rui Figueira</li>
+        <li class="py-0"><span class="fw-bolder">Partner advisor</span>: Carlos Valente</li>
+        <li class="py-2"><span class="fw-bolder">Github</span>: <a class="text-white"
+            href="https://github.com/isa-ulisboa/greends-hack2024-gonipterus">https://github.com/isa-ulisboa/greends-hack2024-gonipterus</a>
+        </li>
+      </ul>
+    </div>
+    <!-- Jumbotron -->
+  </div>
+</div>

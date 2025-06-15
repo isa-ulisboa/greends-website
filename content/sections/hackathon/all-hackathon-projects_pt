@@ -65,6 +65,226 @@
   <div class="card mb-12 border-0 ">
     <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
       <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+          src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/natacha-de-hepcee-3Rn9TQ-J1-w-unsplash.jpg" />
+      </div>
+
+      <div class="col-md-6 bg-light">
+        <div class="card-body ">
+          <p class="card-text ">&nbsp;</p>
+
+          <h3 class="green-ds-name">Projeto AGROGES Quercus - Otimização do Inventário Florestal</h3>
+
+          <div class="row py-2">
+            <div class="col-md-6"><span class="fw-bolder">Parceiro</span>: AGROGES</div>
+
+            <div class="col-md-6"><span class="fw-bolder">Domínio</span>: Floresta</div>
+          </div>
+
+          <div class="row py-2">
+            <div class="col-md-12"><span class="fw-bolder">Ano</span>: 2024</div>
+          </div>
+          <span class="truncate-text">A organização florestal desempenha um papel vital na manutenção de ecossistemas e
+            recursos sustentáveis, sendo que os processos tradicionais de inventário florestal estão muitas vezes
+            associados a um grande dispêndio de tempo e recursos. Os inventários florestais, que envolvem a recolha e a
+            análise de dados nas florestas, estão na base de uma organização florestal sustentável. Apesar de já se
+            começar a recorrer a ferramentas avançadas, como os Sistemas de Informação Geográfica (SIG), ainda se
+            verifica uma necessidade crítica de otimizar estes processos, particularmente nas regiões onde os recursos
+            para trabalho de campo são escassos. A empresa AGROGES enfrenta dificuldades na execução de inventários
+            florestais para as espécies sobreiro (Quercus suber) e azinheira (Quercus ilex). Os métodos tradicionais
+            baseiam-se fortemente no trabalho de campo manual e na análise estatística, aumentando assim o custo e o
+            tempo dispendidos. A contagem precisa de árvore, a avaliação das copas, a avaliação do seu estado de saúde e
+            a distinção de espécies exigem uma abordagem mais eficiente e escalavelmente implementável. Neste Hackathon,
+            o desafio consistiu em desenvolver um modelo de aprendizagem profunda, uma Rede Neuronal Convolucional
+            (CNN), capaz de analisar dados geoespaciais para apoiar diferentes atividades de organização florestal:
+            contar o número de árvores nas parcelas, mapear com precisão a presença de cada uma das duas espécies,
+            distinguir o sobreiro da azinheira, calcular a área das copas de cada árvore para apoiar a avaliação de
+            recursos, e avaliar o seu estado de saúde para apoiar uma organização florestal sustentável.</span>
+
+          <p>&nbsp;</p>
+
+          <p class="pt-2"><a class="card-link" href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/61">Ver
+              detalhes</a></p>
+
+          <p class="pt-3"><small>Foto por <a
+                href="https://unsplash.com/pt-br/@hepceen?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Natacha
+                de Hepcée</a> na <a
+                href="https://unsplash.com/pt-br/fotografias/o-sol-brilha-atraves-das-folhas-de-uma-arvore-3Rn9TQ-J1-w?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-12 border-0 ">
+    <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+      <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+          src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/forestfire_2.jpg" />
+      </div>
+
+      <div class="col-md-6 bg-light">
+        <div class="card-body ">
+          <p class="card-text ">&nbsp;</p>
+
+          <h3 class="green-ds-name">Priorização de ocorrências de Incêndios Florestais - Melhoria do Pipeline de Dados
+          </h3>
+
+          <div class="row py-2">
+            <div class="col-md-6"><span class="fw-bolder">Parceiro</span>: ANEPC</div>
+
+            <div class="col-md-6"><span class="fw-bolder">Domínio</span>: Gestão de fogos florestais</div>
+          </div>
+
+          <div class="row py-2">
+            <div class="col-md-12"><span class="fw-bolder">Ano</span>: 2024</div>
+          </div>
+          <span class="truncate-text">Os incêndios florestais representam um dos maiores desafios nacionais para
+            Portugal, dada a sua imprevisibilidade e a multiplicidade de variáveis envolvidas. A investigação revela
+            que, embora a maioria dos incêndios seja controlada na fase inicial, uma pequena percentagem que escapa ao
+            primeiro ataque é a que provoca a maior parte dos danos. Dados que escapam nas fases iniciais exigem que os
+            bombeiros desloquem recursos e estratégias adicionais, aumentando assim a dificuldade de controlo e os
+            impactos. A capacidade de prever estes cenários é crucial para apoiar a eficácia na organização de recursos.
+            Com base nas fundação criada pelas equipas do hackathon de 2023, que já tinham desenvolvido uma aplicação
+            que prediz quais os incêndios que serão prioridade utilizando um modelo de aprendizagem automática
+            (XGBoost), o objetivo neste hackathon era ultrapassar algumas das limitações, nomeadamente a quantidade de
+            dados, a qualidade do pipeline de tratamento de dados e a eficácia do modelo de previsão. Este era um
+            problema particularmente complexo, já que exigia o tratamento de três tipos de dados: os dados
+            meteorológicos (dinâmicos), os dados geoespaciais (estáticos) e os registos de ocorrências de incêndios,
+            sendo ainda preciso que o modelo pudesse ser atualizado automaticamente para se manter preciso. Neste
+            Hackathon, a equipa ficou encarregue de acrescentar fontes de dados, de melhorar o pipeline de tratamento de
+            dados para atualizações contínuas, e de desenvolver um modelo secundário que funcione sem a chegada de apoio
+            externo. O trabalho incluiu a criação de procedimentos automatizados para a atualização semanal de dados, a
+            sua limpeza e tratamento, sendo o objetivo final a otimização de todo o pipeline — da recolha de dados até à
+            aplicação. Uma vez que a época de incêndios em Portugal se inicia habitualmente em julho e se prolonga por
+            15 semanas, o modelo atualizado é atualizado anualmente, sendo sugerida uma nova atualização em maio.</span>
+
+          <p>&nbsp;</p>
+
+          <p class="pt-2"><a class="card-link" href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/62">Ver
+              detalhes</a></p>
+
+          <p class="pt-3"><small>Foto por <a
+                href="https://unsplash.com/pt-br/@egor_vikhrev?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Egor
+                Vikhrev</a> na <a
+                href="https://unsplash.com/pt-br/fotografias/silhueta-das-arvores-durante-a-noite--E6jqIGzgOY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-12 border-0 ">
+    <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+      <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+          src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/jonathan-hislop-XSSibD1bt80-unsplash.jpg" />
+      </div>
+
+      <div class="col-md-6 bg-light">
+        <div class="card-body ">
+          <p class="card-text ">&nbsp;</p>
+
+          <h3 class="green-ds-name">Dashboard irrig.ISA - Gestão Sustentável da Água para Rega</h3>
+
+          <div class="row py-2">
+            <div class="col-md-6"><span class="fw-bolder">Parceiro</span>: ISA</div>
+
+            <div class="col-md-6"><span class="fw-bolder">Domínio</span>: Rega</div>
+          </div>
+
+          <div class="row py-2">
+            <div class="col-md-12"><span class="fw-bolder">Ano</span>: 2024</div>
+          </div>
+          <span class="truncate-text">A gestão da água na rega representa um dos maiores desafios para uma agricultura
+            sustentável, particularmente em Portugal, onde os recursos hídricos exigem uma poupança e uma otimização
+            cuidadosas. Décadas de valiosa investigação foram já realizadas, sendo que essa informação se revela muitas
+            vezes dispersa e de difícil acesso para os agricultores, os técnicos de rega e outros stakeholders. A
+            complexidade dos dados de rega, aliada às necessidades dos diferentes intervenientes, constitui uma barreira
+            importante na transferência de conhecimento da investigação para a prática. Os agricultores precisam de
+            indicações práticas para saber exatamente quando e quanto regar, enquanto se conserva a água. Este desafio
+            estende-se para além do mero acesso às fontes de informação, exigindo também o desenvolvimento de
+            ferramentas intuitivas que ajudem a aplicar o conhecimento na prática. Neste Hackathon, o desafio passou
+            pelo desenvolvimento da plataforma Irrig.ISA — uma saída que permitirá dar uma nova organização às fontes de
+            informação, mostrando-as de forma coesa, utilizando visualizações interativas facilmente interpretáveis
+            pelos diferentes intervenientes, enquanto se respeitam as exigências práticas do sector. O projecto propõe
+            assim a democratização do acesso às fontes de informação, a organização de um conjunto de dados complexos de
+            forma coesa e a promoção de um uso sustentável da água na agricultura, aumentando a eficácia da rega,
+            enquanto se poupa um recurso escasso.</span>
+
+          <p>&nbsp;</p>
+
+          <p class="pt-2"><a class="card-link" href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/63">Ver
+              detalhes</a></p>
+
+          <p class="pt-3"><small>Foto por <a
+                href="https://unsplash.com/pt-br/@kahika?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jonathan
+                Hislop</a> na <a
+                href="https://unsplash.com/pt-br/fotografias/macro-tiro-de-goticulas-de-agua-na-grama-verde-XSSibD1bt80?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-12 border-0 ">
+    <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+      <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
+          src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2025-06/soliman-cifuentes-UpviBJC--es-unsplash.jpg" />
+      </div>
+
+      <div class="col-md-6 bg-light">
+        <div class="card-body ">
+          <p class="card-text ">&nbsp;</p>
+
+          <h3 class="green-ds-name">Gestão do Gorgulho do Eucalipto - Previsão da Desfolha e Otimização do Controlo
+            Biológico</h3>
+
+          <div class="row py-2">
+            <div class="col-md-6"><span class="fw-bolder">Parceiro</span>: RAIZ - Navigator</div>
+
+            <div class="col-md-6"><span class="fw-bolder">Domínio</span>: Floresta</div>
+          </div>
+
+          <div class="row py-2">
+            <div class="col-md-12"><span class="fw-bolder">Ano</span>: 2024</div>
+          </div>
+          <span class="truncate-text">As plantações de eucalipto representam um pilar importante do sector florestal em
+            Portugal, sendo que o Eucalyptus globulus cobre aproximadamente 845 000 hectares, ou 26,2% da floresta
+            portuguesa. Estas plantações representam a principal fonte de matéria-prima para a indústria de pasta de
+            papel, um dos sectores económico-estratégicos do país. No entanto, a desfolhação causada pelo
+            gorgulho-do-eucalipto (Gonipterus platensis) representa uma séria ameaça à produção de madeira e à sanidade
+            das florestas. Este gorgulho, acidentalmente introduzido em Portugal em 1995, propagou-se rapidamente, sendo
+            que tanto as larvas como os adultos se alimentam das rebentações, rebentos e folhas, debilitando a árvore e
+            aumentando a possibilidade de dano. Apesar dos esforços de controlo biológico, nomeadamente recorrendo ao
+            parasitóide Anaphes nitens, a eficácia do controlo revela-se variável. A taxa de parasitismo desce de 70-95%
+            nas zonas de baixa altitude para 0-25% nas zonas com elevação superior a 600-700m, enquanto que temperaturas
+            de inverno inferiores a 10°C estão associadas a um controle ineficaz.O impacto económico é significativo,
+            sendo que os estragos causados pelo gorgulho resultaram, nos últimos 20 anos, em perdas na produção de
+            madeira na ordem dos 648 milhões de euros em Portugal. Neste Hackathon, o desafio foi dividido em dois
+            problemas relacionados. O primeiro incidiu no desenvolvimento de modelos preditivos para os níveis de
+            desfolhamento com base nas condições ambientais e nas estratégias de organização florestal, permitindo assim
+            que os decisores pudessem antecipar os riscos, dar prioridade às regiones para a monitorização e a
+            intervenção, e otimizar a afetação de recursos enquanto se minimiza o impacto ambiental. O segundo envolveu
+            a análise de dados de temperaturas de 2009-2011 para compreender como as condições climáticas afetam a
+            dinâmica populacional entre o gorgulho e o seu parasitóide, sendo assim uma informação crucial para apoiar o
+            controlo biológico e determinar as condições ótimas para a eficácia do inimigo natural.</span>
+
+          <p>&nbsp;</p>
+
+          <p class="pt-2"><a class="card-link" href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/node/64">Ver
+              detalhes</a></p>
+
+          <p class="pt-3"><small>Foto por <a
+                href="https://unsplash.com/pt-br/@aleexcif?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Soliman
+                Cifuentes</a> na <a
+                href="https://unsplash.com/pt-br/fotografias/uma-girafa-em-pe-no-meio-de-uma-floresta-UpviBJC--es?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-12 border-0 ">
+    <div class="row g-0 overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+      <div class="col-md-3"><img alt="Thumbnail" class="img-fluid"
           src="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/sites/default/files/2024-03/raspberries.jpg" />
       </div>
 
@@ -179,6 +399,12 @@
 
 <div class="row featurette">
   <h1 class="pt-5 pb-3">Lista de workshops Hackathon</h1>
+
+  <ul>
+    <li>2024 - Data Science Hackathon Workshop: <strong><span><a
+            href="https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en/node/50">DESAFIOS E RESOLUÇÃO DE PROBLEMAS
+            COM CIÊNCIA DE DADOS EM RECURSOS NATURAIS E AMBIENTE</a></span></strong>, 11 de outubro de 2024.</li>
+  </ul>
 
   <ul>
     <li>2023 - Data Science Hackathon Workshop: <strong><span><a
