@@ -512,13 +512,13 @@
 					</td>
 				</tr>
 				<tr data-bs-target="#r27" data-bs-toggle="collapse">
-					<td>Geographic Information Systems (2888)<svg class="bi bi-chevron-down" fill="currentColor"
+					<td>Geographic Information Systems (1503)<svg class="bi bi-chevron-down" fill="currentColor"
 							height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
 							<path
 								d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"
 								fill-rule="evenodd"></path>
 						</svg></td>
-					<td>1st / 1st</td>
+					<td>1st / 2nd</td>
 					<td>Transversal</td>
 					<td>English</td>
 				</tr>
@@ -544,7 +544,7 @@
 							target="_blank" type="button">See at Fenix</a>
 					</td>
 				</tr>
-				<tr data-bs-target="#r34" data-bs-toggle="collapse">
+				<!--<tr data-bs-target="#r34" data-bs-toggle="collapse">
 				<td>Geoprocessing and Spatial Analysis <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 				<td>1st / 2nd</td>
 				<td>Transversal</td>
@@ -562,7 +562,7 @@
 					<li>Python APIs for accessing and processing online data (e.g., Google Earth Engine API). Web services and APIs.</li>
 				</ol>
 				<a class="btn btn-outline-secondary" href="#" target="_blank" type="button">Ver no Fenix</a></td>
-			</tr>
+			</tr>-->
 				<tr data-bs-target="#r29" data-bs-toggle="collapse">
 					<td>Sustainable Soil Management (2797)<svg class="bi bi-chevron-down" fill="currentColor"
 							height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">

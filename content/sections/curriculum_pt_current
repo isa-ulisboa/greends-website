@@ -295,6 +295,7 @@
 </table>
 
 <h3 class="pt-4 pb-1" id="optativas">Unidades curriculares optativas</h3>
+
 <p class="pb-3">(Todas com 6 créditos)</p>
 
 <table class="table">
@@ -346,8 +347,8 @@
 			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386403" target="_blank" type="button">Ver no Fenix</a></td>
 		</tr>
 		<tr data-bs-target="#r27" data-bs-toggle="collapse">
-			<td>Sistemas de Informação Geográfica (1503)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
-			<td>1º / 2º</td>
+			<td>Sistemas de Informação Geográfica (2888)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
+			<td>1º / 1º</td>
 			<td>Transversal</td>
 			<td>Inglês</td>
 		</tr>
@@ -369,7 +370,7 @@
 			</ol>
 			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/564006515386352" target="_blank" type="button">Ver no Fenix</a></td>
 		</tr>
-		<!--<tr data-bs-target="#r34" data-bs-toggle="collapse">
+		<tr data-bs-target="#r34" data-bs-toggle="collapse">
 			<td>Geoprocessamento e Análise Espacial <svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 			<td>1º / 2º</td>
 			<td>Transversal</td>
@@ -387,7 +388,7 @@
 				<li>APIs Python para aceder e processar dados on-line (por exemplo, API do Google Earth Engine). Serviços Web e APIs</li>
 			</ol>
 			<a class="btn btn-outline-secondary" href="#" target="_blank" type="button">Ver no Fenix</a></td>
-		</tr>-->
+		</tr>
 		<tr data-bs-target="#r29" data-bs-toggle="collapse">
 			<td>Gestão Sustentável dos Solos (2797)<svg class="bi bi-chevron-down" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"> <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" fill-rule="evenodd"></path> </svg></td>
 			<td>1º / 2º</td>
@@ -609,6 +610,7 @@
 		<tr class="collapse accordion-collapse" data-bs-parent=".table" id="r16">
 			<td colspan="3">
 			<h6>Programa</h6>
+
 			<ol>
 				<li>1. Conceitos Avançados de Sustentabilidade Ambiental</li>
 				<li>1.1. Analisar e avaliar criticamente conceitos e teorias avançadas relacionadas com a avaliação da sustentabilidade ambiental.</li>
@@ -621,9 +623,9 @@
 				<li>2.5. Avaliação de riscos ambientais e simulação.</li>
 				<li>3. Metodologias de Avaliação Ambiental suportadas em análise de ciclo de vida</li>
 				<li>3.1. Série ISO 14040 de Análise de Ciclo de Vida.</li>
-				<li>3.2. Metodologia de Análise de Ciclo de Vida e estruturas de avaliação híbridas para avaliar/reformular produtos e tecnologias. </li>
+				<li>3.2. Metodologia de Análise de Ciclo de Vida e estruturas de avaliação híbridas para avaliar/reformular produtos e tecnologias.</li>
 				<li>3.3. Análise funcional, analise de inventário, avaliação de impactes e interpretação.</li>
-				<li>3.4. Bases de dados para analisar conjuntos de dados para avaliações de sustentabilidade ambiental. Uso de software SIMAPRO e/ou outros softwares abertos apropriados. </li>
+				<li>3.4. Bases de dados para analisar conjuntos de dados para avaliações de sustentabilidade ambiental. Uso de software SIMAPRO e/ou outros softwares abertos apropriados.</li>
 			</ol>
 			<a class="btn btn-outline-secondary" href="https://fenix.isa.ulisboa.pt/degrees/mcdaafa/disciplina-curricular/282531538665766" target="_blank" type="button">Ver no Fenix</a></td>
 		</tr>
