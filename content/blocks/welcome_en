@@ -1,18 +1,28 @@
 <div id="welcome">
     <h1 class="text-uppercase welcome-title pt-5">Welcome to Master of Science in<br />
-    <span class="green-ds-name">Data Science in Agriculture, Food, Forest and Environment </span>(Green Data Science)</h1>
+        <span class="green-ds-name">Data Science in Agriculture, Food, Forest and Environment </span>(Green Data
+        Science)
+    </h1>
     <span class="subTitle1">Instituto Superior de Agronomia</span>
-    
-    <h3 class="py-3 text-danger fw-normal">First application phase for 2025/2026 will open on 3rd of March: <a class="py-3 text-secondary fw-light" href="en/application">see more information</a>.</h3>
-    
-    <h3 class="py-3">Learn Data Science applied to Agriculture, Food, Forest and Environment. <span class="text-muted">Be in the digital transition...</span></h3>
-    
-    <p>The importance of training in data science has been highlighted for its role in the economy and society, improving data-driven decision support. Globally, the demand for data scientists is high, with insufficient supply for the needs of the labor market.</p>
-    
-    <p>In the areas of application of this master's degree, there has been a growing adoption of technologies and practices based on the intensive use of data, in addition to what has already existed in some areas for years (e.g. environment).</p>
-    
-    <p>The new master's degree <em><strong>Data Science in Agriculture, Food, Forest and Environment</strong></em> aims to enable, through theoretical and practical training, the application of Data Science to food production systems, environmental quality management and natural resources.</p>
-    
-    <p>The Master Talk about the <span class="green-ds-name">Green Data Science</span> took place on 21th Mar 2024. It includes the presentation of the master's degree, and, from the 11th minute onwards, the testimony of two students, Inês Silveira (Environment Eng.) and Vasco Florentino (Landscape Architect). See the recording <a href="https://youtu.be/j--LjHX0co4?feature=shared">here</a>.</p>
+    <!--<h3 class="py-3 text-danger fw-normal">Applications for 2025/2026, 3rd phase starting on 24th July: <a class="py-3 text-secondary fw-light" href="en/application">see more information</a>.</h3>-->
+
+    <h3 class="py-3">Learn Data Science applied to Agriculture, Food, Forest and Environment. <span
+            class="text-muted">Be in the digital transition...</span></h3>
+
+    <p>The importance of training in data science has been highlighted for its role in the economy and society,
+        improving data-driven decision support. Globally, the demand for data scientists is high, with insufficient
+        supply for the needs of the labor market.</p>
+
+    <p>In the areas of application of this master's degree, there has been a growing adoption of technologies and
+        practices based on the intensive use of data, in addition to what has already existed in some areas for years
+        (e.g. environment).</p>
+
+    <p>The new master's degree <em><strong>Data Science in Agriculture, Food, Forest and Environment</strong></em> aims
+        to enable, through theoretical and practical training, the application of Data Science to food production
+        systems, environmental quality management and natural resources.</p>
+
+    <p>The Master Talk about the <span class="green-ds-name">Green Data Science</span> took place on 21th Mar 2024. It
+        includes the presentation of the master's degree, and, from the 11th minute onwards, the testimony of two
+        students, Inês Silveira (Environment Eng.) and Vasco Florentino (Landscape Architect). See the recording <a
+            href="https://youtu.be/j--LjHX0co4?feature=shared">here</a>.</p>
 </div>
-    

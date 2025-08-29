@@ -1,19 +1,28 @@
 <div id="welcome">
     <h1 class="text-uppercase welcome-title pt-5">Bem-vindo ao Mestrado em<br />
-    <span class="green-ds-name">Ciência de Dados em Agricultura, Alimentação, Floresta e Ambiente </span>(Green Data Science)</h1>
+        <span class="green-ds-name">Ciência de Dados em Agricultura, Alimentação, Floresta e Ambiente </span>(Green Data
+        Science)
+    </h1>
     <span class="subTitle1">Instituto Superior de Agronomia</span>
-    
-    <h3 class="py-3 text-danger fw-normal">Primeira fase de candidaturas para 2025/2026 abre 3 de março 2025: <a class="py-3 text-secondary fw-light" href="candidatura">ver mais informações</a>.</h3>
-    
-    <h3 class="py-3">Aprender a Ciência de Dados aplicada à Agricultura, Alimentação, Floresta e Ambiente. <span class="text-muted">Participar na transição digital...</span></h3>
+    <!--<h3 class="py-3 text-danger fw-normal">Candidaturas para 2025/2026, 3ªfase a partir de 24 de julho 2025: <a class="py-3 text-secondary fw-light" href="candidatura">ver mais informações</a>.</h3>-->
+
+    <h3 class="py-3">Aprender a Ciência de Dados aplicada à Agricultura, Alimentação, Floresta e Ambiente. <span
+            class="text-muted">Participar na transição digital...</span></h3>
     <a href="candidatura"> </a>
-    
-    <p>A importância da capacitação em ciência de dados tem sido destacada pelo seu papel na economia e sociedade, melhorando o suporte à decisão baseada em dados. Globalmente, a procura por cientistas de dados é elevada, sendo insuficiente a oferta para as necessidades do mercado de trabalho.</p>
-    
-    <p>Nas áreas de aplicação deste mestrado têm-se verificado a adopção crescente de tecnologias e práticas baseadas no uso intensivo de dados, para além do que já existe em algumas áreas desde há anos (e.g. ambiente).</p>
-    
-    <p>O novo mestrado <em><strong>Ciência de Dados em Agricultura, Alimentação, Floresta e Ambiente</strong></em> tem por objectivo capacitar, através de formação teórica e prática, a aplicação da Ciência de Dados aos sistemas de produção alimentar, gestão da qualidade ambiental e dos recursos naturais.</p>
-    
-    <p>A Master Talk sobre o <span class="green-ds-name">Green Data Science</span> decorreu a 21 Mar 2024. Inclui a apresentação do mestrado, e, a partir do 11', o testemunho de dois alunos, a Inês Silveira (Eng. Ambiente) e do Vasco Florentino (Arq. Paisagista). Vê a gravação <a href="https://youtu.be/j--LjHX0co4?feature=shared">aqui</a>.</p>
+
+    <p>A importância da capacitação em ciência de dados tem sido destacada pelo seu papel na economia e sociedade,
+        melhorando o suporte à decisão baseada em dados. Globalmente, a procura por cientistas de dados é elevada, sendo
+        insuficiente a oferta para as necessidades do mercado de trabalho.</p>
+
+    <p>Nas áreas de aplicação deste mestrado têm-se verificado a adopção crescente de tecnologias e práticas baseadas no
+        uso intensivo de dados, para além do que já existe em algumas áreas desde há anos (e.g. ambiente).</p>
+
+    <p>O novo mestrado <em><strong>Ciência de Dados em Agricultura, Alimentação, Floresta e Ambiente</strong></em> tem
+        por objectivo capacitar, através de formação teórica e prática, a aplicação da Ciência de Dados aos sistemas de
+        produção alimentar, gestão da qualidade ambiental e dos recursos naturais.</p>
+
+    <p>A Master Talk sobre o <span class="green-ds-name">Green Data Science</span> decorreu a 21 Mar 2024. Inclui a
+        apresentação do mestrado, e, a partir do 11', o testemunho de dois alunos, a Inês Silveira (Eng. Ambiente) e do
+        Vasco Florentino (Arq. Paisagista). Vê a gravação <a
+            href="https://youtu.be/j--LjHX0co4?feature=shared">aqui</a>.</p>
 </div>
-    
